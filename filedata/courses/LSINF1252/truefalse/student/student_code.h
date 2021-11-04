@@ -1,1 +1,0 @@
-int student_code(int argc, char ** argv);
