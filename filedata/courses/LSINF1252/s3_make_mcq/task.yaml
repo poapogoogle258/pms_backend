@@ -1,0 +1,69 @@
+accessible: false
+author: ''
+context: '*Estimated time: 15 minutes*'
+environment: cpp
+evaluate: best
+groups: false
+limits:
+    memory: '100'
+    time: '30'
+    output: '2'
+name: '[S4] make more basics - multiple choice questions'
+network_grading: false
+order: 44
+problems:
+    m1:
+        name: Using a variable in a Makefile
+        answer: $(CC)
+        type: match
+        header: |-
+            In your Makefile, you have the following variable definition:
+
+            .. code-block:: console
+
+                CC = gcc
+
+            What do you type to use it in other parts of your Makefile?
+    q1:
+        name: Linking
+        choices:
+        -   text: gcc -o test test.o -lcunit
+            valid: true
+        -   text: gcc -c test.o -lcunit
+            valid: true
+        -   feedback: 'The name of the executable is missing and the '
+            text: gcc -o test.o
+        limit: 0
+        multiple: true
+        type: multiple_choice
+        header: Select all *correct* answers related to the linking of the `CUnit`
+            library in a Makefile recipe.
+    q2:
+        answer: '  valgrind --leak-check=full --show-leak-kinds=all program'
+        name: Valgrind
+        header: |-
+            You want to check for leaks in your code ``program`` with valgrind. What option(s) do you use to report all possible memory leaks of ``program`` in full detail?
+
+            Write the whole command you want to output, for instance     :
+
+            ``valgrind --option-name program``
+        type: match
+stored_submissions: 0
+submission_limit:
+    amount: -1
+    period: -1
+tags:
+    '0':
+        visible: true
+        id: make
+        name: make & Makefile
+        description: Tasks related to the make task runner for targets described in
+            Makefile.
+        type: 0
+    '1':
+        type: 2
+        visible: true
+        name: S3
+        description: ''
+        id: ''
+weight: 1.0

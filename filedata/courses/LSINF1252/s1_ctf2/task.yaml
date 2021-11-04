@@ -1,0 +1,39 @@
+accessible: true
+author: Tom Rousseaux
+context: Téléchargez `cette archive <https://inginious.info.ucl.ac.be/course/LSINF1252/s1_ctf2/CTF2.tar.gz>`_.
+    Placez son contenu dans un dossier de votre choix, lisez le fichier ``FirstMission``
+    et suivez les consignes.
+environment: cpp
+evaluate: best
+groups: false
+limits:
+    time: '30'
+    memory: '100'
+    output: '2'
+name: '[S1] Capture The Flag 2'
+network_grading: false
+order: 9
+problems:
+    q1:
+        name: ''
+        type: match
+        answer: ''
+        header: ''
+stored_submissions: 0
+submission_limit:
+    amount: -1
+    period: -1
+tags:
+    '0':
+        description: ''
+        visible: true
+        name: Command line
+        type: 2
+        id: ''
+    '1':
+        description: ''
+        type: 2
+        name: S1
+        visible: true
+        id: ''
+weight: 1.0

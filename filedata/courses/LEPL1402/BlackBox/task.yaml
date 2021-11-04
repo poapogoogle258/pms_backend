@@ -1,0 +1,73 @@
+accessible: false
+author: Yakoub J, Rucquoy A, Maris L
+categories:
+- module4
+contact_url: ''
+context: |-
+    In this task, you will need to provide a JUnit4 TestSuite for the **static method** ``binarySearch`` located in the ``Exercise`` **class**:
+
+    .. code-block:: java
+
+        /*
+         * This method returns:
+         *             index of elem if it is between the "low" and "high" indexes,
+         *             -1 if elem is not in there,
+         *             -2 if the parameters do not respect the preconditions.
+         *
+         * @pre low >= 0, high < |arr|, low <= high
+         * @post returns:
+         *            index at which the searched element is located,
+         *            -1 if it is not present,
+         *            -2 if the input does not respect @pre.
+         */
+        public static int binarySearch(int [] arr, int low, int high, int elem) {
+            ...
+        }
+
+    Based on the provided specifications, create test cases for different inputs and possible outputs.
+    We strongly suggest you to read the `Junit4 assert documentation`_.
+    Use the following signature to start your test suite:
+
+    .. code-block:: java
+
+        import org.junit.Test;
+        import static org.junit.Assert.*;
+
+        public class TestSuite {
+
+            @Test
+            public void test() {
+                Exercise.binarySearch(...)
+            }
+
+            // Add more tests here.
+
+        }
+
+
+    .. _`Junit4 assert documentation`: https://junit.org/junit4/javadoc/4.12/org/junit/Assert.html
+environment: java8scala
+evaluate: best
+file: ''
+groups: false
+input_random: '0'
+limits:
+    memory: '100'
+    output: '2'
+    time: '60'
+name: 'BlackBox test'
+network_grading: false
+order: 36
+problems:
+    student_code:
+        type: code
+        header: 'Insert the **body** of your test suite here:'
+        language: java
+        name: ''
+        default: ''
+run_cmd: ''
+stored_submissions: 0
+submission_limit:
+    amount: -1
+    period: -1
+weight: 1.0

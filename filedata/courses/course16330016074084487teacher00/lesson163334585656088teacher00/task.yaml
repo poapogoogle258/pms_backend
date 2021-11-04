@@ -1,0 +1,1132 @@
+accessible: true
+author: teacher00
+categories: []
+contact_url: ''
+context: "<h1>\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\
+  \ \u0E43\u0E19\u0E20\u0E32\u0E29\u0E32 Python</h1>\n<section>\n    <div class=\"\
+  text-muted cleafix mb-3\">\n        <span>27 March 2017</span>\n               \
+  \         </div>\n</section>\n<br>\n<p>\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\
+  \u0E34\u0E19\u0E01\u0E32\u0E23 (Operators) \u0E04\u0E37\u0E2D\u0E01\u0E25\u0E38\u0E48\
+  \u0E21\u0E02\u0E2D\u0E07\u0E40\u0E04\u0E23\u0E37\u0E48\u0E2D\u0E07\u0E2B\u0E21\u0E32\
+  \u0E22\u0E2B\u0E23\u0E37\u0E2D\u0E2A\u0E31\u0E0D\u0E25\u0E31\u0E01\u0E29\u0E13\u0E4C\
+  \u0E17\u0E35\u0E48\u0E43\u0E0A\u0E49\u0E17\u0E33\u0E07\u0E32\u0E19\u0E40\u0E2B\u0E21\
+  \u0E37\u0E2D\u0E19\u0E01\u0E31\u0E1A\u0E1F\u0E31\u0E07\u0E01\u0E4C\u0E0A\u0E31\u0E19\
+  \ \u0E41\u0E15\u0E48\u0E41\u0E15\u0E01\u0E15\u0E48\u0E32\u0E07\u0E01\u0E31\u0E19\
+  \u0E15\u0E23\u0E07\u0E44\u0E27\u0E22\u0E32\u0E01\u0E23\u0E13\u0E4C\u0E2B\u0E23\u0E37\
+  \u0E2D\u0E04\u0E27\u0E32\u0E21\u0E2B\u0E21\u0E32\u0E22\u0E43\u0E19\u0E01\u0E32\u0E23\
+  \u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19 \u0E43\u0E19\u0E20\u0E32\u0E29\u0E32 Python\
+  \ \u0E19\u0E31\u0E49\u0E19\u0E2A\u0E19\u0E31\u0E1A\u0E2A\u0E19\u0E38\u0E19\u0E15\
+  \u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E1B\u0E23\u0E30\
+  \u0E40\u0E20\u0E17\u0E15\u0E48\u0E32\u0E07\u0E46 \u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\
+  \u0E01\u0E32\u0E23\u0E40\u0E02\u0E35\u0E22\u0E19\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\
+  \u0E21 \u0E40\u0E0A\u0E48\u0E19 \u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\
+  \u0E19\u0E01\u0E32\u0E23 <code>+</code> \u0E40\u0E1B\u0E47\u0E19\u0E15\u0E31\u0E27\
+  \u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E17\u0E32\u0E07\u0E04\u0E13\
+  \u0E34\u0E15\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C\u0E17\u0E35\u0E48\u0E43\u0E0A\u0E49\
+  \u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E01\u0E32\u0E23\u0E1A\u0E27\u0E01\u0E15\u0E31\
+  \u0E27\u0E40\u0E25\u0E02\u0E40\u0E02\u0E49\u0E32\u0E14\u0E49\u0E27\u0E22\u0E01\u0E31\
+  \u0E19 \u0E2B\u0E23\u0E37\u0E2D\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\
+  \u0E01\u0E32\u0E23 <code>&gt;</code> \u0E40\u0E1B\u0E47\u0E19\u0E15\u0E31\u0E27\u0E14\
+  \u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E43\
+  \u0E2B\u0E49\u0E40\u0E1B\u0E23\u0E35\u0E22\u0E1A\u0E40\u0E17\u0E35\u0E22\u0E1A\u0E04\
+  \u0E48\u0E32\u0E2A\u0E2D\u0E07\u0E04\u0E48\u0E32</p>\n<p>\u0E19\u0E35\u0E48\u0E40\
+  \u0E1B\u0E47\u0E19\u0E23\u0E32\u0E22\u0E01\u0E32\u0E23\u0E02\u0E2D\u0E07\u0E15\u0E31\
+  \u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E43\u0E19\u0E20\u0E32\
+  \u0E29\u0E32 Python \u0E17\u0E35\u0E48\u0E04\u0E38\u0E13\u0E08\u0E30\u0E44\u0E14\
+  \u0E49\u0E40\u0E23\u0E35\u0E22\u0E19\u0E43\u0E19\u0E1A\u0E17\u0E19\u0E35\u0E49</p>\n\
+  \n<ul>\n<li>Assignment operator</li>\n<li>Arithmetic operators</li>\n<li>Comparison\
+  \ operators</li>\n<li>Logical operators</li>\n<li>Bitwise operators</li>\n<li>Sequence\
+  \ Operators</li>\n<li>Truth Value Testing</li>\n</ul>\n\n<h2>Assignment operator</h2>\n\
+  \n<p>\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E17\
+  \u0E35\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E1E\u0E37\u0E49\u0E19\u0E10\u0E32\u0E19\u0E17\
+  \u0E35\u0E48\u0E2A\u0E38\u0E14\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E01\u0E32\u0E23\
+  \u0E40\u0E02\u0E35\u0E22\u0E19\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E43\u0E19\
+  \u0E17\u0E38\u0E01\u0E46 \u0E20\u0E32\u0E29\u0E32\u0E01\u0E47\u0E04\u0E37\u0E2D\
+  \ \u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E01\
+  \u0E33\u0E2B\u0E19\u0E14\u0E04\u0E48\u0E32 (Assignment operator) \u0E15\u0E31\u0E27\
+  \u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E19\u0E35\u0E49\u0E41\u0E2A\
+  \u0E14\u0E07\u0E42\u0E14\u0E22\u0E43\u0E0A\u0E49\u0E40\u0E04\u0E23\u0E37\u0E48\u0E2D\
+  \u0E07\u0E2B\u0E21\u0E32\u0E22\u0E40\u0E17\u0E48\u0E32\u0E01\u0E31\u0E1A (<code>=</code>)\
+  \ \u0E21\u0E31\u0E19\u0E43\u0E0A\u0E49\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E01\
+  \u0E33\u0E2B\u0E19\u0E14\u0E04\u0E48\u0E32\u0E43\u0E2B\u0E49\u0E01\u0E31\u0E1A\u0E15\
+  \u0E31\u0E27\u0E41\u0E1B\u0E23 \u0E21\u0E32\u0E14\u0E39\u0E15\u0E31\u0E27\u0E2D\u0E22\
+  \u0E48\u0E32\u0E07\u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\u0E43\u0E19\
+  \u0E20\u0E32\u0E29\u0E32 Python</p>\n\n<pre class=\" language-python\"><code class=\"\
+  \ language-python\">a <span class=\"token operator\">=</span> <span class=\"token\
+  \ number\">3</span>\nb <span class=\"token operator\">=</span> <span class=\"token\
+  \ number\">5.29</span>\nc <span class=\"token operator\">=</span> b\nname <span\
+  \ class=\"token operator\">=</span> <span class=\"token string\">'Mateo'</span>\n\
+  my_list <span class=\"token operator\">=</span> <span class=\"token punctuation\"\
+  >[</span><span class=\"token number\">2</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">5</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">8</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">10</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">24</span><span class=\"token punctuation\"\
+  >]</span>\nx<span class=\"token punctuation\">,</span> y <span class=\"token operator\"\
+  >=</span> <span class=\"token number\">10</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">20</span>\n</code></pre>\n\n<p>\u0E43\u0E19\
+  \u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07 \u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\
+  \u0E23\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\
+  \u0E34\u0E19\u0E01\u0E32\u0E23\u0E01\u0E33\u0E2B\u0E19\u0E14\u0E04\u0E48\u0E32\u0E2A\
+  \u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E01\u0E33\u0E2B\u0E19\u0E14\u0E04\u0E48\u0E32\u0E43\
+  \u0E2B\u0E49\u0E01\u0E31\u0E1A\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23\u0E1B\u0E23\u0E30\
+  \u0E40\u0E20\u0E17\u0E15\u0E48\u0E32\u0E07\u0E46 \u0E42\u0E14\u0E22\u0E17\u0E31\u0E48\
+  \u0E27\u0E44\u0E1B\u0E41\u0E25\u0E49\u0E27 \u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\
+  \u0E34\u0E19\u0E01\u0E32\u0E23\u0E01\u0E33\u0E2B\u0E19\u0E14\u0E04\u0E48\u0E32\u0E19\
+  \u0E31\u0E49\u0E19\u0E40\u0E01\u0E37\u0E2D\u0E1A\u0E08\u0E30\u0E43\u0E0A\u0E49\u0E43\
+  \u0E19\u0E17\u0E38\u0E01\u0E46 \u0E17\u0E35\u0E48\u0E43\u0E19\u0E42\u0E1B\u0E23\u0E41\
+  \u0E01\u0E23\u0E21\u0E41\u0E25\u0E30\u0E40\u0E1B\u0E47\u0E19\u0E15\u0E31\u0E27\u0E14\
+  \u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E17\u0E35\u0E48\u0E43\u0E0A\u0E49\
+  \u0E1A\u0E48\u0E2D\u0E22\u0E17\u0E35\u0E48\u0E2A\u0E38\u0E14\u0E02\u0E2D\u0E07\u0E43\
+  \u0E19\u0E1A\u0E23\u0E23\u0E14\u0E32\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\
+  \u0E19\u0E01\u0E32\u0E23\u0E17\u0E31\u0E49\u0E07\u0E2B\u0E21\u0E14</p>\n\n<div class=\"\
+  my-3\">\n    <!-- marcuscode - middle banner -->\n    <ins class=\"adsbygoogle\"\
+  \ style=\"display:block\" data-ad-client=\"ca-pub-9075045589988569\" data-ad-slot=\"\
+  9605104032\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins>\n\
+  \    <script>\n        (adsbygoogle = window.adsbygoogle || []).push({});\n    </script>\n\
+  </div>\n<h2>Arithmetic operators</h2>\n\n<p>\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\
+  \u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E17\u0E32\u0E07\u0E04\u0E13\u0E34\u0E15\u0E28\
+  \u0E32\u0E2A\u0E15\u0E23\u0E4C (Arithmetic operators) \u0E04\u0E37\u0E2D\u0E15\u0E31\
+  \u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E17\u0E35\u0E48\u0E43\
+  \u0E0A\u0E49\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E01\u0E32\u0E23\u0E04\u0E33\u0E19\
+  \u0E27\u0E13\u0E17\u0E32\u0E07\u0E04\u0E13\u0E34\u0E15\u0E28\u0E32\u0E2A\u0E15\u0E23\
+  \u0E4C\u0E43\u0E19\u0E1E\u0E37\u0E49\u0E19\u0E10\u0E32\u0E19 \u0E40\u0E0A\u0E48\u0E19\
+  \ \u0E01\u0E32\u0E23\u0E1A\u0E27\u0E01 \u0E01\u0E32\u0E23\u0E25\u0E1A \u0E01\u0E32\
+  \u0E23\u0E04\u0E39\u0E13 \u0E41\u0E25\u0E30\u0E01\u0E32\u0E23\u0E2B\u0E32\u0E23\
+  \ \u0E21\u0E32\u0E01\u0E44\u0E1B\u0E01\u0E27\u0E48\u0E32\u0E19\u0E31\u0E49\u0E19\
+  \ \u0E43\u0E19\u0E20\u0E32\u0E29\u0E32 Python \u0E22\u0E31\u0E07\u0E21\u0E35\u0E15\
+  \u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E17\u0E32\u0E07\
+  \u0E04\u0E13\u0E34\u0E15\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C\u0E40\u0E1E\u0E34\u0E48\
+  \u0E21\u0E40\u0E15\u0E34\u0E21 \u0E40\u0E0A\u0E48\u0E19 \u0E01\u0E32\u0E23\u0E2B\
+  \u0E32\u0E23\u0E40\u0E2D\u0E32\u0E40\u0E28\u0E29 (Modulo) \u0E01\u0E32\u0E23\u0E2B\
+  \u0E32\u0E23\u0E41\u0E1A\u0E1A\u0E40\u0E25\u0E02\u0E08\u0E33\u0E19\u0E27\u0E19\u0E40\
+  \u0E15\u0E47\u0E21 \u0E41\u0E25\u0E30\u0E01\u0E32\u0E23\u0E22\u0E01\u0E01\u0E33\u0E25\
+  \u0E31\u0E07 \u0E40\u0E1B\u0E47\u0E19\u0E15\u0E49\u0E19</p>\n\n<p>\u0E19\u0E35\u0E48\
+  \u0E40\u0E1B\u0E47\u0E19\u0E15\u0E32\u0E23\u0E32\u0E07\u0E02\u0E2D\u0E07\u0E15\u0E31\
+  \u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E17\u0E32\u0E07\u0E04\
+  \u0E13\u0E34\u0E15\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C\u0E43\u0E19\u0E20\u0E32\u0E29\
+  \u0E32 Python</p>\n\n<table class=\"table\">\n<tbody><tr><th>Operator</th><th>Name</th><th>Example</th></tr>\n\
+  <tr><td>+</td><td>Addition</td><td>a + b</td></tr>\n<tr><td>-</td><td>Subtraction</td><td>a\
+  \ - b</td></tr>\n<tr><td>*</td><td>Multiplication</td><td>a * b</td></tr>\n<tr><td>/</td><td>Division</td><td>a\
+  \ / b</td></tr>\n<tr><td>//</td><td>Division and floor</td><td>a // b</td></tr>\n\
+  <tr><td>%</td><td>Modulo</td><td>a % b</td></tr>\n<tr><td>**</td><td>Power</td><td>a\
+  \ ** b</td></tr>\n</tbody></table>\n\n<p>\u0E43\u0E19\u0E15\u0E32\u0E23\u0E32\u0E07\
+  \u0E02\u0E49\u0E32\u0E07\u0E1A\u0E19 \u0E40\u0E23\u0E32\u0E21\u0E35\u0E15\u0E31\u0E27\
+  \u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E17\u0E32\u0E07\u0E04\u0E13\
+  \u0E34\u0E15\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C\u0E1B\u0E23\u0E30\u0E40\u0E20\u0E17\
+  \u0E15\u0E48\u0E32\u0E07\u0E46 \u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E01\u0E32\u0E23\
+  \u0E04\u0E33\u0E19\u0E27\u0E13\u0E40\u0E01\u0E35\u0E48\u0E22\u0E27\u0E01\u0E31\u0E1A\
+  \u0E04\u0E13\u0E34\u0E15\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C\u0E40\u0E1A\u0E37\u0E49\
+  \u0E2D\u0E07\u0E15\u0E49\u0E19 \u0E04\u0E38\u0E13\u0E2D\u0E32\u0E08\u0E08\u0E30\u0E04\
+  \u0E38\u0E49\u0E19\u0E40\u0E04\u0E22\u0E01\u0E31\u0E1A\u0E15\u0E31\u0E27\u0E14\u0E33\
+  \u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E1A\u0E27\u0E01 \u0E25\u0E1A \u0E04\
+  \u0E39\u0E13 \u0E2B\u0E32\u0E23 \u0E43\u0E19\u0E01\u0E32\u0E23\u0E40\u0E23\u0E35\
+  \u0E22\u0E19\u0E23\u0E30\u0E14\u0E31\u0E1A\u0E21\u0E31\u0E18\u0E22\u0E21\u0E28\u0E36\
+  \u0E01\u0E29\u0E32\u0E21\u0E32\u0E1A\u0E49\u0E32\u0E07\u0E41\u0E25\u0E49\u0E27 \u0E43\
+  \u0E19\u0E20\u0E32\u0E29\u0E32 Python \u0E19\u0E31\u0E49\u0E19\u0E2A\u0E19\u0E31\
+  \u0E1A\u0E2A\u0E19\u0E38\u0E19\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\
+  \u0E01\u0E32\u0E23\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E01\u0E32\u0E23\u0E2B\u0E32\
+  \u0E23\u0E40\u0E2D\u0E32\u0E40\u0E28\u0E29\u0E40\u0E0A\u0E48\u0E19\u0E40\u0E14\u0E35\
+  \u0E22\u0E27\u0E01\u0E31\u0E1A\u0E20\u0E32\u0E29\u0E32\u0E2D\u0E37\u0E48\u0E19\u0E46\
+  \ \u0E41\u0E25\u0E30\u0E19\u0E2D\u0E01\u0E08\u0E32\u0E01\u0E19\u0E35\u0E49 \u0E22\
+  \u0E31\u0E07\u0E21\u0E35\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\
+  \u0E32\u0E23\u0E41\u0E1A\u0E1A\u0E01\u0E32\u0E23\u0E2B\u0E32\u0E23\u0E17\u0E35\u0E48\
+  \u0E44\u0E14\u0E49\u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E40\u0E1B\u0E47\u0E19\
+  \u0E08\u0E33\u0E19\u0E27\u0E19\u0E40\u0E15\u0E47\u0E21 \u0E41\u0E25\u0E30\u0E01\u0E32\
+  \u0E23\u0E2B\u0E32\u0E40\u0E25\u0E02\u0E22\u0E01\u0E01\u0E33\u0E25\u0E31\u0E07\u0E40\
+  \u0E1E\u0E34\u0E48\u0E21\u0E40\u0E02\u0E49\u0E32\u0E21\u0E32 \u0E21\u0E32\u0E14\u0E39\
+  \u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49\
+  \u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E1B\u0E23\
+  \u0E30\u0E40\u0E20\u0E17\u0E15\u0E48\u0E32\u0E07\u0E46 \u0E43\u0E19\u0E20\u0E32\u0E29\
+  \u0E32 Python</p>\n\n<pre class=\" language-python\"><code class=\" language-python\"\
+  >a <span class=\"token operator\">=</span> <span class=\"token number\">5</span>\n\
+  b <span class=\"token operator\">=</span> <span class=\"token number\">3</span>\n\
+  <span class=\"token keyword\">print</span><span class=\"token punctuation\">(</span><span\
+  \ class=\"token string\">\"a + b = \"</span><span class=\"token punctuation\">,</span>\
+  \ a <span class=\"token operator\">+</span> b<span class=\"token punctuation\">)</span>\n\
+  <span class=\"token keyword\">print</span><span class=\"token punctuation\">(</span><span\
+  \ class=\"token string\">\"a - b = \"</span><span class=\"token punctuation\">,</span>\
+  \ a <span class=\"token operator\">-</span> b<span class=\"token punctuation\">)</span>\n\
+  <span class=\"token keyword\">print</span><span class=\"token punctuation\">(</span><span\
+  \ class=\"token string\">\"a * b = \"</span><span class=\"token punctuation\">,</span>\
+  \ a <span class=\"token operator\">*</span> b<span class=\"token punctuation\">)</span>\n\
+  <span class=\"token keyword\">print</span><span class=\"token punctuation\">(</span><span\
+  \ class=\"token string\">\"a / b = \"</span><span class=\"token punctuation\">,</span>\
+  \ a <span class=\"token operator\">/</span> b<span class=\"token punctuation\">)</span>\n\
+  <span class=\"token keyword\">print</span><span class=\"token punctuation\">(</span><span\
+  \ class=\"token string\">\"a // b = \"</span><span class=\"token punctuation\">,</span>\
+  \ a <span class=\"token operator\">//</span> b<span class=\"token punctuation\"\
+  >)</span> <span class=\"token comment\"># floor number to integer</span>\n<span\
+  \ class=\"token keyword\">print</span><span class=\"token punctuation\">(</span><span\
+  \ class=\"token string\">\"a % b = \"</span><span class=\"token punctuation\">,</span>\
+  \ a <span class=\"token operator\">%</span> b<span class=\"token punctuation\">)</span>\
+  \   <span class=\"token comment\"># get division remainder</span>\n<span class=\"\
+  token keyword\">print</span><span class=\"token punctuation\">(</span><span class=\"\
+  token string\">\"a ** b = \"</span><span class=\"token punctuation\">,</span> a\
+  \ <span class=\"token operator\">**</span> b<span class=\"token punctuation\">)</span>\
+  \ <span class=\"token comment\"># power</span>\n</code></pre>\n\n<p>\u0E43\u0E19\
+  \u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07 \u0E40\u0E23\u0E32\u0E44\u0E14\u0E49\
+  \u0E1B\u0E23\u0E30\u0E01\u0E32\u0E28\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23 <code>a</code>\
+  \ \u0E41\u0E25\u0E30 <code>b</code> \u0E41\u0E25\u0E30\u0E01\u0E33\u0E2B\u0E19\u0E14\
+  \u0E04\u0E48\u0E32\u0E43\u0E2B\u0E49\u0E01\u0E31\u0E1A\u0E15\u0E31\u0E27\u0E41\u0E1B\
+  \u0E23\u0E17\u0E31\u0E49\u0E07\u0E2A\u0E2D\u0E07\u0E40\u0E1B\u0E47\u0E19 5 \u0E41\
+  \u0E25\u0E30 3 \u0E15\u0E32\u0E21\u0E25\u0E33\u0E14\u0E31\u0E1A \u0E43\u0E19\u0E2A\
+  \u0E35\u0E48\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\
+  \u0E41\u0E23\u0E01\u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\u0E23\u0E14\u0E33\u0E40\u0E19\
+  \u0E34\u0E19\u0E01\u0E32\u0E23\u0E17\u0E32\u0E07\u0E04\u0E13\u0E34\u0E15\u0E28\u0E32\
+  \u0E2A\u0E15\u0E23\u0E4C\u0E1E\u0E37\u0E49\u0E19\u0E10\u0E32\u0E19 \u0E2A\u0E33\u0E2B\
+  \u0E23\u0E31\u0E1A\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\
+  \u0E23 <code>//</code> \u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\u0E23\u0E2B\u0E32\u0E23\
+  \u0E40\u0E0A\u0E48\u0E19\u0E40\u0E14\u0E35\u0E22\u0E27\u0E01\u0E31\u0E19 \u0E41\u0E15\
+  \u0E48\u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E02\u0E2D\u0E07\u0E01\u0E32\u0E23\
+  \u0E2B\u0E32\u0E23\u0E19\u0E31\u0E49\u0E19\u0E08\u0E30\u0E15\u0E31\u0E14\u0E2A\u0E48\
+  \u0E27\u0E19\u0E17\u0E35\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E17\u0E28\u0E19\u0E34\u0E22\
+  \u0E21\u0E17\u0E34\u0E49\u0E07\u0E44\u0E1B \u0E2A\u0E48\u0E27\u0E19\u0E15\u0E31\u0E27\
+  \u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23 <code>%</code> \u0E19\u0E31\
+  \u0E49\u0E19\u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\u0E23\u0E2B\u0E32\u0E23\u0E42\u0E14\
+  \u0E22\u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E08\u0E30\u0E40\u0E1B\u0E47\u0E19\
+  \u0E40\u0E28\u0E29\u0E02\u0E2D\u0E07\u0E01\u0E32\u0E23\u0E2B\u0E32\u0E23\u0E41\u0E17\
+  \u0E19 \u0E2A\u0E48\u0E27\u0E19\u0E2A\u0E38\u0E14\u0E17\u0E49\u0E32\u0E22 <code>**</code>\
+  \ \u0E19\u0E31\u0E49\u0E19\u0E41\u0E17\u0E19\u0E01\u0E32\u0E23\u0E22\u0E01\u0E01\
+  \u0E33\u0E25\u0E31\u0E07</p>\n\n<pre class=\"code-result language-result\"><code\
+  \ class=\" language-result\">a + b =  8\na - b =  2\na * b =  15\na / b =  1.6666666666666667\n\
+  a // b =  1\na % b =  2\na ** b =  125\n</code></pre>\n\n<p>\u0E19\u0E35\u0E48\u0E40\
+  \u0E1B\u0E47\u0E19\u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E01\u0E32\u0E23\u0E17\
+  \u0E33\u0E07\u0E32\u0E19\u0E02\u0E2D\u0E07\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\
+  \u0E43\u0E19\u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\u0E15\u0E31\u0E27\
+  \u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E17\u0E32\u0E07\u0E04\u0E13\
+  \u0E34\u0E15\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C</p>\n\n<h2>Comparison operators</h2>\n\
+  \n<p>\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E40\
+  \u0E1B\u0E23\u0E35\u0E22\u0E1A\u0E40\u0E17\u0E35\u0E22\u0E1A (Comparison operators)\
+  \ \u0E04\u0E37\u0E2D\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\
+  \u0E32\u0E23\u0E17\u0E35\u0E48\u0E43\u0E0A\u0E49\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\
+  \u0E40\u0E1B\u0E23\u0E35\u0E22\u0E1A\u0E40\u0E17\u0E35\u0E22\u0E1A\u0E04\u0E48\u0E32\
+  \u0E2B\u0E23\u0E37\u0E2D\u0E04\u0E48\u0E32\u0E43\u0E19\u0E15\u0E31\u0E27\u0E41\u0E1B\
+  \u0E23 \u0E0B\u0E36\u0E48\u0E07\u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E02\u0E2D\
+  \u0E07\u0E01\u0E32\u0E23\u0E40\u0E1B\u0E23\u0E35\u0E22\u0E1A\u0E40\u0E17\u0E35\u0E22\
+  \u0E1A\u0E19\u0E31\u0E49\u0E19\u0E08\u0E30\u0E40\u0E1B\u0E47\u0E19 True \u0E2B\u0E32\
+  \u0E01\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02\u0E40\u0E1B\u0E47\u0E19\u0E08\
+  \u0E23\u0E34\u0E07 \u0E41\u0E25\u0E30\u0E40\u0E1B\u0E47\u0E19 False \u0E2B\u0E32\
+  \u0E01\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02\u0E44\u0E21\u0E48\u0E40\u0E1B\
+  \u0E47\u0E19\u0E08\u0E23\u0E34\u0E07 \u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\
+  \u0E19\u0E01\u0E32\u0E23\u0E40\u0E1B\u0E23\u0E35\u0E22\u0E1A\u0E40\u0E17\u0E35\u0E22\
+  \u0E1A\u0E21\u0E31\u0E01\u0E08\u0E30\u0E43\u0E0A\u0E49\u0E01\u0E31\u0E1A\u0E04\u0E33\
+  \u0E2A\u0E31\u0E48\u0E07\u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E40\u0E07\u0E37\
+  \u0E48\u0E2D\u0E19\u0E44\u0E02 if \u0E41\u0E25\u0E30\u0E04\u0E33\u0E2A\u0E31\u0E48\
+  \u0E07\u0E27\u0E19\u0E0B\u0E49\u0E33 for while \u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E04\
+  \u0E27\u0E1A\u0E04\u0E38\u0E21\u0E01\u0E32\u0E23\u0E17\u0E33\u0E07\u0E32\u0E19\u0E02\
+  \u0E2D\u0E07\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21</p>\n\n<p>\u0E19\u0E35\u0E48\
+  \u0E40\u0E1B\u0E47\u0E19\u0E15\u0E32\u0E23\u0E32\u0E07\u0E02\u0E2D\u0E07\u0E15\u0E31\
+  \u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E40\u0E1B\u0E23\u0E35\
+  \u0E22\u0E1A\u0E40\u0E17\u0E35\u0E22\u0E1A\u0E43\u0E19\u0E20\u0E32\u0E29\u0E32 Python</p>\n\
+  \n<table class=\"table\">\n<tbody><tr><th>Operator</th><th>Name</th><th>Example</th></tr>\n\
+  <tr><td>&lt;</td><td>Less than</td><td>a &lt; b</td></tr>\n<tr><td>&lt;=</td><td>Less\
+  \ than or equal</td><td>a &lt;= b</td></tr>\n<tr><td>&gt;</td><td>Greater than</td><td>a\
+  \ &gt; b</td></tr>\n<tr><td>&gt;=</td><td>Greater than or equal</td><td>a &gt;=\
+  \ b</td></tr>\n<tr><td>==</td><td>Equal</td><td>a == b</td></tr>\n<tr><td>!=</td><td>Not\
+  \ equal</td><td>a != b</td></tr>\n<tr><td>is</td><td>Object identity</td><td>a is\
+  \ b</td></tr>\n<tr><td>is not</td><td>Negated object identity</td><td>a is not b</td></tr>\n\
+  </tbody></table>\n\n<p>\u0E43\u0E19\u0E15\u0E32\u0E23\u0E32\u0E07 \u0E41\u0E2A\u0E14\
+  \u0E07\u0E43\u0E2B\u0E49\u0E40\u0E2B\u0E47\u0E19\u0E16\u0E36\u0E07\u0E15\u0E31\u0E27\
+  \u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E40\u0E1B\u0E23\u0E35\u0E22\
+  \u0E1A\u0E40\u0E17\u0E35\u0E22\u0E1A\u0E1B\u0E23\u0E30\u0E40\u0E20\u0E17\u0E15\u0E48\
+  \u0E32\u0E07\u0E46 \u0E40\u0E0A\u0E48\u0E19 \u0E01\u0E32\u0E23\u0E40\u0E1B\u0E23\
+  \u0E35\u0E22\u0E1A\u0E40\u0E17\u0E35\u0E22\u0E1A\u0E04\u0E27\u0E32\u0E21\u0E40\u0E17\
+  \u0E48\u0E32\u0E01\u0E31\u0E19 \u0E42\u0E14\u0E22\u0E04\u0E38\u0E13\u0E2A\u0E32\u0E21\
+  \u0E32\u0E23\u0E16\u0E43\u0E0A\u0E49\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\
+  \u0E19\u0E01\u0E32\u0E23\u0E40\u0E1B\u0E23\u0E35\u0E22\u0E1A\u0E40\u0E17\u0E35\u0E22\
+  \u0E1A\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E40\u0E1B\u0E23\u0E35\u0E22\u0E1A\u0E40\u0E17\
+  \u0E35\u0E22\u0E1A\u0E27\u0E48\u0E32\u0E04\u0E48\u0E32\u0E43\u0E19\u0E15\u0E31\u0E27\
+  \u0E41\u0E1B\u0E23\u0E19\u0E31\u0E49\u0E19\u0E40\u0E17\u0E48\u0E32\u0E01\u0E31\u0E19\
+  \u0E2B\u0E23\u0E37\u0E2D\u0E44\u0E21\u0E48 \u0E2B\u0E23\u0E37\u0E2D\u0E01\u0E32\u0E23\
+  \u0E40\u0E1B\u0E23\u0E35\u0E22\u0E1A\u0E40\u0E17\u0E35\u0E22\u0E1A\u0E04\u0E48\u0E32\
+  \u0E21\u0E32\u0E01\u0E01\u0E27\u0E48\u0E32\u0E2B\u0E23\u0E37\u0E2D\u0E19\u0E49\u0E2D\
+  \u0E22\u0E01\u0E27\u0E48\u0E32 \u0E15\u0E48\u0E2D\u0E44\u0E1B\u0E21\u0E32\u0E14\u0E39\
+  \u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49\
+  \u0E07\u0E32\u0E19\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\
+  \u0E23\u0E40\u0E1B\u0E23\u0E35\u0E22\u0E1A\u0E40\u0E17\u0E35\u0E22\u0E1A\u0E43\u0E19\
+  \u0E20\u0E32\u0E29\u0E32 Python</p>\n\n<pre class=\" language-python\"><code class=\"\
+  \ language-python\"><span class=\"token comment\"># Constant comparison</span>\n\
+  <span class=\"token keyword\">print</span><span class=\"token punctuation\">(</span><span\
+  \ class=\"token string\">'4 == 4 :'</span><span class=\"token punctuation\">,</span>\
+  \ <span class=\"token number\">4</span> <span class=\"token operator\">==</span>\
+  \ <span class=\"token number\">4</span><span class=\"token punctuation\">)</span>\n\
+  <span class=\"token keyword\">print</span><span class=\"token punctuation\">(</span><span\
+  \ class=\"token string\">'1 &lt; 2:'</span><span class=\"token punctuation\">,</span>\
+  \ <span class=\"token number\">1</span> <span class=\"token operator\">&lt;</span>\
+  \ <span class=\"token number\">2</span><span class=\"token punctuation\">)</span>\n\
+  <span class=\"token keyword\">print</span><span class=\"token punctuation\">(</span><span\
+  \ class=\"token string\">'3 &gt; 10:'</span><span class=\"token punctuation\">,</span>\
+  \ <span class=\"token number\">3</span> <span class=\"token operator\">&gt;</span>\
+  \ <span class=\"token number\">10</span><span class=\"token punctuation\">)</span>\n\
+  <span class=\"token keyword\">print</span><span class=\"token punctuation\">(</span><span\
+  \ class=\"token string\">'2 &lt;= 1.5'</span><span class=\"token punctuation\">,</span>\
+  \ <span class=\"token number\">2</span> <span class=\"token operator\">&lt;=</span>\
+  \ <span class=\"token number\">1.5</span><span class=\"token punctuation\">)</span>\n\
+  <span class=\"token keyword\">print</span><span class=\"token punctuation\">(</span><span\
+  \ class=\"token punctuation\">)</span>\n\n<span class=\"token comment\"># Variable\
+  \ comparison</span>\na <span class=\"token operator\">=</span> <span class=\"token\
+  \ number\">10</span>\nb <span class=\"token operator\">=</span> <span class=\"token\
+  \ number\">8</span>\n<span class=\"token keyword\">print</span><span class=\"token\
+  \ punctuation\">(</span><span class=\"token string\">'a != b:'</span><span class=\"\
+  token punctuation\">,</span> a <span class=\"token operator\">!=</span> b<span class=\"\
+  token punctuation\">)</span>\n<span class=\"token keyword\">print</span><span class=\"\
+  token punctuation\">(</span><span class=\"token string\">'a - b == 2:'</span><span\
+  \ class=\"token punctuation\">,</span> a <span class=\"token operator\">-</span>\
+  \ b <span class=\"token operator\">==</span> <span class=\"token number\">2</span><span\
+  \ class=\"token punctuation\">)</span>\n<span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span>\n\
+  </code></pre>\n\n<p>\u0E43\u0E19\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07\
+  \ \u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\u0E23\u0E40\u0E1B\u0E23\u0E35\u0E22\u0E1A\
+  \u0E40\u0E17\u0E35\u0E22\u0E1A\u0E04\u0E48\u0E32\u0E1B\u0E23\u0E30\u0E40\u0E20\u0E17\
+  \u0E15\u0E48\u0E32\u0E07\u0E46 \u0E43\u0E19\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07\u0E01\
+  \u0E25\u0E38\u0E48\u0E21\u0E41\u0E23\u0E01\u0E19\u0E31\u0E49\u0E19\u0E40\u0E1B\u0E47\
+  \u0E19\u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\
+  \u0E34\u0E19\u0E01\u0E32\u0E23\u0E40\u0E1B\u0E23\u0E35\u0E22\u0E1A\u0E40\u0E17\u0E35\
+  \u0E22\u0E1A\u0E01\u0E31\u0E1A\u0E04\u0E48\u0E32\u0E04\u0E07\u0E17\u0E35\u0E48 \u0E43\
+  \u0E19\u0E01\u0E25\u0E38\u0E48\u0E21\u0E17\u0E35\u0E48\u0E2A\u0E2D\u0E07\u0E40\u0E1B\
+  \u0E47\u0E19\u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\u0E01\u0E31\u0E1A\
+  \u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23 \u0E0B\u0E36\u0E48\u0E07\u0E16\u0E49\u0E32\u0E2B\
+  \u0E32\u0E01\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02\u0E40\u0E1B\u0E47\u0E19\
+  \u0E08\u0E23\u0E34\u0E07\u0E08\u0E30\u0E44\u0E14\u0E49\u0E1C\u0E25\u0E25\u0E31\u0E1E\
+  \u0E18\u0E4C\u0E40\u0E1B\u0E47\u0E19 True \u0E41\u0E25\u0E30\u0E16\u0E49\u0E32\u0E2B\
+  \u0E32\u0E01\u0E44\u0E21\u0E48\u0E08\u0E23\u0E34\u0E07\u0E08\u0E30\u0E44\u0E14\u0E49\
+  \u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E40\u0E1B\u0E47\u0E19 False</p>\n\n\
+  <pre class=\"code-result language-result\"><code class=\" language-result\">4 ==\
+  \ 4 : True\n1 &lt; 2: True\n3 &gt; 10: False\n2 &lt;= 1.5 False\n\na != b: True\n\
+  a - b == 2: True\n</code></pre>\n\n<p>\u0E19\u0E35\u0E48\u0E40\u0E1B\u0E47\u0E19\
+  \u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E01\u0E32\u0E23\u0E17\u0E33\u0E07\u0E32\
+  \u0E19\u0E02\u0E2D\u0E07\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E43\u0E19\u0E01\
+  \u0E32\u0E23\u0E43\u0E0A\u0E49\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\
+  \u0E01\u0E32\u0E23\u0E40\u0E1B\u0E23\u0E35\u0E22\u0E1A\u0E40\u0E17\u0E35\u0E22\u0E1A\
+  </p>\n\n<p>\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\
+  \u0E19\u0E34\u0E19\u0E01\u0E32\u0E23 <code>is</code> \u0E41\u0E25\u0E30 <code>is\
+  \ not</code> \u0E19\u0E31\u0E49\u0E19\u0E08\u0E30\u0E40\u0E01\u0E35\u0E48\u0E22\u0E27\
+  \u0E02\u0E49\u0E2D\u0E07\u0E01\u0E31\u0E1A <a href=\"http://marcuscode.com/lang/python/classes-and-objects\"\
+  >\u0E01\u0E32\u0E23\u0E40\u0E02\u0E35\u0E22\u0E19\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\
+  \u0E21\u0E40\u0E0A\u0E34\u0E07\u0E27\u0E31\u0E15\u0E16\u0E38</a> \u0E0B\u0E36\u0E48\
+  \u0E07\u0E40\u0E1B\u0E47\u0E19\u0E23\u0E39\u0E1B\u0E41\u0E1A\u0E1A\u0E01\u0E32\u0E23\
+  \u0E40\u0E02\u0E35\u0E22\u0E19\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E02\u0E31\
+  \u0E49\u0E19\u0E2A\u0E39\u0E07 \u0E21\u0E31\u0E19\u0E43\u0E0A\u0E49\u0E2A\u0E33\u0E2B\
+  \u0E23\u0E31\u0E1A\u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E04\u0E27\u0E32\u0E21\
+  \u0E40\u0E17\u0E48\u0E32\u0E01\u0E31\u0E19\u0E02\u0E2D\u0E07\u0E2D\u0E2D\u0E1A\u0E40\
+  \u0E08\u0E47\u0E04 \u0E42\u0E14\u0E22\u0E2D\u0E2D\u0E1A\u0E40\u0E08\u0E47\u0E04\u0E40\
+  \u0E2B\u0E25\u0E48\u0E32\u0E19\u0E31\u0E49\u0E19\u0E08\u0E30\u0E15\u0E49\u0E2D\u0E07\
+  \u0E2D\u0E49\u0E32\u0E07\u0E16\u0E36\u0E07\u0E17\u0E35\u0E48\u0E2D\u0E22\u0E39\u0E48\
+  \u0E15\u0E33\u0E41\u0E2B\u0E19\u0E48\u0E07\u0E40\u0E14\u0E35\u0E22\u0E27\u0E01\u0E31\
+  \u0E19\u0E43\u0E19\u0E2B\u0E19\u0E48\u0E27\u0E22\u0E04\u0E27\u0E32\u0E21\u0E08\u0E33\
+  \ (Reference type) \u0E40\u0E19\u0E37\u0E48\u0E2D\u0E07\u0E08\u0E32\u0E01\u0E21\u0E31\
+  \u0E19\u0E04\u0E48\u0E2D\u0E19\u0E02\u0E49\u0E32\u0E07\u0E0B\u0E31\u0E1A\u0E0B\u0E49\
+  \u0E2D\u0E19 \u0E14\u0E31\u0E07\u0E19\u0E31\u0E49\u0E19 \u0E40\u0E23\u0E32\u0E21\
+  \u0E35\u0E2D\u0E35\u0E01\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E17\u0E35\
+  \u0E48\u0E08\u0E30\u0E0A\u0E48\u0E27\u0E22\u0E43\u0E2B\u0E49\u0E04\u0E38\u0E13\u0E40\
+  \u0E02\u0E49\u0E32\u0E43\u0E08\u0E21\u0E32\u0E01\u0E02\u0E36\u0E49\u0E19</p>\n\n\
+  <pre class=\" language-python\"><code class=\" language-python\">a <span class=\"\
+  token operator\">=</span> <span class=\"token number\">10</span>\nb <span class=\"\
+  token operator\">=</span> a <span class=\"token comment\"># Assign value of a to\
+  \ b</span>\nb <span class=\"token operator\">=</span> <span class=\"token number\"\
+  >20</span>\n<span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span>a<span class=\"token punctuation\">)</span> <span class=\"token comment\"\
+  ># result 10</span>\n<span class=\"token keyword\">print</span><span class=\"token\
+  \ punctuation\">(</span>b<span class=\"token punctuation\">)</span> <span class=\"\
+  token comment\"># result  20</span>\n</code></pre>\n\n<p>\u0E43\u0E19\u0E15\u0E31\
+  \u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07 \u0E40\u0E23\u0E32\u0E44\u0E14\u0E49\u0E1B\u0E23\
+  \u0E30\u0E01\u0E32\u0E28\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23 <code>a</code> \u0E41\
+  \u0E25\u0E30\u0E01\u0E33\u0E2B\u0E19\u0E14\u0E04\u0E48\u0E32\u0E40\u0E1B\u0E47\u0E19\
+  \ <code>10</code> \u0E41\u0E25\u0E30\u0E1B\u0E23\u0E30\u0E01\u0E32\u0E28\u0E15\u0E31\
+  \u0E27\u0E41\u0E1B\u0E23 <code>b</code> \u0E42\u0E14\u0E22\u0E01\u0E33\u0E2B\u0E19\
+  \u0E14\u0E04\u0E48\u0E32\u0E02\u0E2D\u0E07\u0E21\u0E31\u0E19\u0E43\u0E2B\u0E49\u0E40\
+  \u0E17\u0E48\u0E32\u0E01\u0E31\u0E1A\u0E04\u0E48\u0E32\u0E02\u0E2D\u0E07\u0E15\u0E31\
+  \u0E27\u0E41\u0E1B\u0E23 <code>a</code> \u0E04\u0E38\u0E13\u0E08\u0E30\u0E40\u0E2B\
+  \u0E47\u0E19\u0E27\u0E48\u0E32\u0E43\u0E19\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 <code>b\
+  \ = a</code> \u0E19\u0E31\u0E49\u0E19\u0E08\u0E30\u0E2A\u0E23\u0E49\u0E32\u0E07\u0E15\
+  \u0E31\u0E27\u0E41\u0E1B\u0E23\u0E43\u0E2B\u0E21\u0E48\u0E17\u0E35\u0E48\u0E44\u0E21\
+  \u0E48\u0E40\u0E01\u0E35\u0E48\u0E22\u0E27\u0E02\u0E49\u0E2D\u0E07\u0E01\u0E31\u0E19\
+  \ \u0E41\u0E15\u0E48\u0E21\u0E31\u0E19\u0E41\u0E15\u0E01\u0E15\u0E48\u0E32\u0E07\
+  \u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E01\u0E32\u0E23\u0E40\u0E02\u0E35\u0E22\u0E19\
+  \u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E0A\u0E34\u0E07\u0E27\u0E31\u0E15\
+  \u0E16\u0E38 \u0E40\u0E1E\u0E23\u0E32\u0E30\u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49\u0E15\
+  \u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E01\u0E33\u0E2B\
+  \u0E19\u0E14\u0E04\u0E48\u0E32 (<code>=</code>) \u0E01\u0E31\u0E1A\u0E2D\u0E2D\u0E1A\
+  \u0E40\u0E08\u0E47\u0E04\u0E19\u0E31\u0E49\u0E19 \u0E08\u0E30\u0E40\u0E1B\u0E47\u0E19\
+  \u0E01\u0E32\u0E23\u0E2D\u0E49\u0E32\u0E07\u0E16\u0E36\u0E07\u0E2B\u0E19\u0E48\u0E27\
+  \u0E22\u0E04\u0E27\u0E32\u0E21\u0E08\u0E33\u0E41\u0E17\u0E19 \u0E21\u0E32\u0E14\u0E39\
+  \u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E16\u0E31\u0E14\u0E44\u0E1B</p>\n\
+  \n<pre class=\" language-python\"><code class=\" language-python\"><span class=\"\
+  token keyword\">class</span> <span class=\"token class-name\">Person</span><span\
+  \ class=\"token punctuation\">:</span>\n\n    <span class=\"token keyword\">def</span>\
+  \ <span class=\"token function\">__init__</span><span class=\"token punctuation\"\
+  >(</span>self<span class=\"token punctuation\">,</span> name<span class=\"token\
+  \ punctuation\">)</span><span class=\"token punctuation\">:</span>\n        self<span\
+  \ class=\"token punctuation\">.</span>name <span class=\"token operator\">=</span>\
+  \ name\n\n    <span class=\"token keyword\">def</span> <span class=\"token function\"\
+  >setName</span><span class=\"token punctuation\">(</span>self<span class=\"token\
+  \ punctuation\">,</span> name<span class=\"token punctuation\">)</span><span class=\"\
+  token punctuation\">:</span>\n        self<span class=\"token punctuation\">.</span>name\
+  \ <span class=\"token operator\">=</span> name\n\n    <span class=\"token keyword\"\
+  >def</span> <span class=\"token function\">getName</span><span class=\"token punctuation\"\
+  >(</span>self<span class=\"token punctuation\">)</span><span class=\"token punctuation\"\
+  >:</span>\n        <span class=\"token keyword\">return</span> self<span class=\"\
+  token punctuation\">.</span>name\n\np1 <span class=\"token operator\">=</span> Person<span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'Tommy'</span><span\
+  \ class=\"token punctuation\">)</span>\np2 <span class=\"token operator\">=</span>\
+  \ Person<span class=\"token punctuation\">(</span><span class=\"token string\">'Jane'</span><span\
+  \ class=\"token punctuation\">)</span>\n<span class=\"token comment\"># Tell p3\
+  \ to use memory address of p1</span>\np3 <span class=\"token operator\">=</span>\
+  \ p1\n\n<span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span><span class=\"token string\">'Memory address of a: '</span><span class=\"\
+  token punctuation\">,</span> <span class=\"token builtin\">id</span><span class=\"\
+  token punctuation\">(</span>p1<span class=\"token punctuation\">)</span><span class=\"\
+  token punctuation\">)</span>\n<span class=\"token keyword\">print</span><span class=\"\
+  token punctuation\">(</span><span class=\"token string\">'Memory address of b: '</span><span\
+  \ class=\"token punctuation\">,</span> <span class=\"token builtin\">id</span><span\
+  \ class=\"token punctuation\">(</span>p2<span class=\"token punctuation\">)</span><span\
+  \ class=\"token punctuation\">)</span>\n<span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'Memory address\
+  \ of c: '</span><span class=\"token punctuation\">,</span> <span class=\"token builtin\"\
+  >id</span><span class=\"token punctuation\">(</span>p3<span class=\"token punctuation\"\
+  >)</span><span class=\"token punctuation\">)</span>\n\n<span class=\"token keyword\"\
+  >print</span><span class=\"token punctuation\">(</span><span class=\"token string\"\
+  >'p1 name:'</span><span class=\"token punctuation\">,</span> p1<span class=\"token\
+  \ punctuation\">.</span>getName<span class=\"token punctuation\">(</span><span class=\"\
+  token punctuation\">)</span><span class=\"token punctuation\">)</span>\n<span class=\"\
+  token keyword\">print</span><span class=\"token punctuation\">(</span><span class=\"\
+  token string\">'p3 name:'</span><span class=\"token punctuation\">,</span> p1<span\
+  \ class=\"token punctuation\">.</span>getName<span class=\"token punctuation\">(</span><span\
+  \ class=\"token punctuation\">)</span><span class=\"token punctuation\">)</span>\n\
+  \n<span class=\"token keyword\">print</span><span class=\"token punctuation\">(</span><span\
+  \ class=\"token string\">'Changed p3 name to \\'Tom\\''</span><span class=\"token\
+  \ punctuation\">)</span>\np3<span class=\"token punctuation\">.</span>setName<span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'Tom'</span><span\
+  \ class=\"token punctuation\">)</span>\n<span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'p1 name:'</span><span\
+  \ class=\"token punctuation\">,</span> p1<span class=\"token punctuation\">.</span>getName<span\
+  \ class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span><span\
+  \ class=\"token punctuation\">)</span>\n<span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'p3 name:'</span><span\
+  \ class=\"token punctuation\">,</span> p3<span class=\"token punctuation\">.</span>getName<span\
+  \ class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span><span\
+  \ class=\"token punctuation\">)</span>\n\n<span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'p1 is p2:'</span><span\
+  \ class=\"token punctuation\">,</span> p1 <span class=\"token keyword\">is</span>\
+  \ p2<span class=\"token punctuation\">)</span>\n<span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'p1 is p3:'</span><span\
+  \ class=\"token punctuation\">,</span> p1 <span class=\"token keyword\">is</span>\
+  \ p3<span class=\"token punctuation\">)</span>\n</code></pre>\n\n<p>\u0E43\u0E19\
+  \u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07 \u0E40\u0E23\u0E32\u0E44\u0E14\u0E49\
+  \u0E2A\u0E23\u0E49\u0E32\u0E07\u0E04\u0E25\u0E32\u0E2A <code>Person</code> \u0E0B\
+  \u0E36\u0E48\u0E07\u0E40\u0E1B\u0E47\u0E19\u0E04\u0E25\u0E32\u0E2A\u0E02\u0E2D\u0E07\
+  \u0E1A\u0E38\u0E04\u0E04\u0E25\u0E17\u0E35\u0E48\u0E21\u0E35\u0E41\u0E2D\u0E15\u0E17\
+  \u0E23\u0E34\u0E1A\u0E34\u0E27\u0E15\u0E4C\u0E40\u0E1B\u0E47\u0E19 <code>name</code>\
+  \ \u0E2B\u0E25\u0E31\u0E07\u0E08\u0E32\u0E01\u0E19\u0E31\u0E49\u0E19\u0E40\u0E23\
+  \u0E32\u0E44\u0E14\u0E49\u0E2A\u0E23\u0E49\u0E32\u0E07\u0E2D\u0E2D\u0E1A\u0E40\u0E08\
+  \u0E47\u0E04\u0E08\u0E32\u0E01\u0E04\u0E25\u0E32\u0E2A\u0E21\u0E32\u0E2A\u0E2D\u0E07\
+  \u0E2D\u0E2D\u0E1A\u0E40\u0E08\u0E47\u0E04\u0E04\u0E37\u0E2D <code>p1</code> \u0E41\
+  \u0E25\u0E30 <code>p2</code></p>\n\n<pre class=\" language-python\"><code class=\"\
+  \ language-python\">p3 <span class=\"token operator\">=</span> p1\n</code></pre>\n\
+  \n<p>\u0E43\u0E19\u0E1A\u0E23\u0E23\u0E17\u0E31\u0E14\u0E16\u0E31\u0E14\u0E21\u0E32\
+  \ \u0E40\u0E23\u0E32\u0E01\u0E33\u0E2B\u0E19\u0E14\u0E15\u0E31\u0E27\u0E41\u0E1B\
+  \u0E23 <code>p1</code> \u0E43\u0E2B\u0E49\u0E40\u0E17\u0E48\u0E32\u0E01\u0E31\u0E1A\
+  \u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23 <code>p3</code> \u0E01\u0E32\u0E23\u0E17\u0E33\
+  \u0E40\u0E0A\u0E48\u0E19\u0E19\u0E35\u0E49\u0E01\u0E31\u0E1A\u0E15\u0E31\u0E27\u0E41\
+  \u0E1B\u0E23\u0E17\u0E35\u0E48\u0E40\u0E1B\u0E47\u0E19 instance \u0E02\u0E2D\u0E07\
+  \u0E04\u0E25\u0E32\u0E2A\u0E19\u0E31\u0E49\u0E19\u0E44\u0E21\u0E48\u0E44\u0E14\u0E49\
+  \u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\u0E23\u0E2A\u0E23\u0E49\u0E32\u0E07\u0E2D\u0E2D\
+  \u0E1A\u0E40\u0E08\u0E47\u0E04\u0E43\u0E2B\u0E21\u0E48\u0E02\u0E36\u0E49\u0E19\u0E21\
+  \u0E32 \u0E41\u0E15\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\u0E23\u0E2A\u0E23\u0E49\
+  \u0E32\u0E07\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23\u0E02\u0E36\u0E49\u0E19\u0E21\u0E32\
+  \ \u0E42\u0E14\u0E22\u0E17\u0E35\u0E48\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23\u0E19\
+  \u0E31\u0E49\u0E19\u0E21\u0E35\u0E2B\u0E19\u0E48\u0E27\u0E22\u0E04\u0E27\u0E32\u0E21\
+  \u0E08\u0E33\u0E40\u0E14\u0E35\u0E22\u0E27\u0E01\u0E31\u0E1A\u0E15\u0E31\u0E27\u0E41\
+  \u0E1B\u0E23 <code>p1</code> \u0E19\u0E31\u0E48\u0E19\u0E08\u0E30\u0E17\u0E33\u0E43\
+  \u0E2B\u0E49\u0E2A\u0E2D\u0E07\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23\u0E19\u0E35\u0E49\
+  \u0E40\u0E1B\u0E47\u0E19\u0E2D\u0E2D\u0E1A\u0E40\u0E08\u0E47\u0E04\u0E40\u0E14\u0E35\
+  \u0E22\u0E27\u0E01\u0E31\u0E19 \u0E40\u0E1E\u0E23\u0E32\u0E30\u0E21\u0E31\u0E19\u0E2D\
+  \u0E49\u0E32\u0E07\u0E16\u0E36\u0E07\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E1A\u0E40\u0E14\
+  \u0E35\u0E22\u0E27\u0E01\u0E31\u0E19\u0E43\u0E19\u0E2B\u0E19\u0E48\u0E27\u0E22\u0E04\
+  \u0E27\u0E32\u0E21\u0E08\u0E33 \u0E41\u0E25\u0E30\u0E15\u0E48\u0E2D\u0E21\u0E32\u0E40\
+  \u0E23\u0E32\u0E44\u0E14\u0E49\u0E43\u0E0A\u0E49\u0E1F\u0E31\u0E07\u0E01\u0E4C <code>id()</code>\
+  \ \u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E17\
+  \u0E35\u0E48\u0E2D\u0E22\u0E39\u0E48\u0E02\u0E2D\u0E07\u0E2D\u0E2D\u0E1A\u0E40\u0E08\
+  \u0E47\u0E04\u0E43\u0E19\u0E2B\u0E19\u0E48\u0E27\u0E22\u0E04\u0E27\u0E32\u0E21\u0E08\
+  \u0E33 \u0E08\u0E30\u0E40\u0E2B\u0E47\u0E19\u0E27\u0E48\u0E32\u0E17\u0E31\u0E49\u0E07\
+  \u0E2A\u0E2D\u0E07\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23\u0E21\u0E35\u0E17\u0E35\u0E48\
+  \u0E2D\u0E22\u0E39\u0E48\u0E40\u0E14\u0E35\u0E22\u0E27\u0E01\u0E31\u0E19</p>\n\n\
+  <pre class=\" language-python\"><code class=\" language-python\"><span class=\"\
+  token keyword\">print</span><span class=\"token punctuation\">(</span><span class=\"\
+  token string\">'Changed p3 name to \\'Tom\\''</span><span class=\"token punctuation\"\
+  >)</span>\np3<span class=\"token punctuation\">.</span>setName<span class=\"token\
+  \ punctuation\">(</span><span class=\"token string\">'Tom'</span><span class=\"\
+  token punctuation\">)</span>\n</code></pre>\n\n<p>\u0E43\u0E19\u0E04\u0E33\u0E2A\
+  \u0E31\u0E48\u0E07\u0E15\u0E48\u0E2D\u0E21\u0E32 \u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\
+  \u0E23\u0E40\u0E1B\u0E25\u0E35\u0E48\u0E22\u0E19\u0E0A\u0E37\u0E48\u0E2D\u0E43\u0E19\
+  \u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23 <code>p3</code> \u0E40\u0E1B\u0E47\u0E19 <code>'Tom'</code>\
+  \ \u0E41\u0E25\u0E30\u0E2B\u0E25\u0E31\u0E07\u0E08\u0E32\u0E01\u0E19\u0E31\u0E49\
+  \u0E19\u0E40\u0E23\u0E32\u0E41\u0E2A\u0E14\u0E07\u0E0A\u0E37\u0E48\u0E2D\u0E43\u0E19\
+  \u0E41\u0E15\u0E48\u0E25\u0E30\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23\u0E2D\u0E35\u0E01\
+  \u0E04\u0E23\u0E31\u0E49\u0E07 \u0E41\u0E25\u0E30\u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\
+  \u0E4C\u0E17\u0E35\u0E48\u0E44\u0E14\u0E49\u0E04\u0E37\u0E2D\u0E0A\u0E37\u0E48\u0E2D\
+  \u0E02\u0E2D\u0E07\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23 <code>p1</code> \u0E01\u0E47\
+  \u0E40\u0E1B\u0E25\u0E35\u0E48\u0E22\u0E19\u0E44\u0E1B\u0E40\u0E0A\u0E48\u0E19\u0E01\
+  \u0E31\u0E19 \u0E19\u0E35\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\u0E23\u0E22\u0E37\
+  \u0E19\u0E22\u0E31\u0E19\u0E27\u0E48\u0E32\u0E17\u0E31\u0E49\u0E07\u0E2A\u0E2D\u0E07\
+  \u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23\u0E19\u0E31\u0E49\u0E19\u0E40\u0E1B\u0E47\u0E19\
+  \u0E2D\u0E2D\u0E1A\u0E40\u0E08\u0E47\u0E04\u0E40\u0E14\u0E35\u0E22\u0E27\u0E01\u0E31\
+  \u0E19 \u0E41\u0E25\u0E30\u0E43\u0E19\u0E15\u0E2D\u0E19\u0E17\u0E49\u0E32\u0E22\
+  \ \u0E40\u0E23\u0E32\u0E44\u0E14\u0E49\u0E17\u0E33\u0E01\u0E32\u0E23\u0E40\u0E1B\
+  \u0E23\u0E35\u0E22\u0E1A\u0E40\u0E17\u0E35\u0E22\u0E1A\u0E14\u0E49\u0E27\u0E22\u0E15\
+  \u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23 <code>is</code></p>\n\
+  \n<pre class=\"code-result language-result\"><code class=\" language-result\">Memory\
+  \ address of a:  52840560\nMemory address of b:  52840624\nMemory address of c:\
+  \  52840560\np1 name: Tommy\np3 name: Tommy\nChanged p3 name to 'Tom'\np1 name:\
+  \ Tom\np3 name: Tom\np1 is p2: False\np1 is p3: True\n</code></pre>\n\n<p>\u0E41\
+  \u0E25\u0E30\u0E19\u0E35\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E1C\u0E25\u0E25\u0E31\u0E1E\
+  \u0E18\u0E4C\u0E01\u0E32\u0E23\u0E17\u0E33\u0E07\u0E32\u0E19\u0E02\u0E2D\u0E07\u0E42\
+  \u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21</p>\n\n<p>\u0E43\u0E19\u0E01\u0E32\u0E23\u0E43\
+  \u0E0A\u0E49\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\
+  \u0E40\u0E1B\u0E23\u0E35\u0E22\u0E1A\u0E40\u0E17\u0E35\u0E22\u0E1A\u0E19\u0E31\u0E49\
+  \u0E19 \u0E40\u0E23\u0E32\u0E21\u0E31\u0E01\u0E08\u0E30\u0E43\u0E0A\u0E49\u0E01\u0E31\
+  \u0E1A\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07\u0E04\u0E27\u0E1A\u0E04\u0E38\u0E21\u0E01\
+  \u0E32\u0E23\u0E17\u0E33\u0E07\u0E32\u0E19\u0E02\u0E2D\u0E07\u0E42\u0E1B\u0E23\u0E41\
+  \u0E01\u0E23\u0E21 \u0E40\u0E0A\u0E48\u0E19 \u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07\
+  \ if \u0E2B\u0E23\u0E37\u0E2D for \u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E43\u0E2B\u0E49\
+  \u0E04\u0E38\u0E13\u0E40\u0E02\u0E49\u0E32\u0E43\u0E08\u0E21\u0E32\u0E01\u0E02\u0E36\
+  \u0E49\u0E19 \u0E21\u0E32\u0E14\u0E39\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07\
+  \u0E01\u0E32\u0E23\u0E19\u0E33\u0E44\u0E1B\u0E43\u0E0A\u0E49\u0E43\u0E19\u0E01\u0E32\
+  \u0E23\u0E40\u0E02\u0E35\u0E22\u0E19\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E01\
+  \u0E31\u0E1A\u0E04\u0E33\u0E2A\u0E31\u0E07\u0E40\u0E2B\u0E25\u0E48\u0E32\u0E19\u0E35\
+  \u0E49</p>\n\n<pre class=\" language-python\"><code class=\" language-python\">n\
+  \ <span class=\"token operator\">=</span> <span class=\"token builtin\">int</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token builtin\">input</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">\"Enter a number:\
+  \ \"</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\"\
+  >)</span>\n\n<span class=\"token keyword\">if</span> n <span class=\"token operator\"\
+  >%</span> <span class=\"token number\">2</span> <span class=\"token operator\">==</span>\
+  \ <span class=\"token number\">0</span><span class=\"token punctuation\">:</span>\n\
+  \    <span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span><span class=\"token string\">'%d is even number'</span> <span class=\"\
+  token operator\">%</span> n<span class=\"token punctuation\">)</span>\n<span class=\"\
+  token keyword\">else</span><span class=\"token punctuation\">:</span>\n    <span\
+  \ class=\"token keyword\">print</span><span class=\"token punctuation\">(</span><span\
+  \ class=\"token string\">'%d is odd number'</span> <span class=\"token operator\"\
+  >%</span> n<span class=\"token punctuation\">)</span>\n\n<span class=\"token keyword\"\
+  >if</span> n <span class=\"token operator\">&gt;</span> <span class=\"token number\"\
+  >0</span><span class=\"token punctuation\">:</span>\n    <span class=\"token keyword\"\
+  >print</span><span class=\"token punctuation\">(</span><span class=\"token string\"\
+  >'%d is positive number'</span> <span class=\"token operator\">%</span> n<span class=\"\
+  token punctuation\">)</span>\n<span class=\"token keyword\">elif</span> n <span\
+  \ class=\"token operator\">==</span> <span class=\"token number\">0</span><span\
+  \ class=\"token punctuation\">:</span>\n    <span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'%d is zero'</span>\
+  \ <span class=\"token operator\">%</span> n<span class=\"token punctuation\">)</span>\n\
+  <span class=\"token keyword\">else</span><span class=\"token punctuation\">:</span>\n\
+  \    <span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span><span class=\"token string\">'%d is negative number'</span> <span class=\"\
+  token operator\">%</span> n<span class=\"token punctuation\">)</span>\n</code></pre>\n\
+  \n<p>\u0E43\u0E19\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07 \u0E40\u0E1B\u0E47\
+  \u0E19\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E43\u0E19\u0E01\u0E32\u0E23\u0E23\
+  \u0E31\u0E1A\u0E04\u0E48\u0E32\u0E15\u0E31\u0E27\u0E40\u0E25\u0E02\u0E41\u0E1A\u0E1A\
+  \ Integer \u0E41\u0E25\u0E49\u0E27\u0E40\u0E23\u0E32\u0E43\u0E0A\u0E49\u0E04\u0E33\
+  \u0E2A\u0E31\u0E48\u0E07 if \u0E43\u0E19\u0E01\u0E32\u0E23\u0E15\u0E23\u0E27\u0E08\
+  \u0E2A\u0E2D\u0E1A\u0E15\u0E31\u0E27\u0E40\u0E25\u0E02\u0E2A\u0E2D\u0E07\u0E2D\u0E22\
+  \u0E48\u0E32\u0E07\u0E04\u0E37\u0E2D \u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E27\
+  \u0E48\u0E32\u0E40\u0E1B\u0E47\u0E19\u0E40\u0E25\u0E02\u0E04\u0E39\u0E48\u0E2B\u0E23\
+  \u0E37\u0E2D\u0E40\u0E25\u0E02\u0E04\u0E35\u0E48 \u0E41\u0E25\u0E30\u0E15\u0E23\u0E27\
+  \u0E08\u0E2A\u0E2D\u0E1A\u0E27\u0E48\u0E32\u0E40\u0E1B\u0E47\u0E19\u0E08\u0E33\u0E19\
+  \u0E27\u0E19\u0E40\u0E15\u0E47\u0E21\u0E1A\u0E27\u0E01 \u0E40\u0E15\u0E47\u0E21\u0E25\
+  \u0E1A \u0E2B\u0E23\u0E37\u0E2D\u0E28\u0E39\u0E19\u0E22\u0E4C \u0E43\u0E19\u0E40\
+  \u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02 <code>n % 2 == 0</code> \u0E19\u0E31\u0E49\
+  \u0E19\u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\u0E23\u0E15\u0E23\u0E27\u0E08\u0E42\u0E14\
+  \u0E22\u0E01\u0E32\u0E23\u0E2B\u0E32\u0E23\u0E40\u0E2D\u0E32\u0E40\u0E28\u0E29 \u0E0B\
+  \u0E36\u0E48\u0E07\u0E21\u0E35\u0E04\u0E27\u0E32\u0E21\u0E2B\u0E21\u0E32\u0E22\u0E27\
+  \u0E48\u0E32 \u0E2B\u0E32\u0E01\u0E15\u0E31\u0E27\u0E40\u0E25\u0E02\u0E19\u0E31\u0E49\
+  \u0E19\u0E2B\u0E32\u0E23\u0E41\u0E25\u0E49\u0E27\u0E21\u0E35\u0E40\u0E28\u0E29\u0E40\
+  \u0E17\u0E48\u0E32\u0E01\u0E31\u0E1A 0 \u0E19\u0E31\u0E49\u0E19\u0E2B\u0E21\u0E32\
+  \u0E22\u0E04\u0E27\u0E32\u0E21\u0E27\u0E48\u0E32\u0E15\u0E31\u0E27\u0E40\u0E25\u0E02\
+  \u0E08\u0E30\u0E40\u0E1B\u0E47\u0E19\u0E40\u0E25\u0E02\u0E04\u0E39\u0E48\u0E41\u0E25\
+  \u0E30\u0E43\u0E19\u0E1A\u0E25\u0E47\u0E2D\u0E04\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07\
+  \ if \u0E08\u0E30\u0E17\u0E33\u0E07\u0E32\u0E19 \u0E41\u0E25\u0E30\u0E16\u0E49\u0E32\
+  \u0E44\u0E21\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E08\u0E23\u0E34\u0E07\u0E42\u0E1B\u0E23\
+  \u0E41\u0E01\u0E23\u0E21\u0E08\u0E30\u0E17\u0E33\u0E07\u0E32\u0E19\u0E43\u0E19\u0E1A\
+  \u0E25\u0E47\u0E2D\u0E04\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 else \u0E41\u0E17\u0E19\
+  \ \u0E43\u0E19\u0E1A\u0E25\u0E47\u0E2D\u0E04\u0E02\u0E2D\u0E07\u0E04\u0E33\u0E2A\
+  \u0E31\u0E48\u0E07 if \u0E15\u0E48\u0E2D\u0E21\u0E32 \u0E40\u0E1B\u0E47\u0E19\u0E01\
+  \u0E32\u0E23\u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E27\u0E48\u0E32\u0E15\u0E31\
+  \u0E27\u0E40\u0E25\u0E02\u0E19\u0E31\u0E49\u0E19\u0E40\u0E1B\u0E47\u0E19\u0E15\u0E31\
+  \u0E27\u0E40\u0E25\u0E02\u0E17\u0E35\u0E48\u0E21\u0E32\u0E01\u0E01\u0E27\u0E48\u0E32\
+  \ \u0E19\u0E49\u0E2D\u0E22\u0E01\u0E27\u0E48\u0E32 \u0E2B\u0E23\u0E37\u0E2D\u0E40\
+  \u0E17\u0E48\u0E32\u0E01\u0E31\u0E1A\u0E28\u0E39\u0E19\u0E22\u0E4C</p>\n\n<pre class=\"\
+  code-result language-result\"><code class=\" language-result\">Enter a number: 5\n\
+  5 is odd number\n5 is positive number\n</code></pre>\n\n<pre class=\"code-result\
+  \ language-result\"><code class=\" language-result\">Enter a number: -1\n-1 is odd\
+  \ number\n-1 is negative number\n</code></pre>\n\n<p>\u0E19\u0E35\u0E48\u0E40\u0E1B\
+  \u0E47\u0E19\u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E01\u0E32\u0E23\u0E17\u0E33\
+  \u0E07\u0E32\u0E19\u0E02\u0E2D\u0E07\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E2A\
+  \u0E2D\u0E07\u0E04\u0E23\u0E31\u0E49\u0E07 \u0E40\u0E21\u0E37\u0E48\u0E2D\u0E40\u0E23\
+  \u0E32\u0E01\u0E23\u0E2D\u0E01\u0E15\u0E31\u0E27\u0E40\u0E25\u0E02\u0E40\u0E1B\u0E47\
+  \u0E19 5 \u0E41\u0E25\u0E30 -1 \u0E15\u0E32\u0E21\u0E25\u0E33\u0E14\u0E31\u0E1A\
+  \ \u0E41\u0E25\u0E30\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E08\u0E30\u0E1A\
+  \u0E2D\u0E01\u0E40\u0E23\u0E32\u0E27\u0E48\u0E32\u0E15\u0E31\u0E27\u0E40\u0E25\u0E02\
+  \u0E19\u0E31\u0E49\u0E19\u0E40\u0E1B\u0E47\u0E19\u0E41\u0E1A\u0E1A\u0E44\u0E2B\u0E19\
+  </p>\n\n<div class=\"my-3\">\n    <!-- marcuscode - middle banner -->\n    <ins\
+  \ class=\"adsbygoogle\" style=\"display:block\" data-ad-client=\"ca-pub-9075045589988569\"\
+  \ data-ad-slot=\"9605104032\" data-ad-format=\"auto\" data-full-width-responsive=\"\
+  true\"></ins>\n    <script>\n        (adsbygoogle = window.adsbygoogle || []).push({});\n\
+  \    </script>\n</div>\n<h2>Logical operators</h2>\n\n<p>\u0E15\u0E31\u0E27\u0E14\
+  \u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E15\u0E23\u0E23\u0E01\u0E28\u0E32\
+  \u0E2A\u0E15\u0E23\u0E4C (Logical operators) \u0E04\u0E37\u0E2D\u0E15\u0E31\u0E27\
+  \u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E17\u0E35\u0E48\u0E43\u0E0A\
+  \u0E49\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E1B\u0E23\u0E30\u0E40\u0E21\u0E34\u0E19\
+  \u0E04\u0E48\u0E32\u0E17\u0E32\u0E07\u0E15\u0E23\u0E23\u0E01\u0E28\u0E32\u0E2A\u0E15\
+  \u0E23\u0E4C \u0E0B\u0E36\u0E48\u0E07\u0E40\u0E1B\u0E47\u0E19\u0E04\u0E48\u0E32\u0E17\
+  \u0E35\u0E48\u0E21\u0E35\u0E40\u0E1E\u0E35\u0E22\u0E07\u0E08\u0E23\u0E34\u0E07 (True)\
+  \ \u0E41\u0E25\u0E30\u0E40\u0E17\u0E47\u0E08 (False) \u0E40\u0E17\u0E48\u0E32\u0E19\
+  \u0E31\u0E49\u0E19  \u0E42\u0E14\u0E22\u0E17\u0E31\u0E48\u0E27\u0E44\u0E1B\u0E41\
+  \u0E25\u0E49\u0E27\u0E40\u0E23\u0E32\u0E21\u0E31\u0E01\u0E43\u0E0A\u0E49\u0E15\u0E31\
+  \u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E15\u0E23\u0E23\u0E01\
+  \u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C\u0E43\u0E19\u0E01\u0E32\u0E23\u0E40\u0E0A\u0E37\
+  \u0E48\u0E2D\u0E21 Boolean expression \u0E15\u0E31\u0E49\u0E07\u0E41\u0E15\u0E48\
+  \u0E2B\u0E19\u0E36\u0E48\u0E07 expression \u0E02\u0E36\u0E49\u0E19\u0E44\u0E1B\u0E41\
+  \u0E25\u0E30\u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E2A\u0E38\u0E14\u0E17\u0E49\
+  \u0E32\u0E22\u0E17\u0E35\u0E48\u0E44\u0E14\u0E49\u0E19\u0E31\u0E49\u0E19\u0E08\u0E30\
+  \u0E40\u0E1B\u0E47\u0E19 Boolean</p>\n\n<p>\u0E19\u0E35\u0E48\u0E40\u0E1B\u0E47\u0E19\
+  \u0E15\u0E32\u0E23\u0E32\u0E07\u0E02\u0E2D\u0E07\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\
+  \u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E15\u0E23\u0E23\u0E01\u0E28\u0E32\u0E2A\u0E15\
+  \u0E23\u0E4C\u0E43\u0E19\u0E20\u0E32\u0E29\u0E32 Python</p>\n\n<table class=\"table\"\
+  >\n<tbody><tr><th>Operator</th><th>Example</th><th>Result</th></tr>\n<tr><td>and</td><td>a\
+  \ and b</td><td>True if a and b are true, else False</td></tr>\n<tr><td>or</td><td>a\
+  \ or b</td><td>True if a or  b are true, else False</td></tr>\n<tr><td>not</td><td>not\
+  \ a</td><td>True if a is False, else True</td></tr>\n</tbody></table>\n\n<p>\u0E43\
+  \u0E19\u0E20\u0E32\u0E29\u0E32 Python \u0E19\u0E31\u0E49\u0E19\u0E21\u0E35\u0E15\
+  \u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E17\u0E32\u0E07\
+  \u0E15\u0E23\u0E23\u0E01\u0E28\u0E32\u0E2A\u0E15\u0E23\u0E4C 3 \u0E0A\u0E19\u0E34\
+  \u0E14 \u0E04\u0E37\u0E2D \u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\
+  \u0E01\u0E32\u0E23 <code>and</code> \u0E40\u0E1B\u0E47\u0E19\u0E15\u0E31\u0E27\u0E14\
+  \u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E17\u0E35\u0E48\u0E43\u0E0A\u0E49\
+  \u0E40\u0E0A\u0E37\u0E48\u0E2D\u0E21\u0E2A\u0E2D\u0E07 Expression \u0E41\u0E25\u0E30\
+  \u0E44\u0E14\u0E49\u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E40\u0E1B\u0E47\u0E19\
+  \ True \u0E2B\u0E32\u0E01 Expression \u0E17\u0E31\u0E49\u0E07\u0E2A\u0E2D\u0E07\u0E40\
+  \u0E1B\u0E47\u0E19 True  \u0E44\u0E21\u0E48\u0E40\u0E0A\u0E48\u0E19\u0E19\u0E31\u0E49\
+  \u0E19\u0E08\u0E30\u0E44\u0E14\u0E49\u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E40\
+  \u0E1B\u0E47\u0E19 False \u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\
+  \u0E32\u0E23 <code>or</code> \u0E40\u0E1B\u0E47\u0E19\u0E15\u0E31\u0E27\u0E14\u0E33\
+  \u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E17\u0E35\u0E48\u0E43\u0E0A\u0E49\u0E40\
+  \u0E0A\u0E37\u0E48\u0E2D\u0E21\u0E2A\u0E2D\u0E07 Expression \u0E41\u0E25\u0E30\u0E44\
+  \u0E14\u0E49\u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E40\u0E1B\u0E47\u0E19 True\
+  \ \u0E2B\u0E32\u0E01\u0E21\u0E35\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E19\u0E49\u0E2D\
+  \u0E22\u0E2B\u0E19\u0E36\u0E48\u0E07 Expression \u0E17\u0E35\u0E48\u0E40\u0E1B\u0E47\
+  \u0E19 True \u0E44\u0E21\u0E48\u0E40\u0E0A\u0E48\u0E19\u0E19\u0E31\u0E49\u0E19\u0E44\
+  \u0E14\u0E49\u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E40\u0E1B\u0E47\u0E19 False\
+  \  \u0E41\u0E25\u0E30\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\
+  \u0E32\u0E23 <code>not</code> \u0E43\u0E0A\u0E49\u0E43\u0E19\u0E01\u0E32\u0E23\u0E01\
+  \u0E25\u0E31\u0E1A\u0E04\u0E48\u0E32\u0E08\u0E32\u0E01 True \u0E40\u0E1B\u0E47\u0E19\
+  \ False  \u0E41\u0E25\u0E30\u0E43\u0E19\u0E17\u0E32\u0E07\u0E01\u0E25\u0E31\u0E1A\
+  \u0E01\u0E31\u0E19 \u0E21\u0E32\u0E14\u0E39\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\
+  \u0E07\u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19</p>\n\n<pre class=\"\
+  \ language-python\"><code class=\" language-python\"><span class=\"token keyword\"\
+  >print</span><span class=\"token punctuation\">(</span><span class=\"token string\"\
+  >'Log in page'</span><span class=\"token punctuation\">)</span>\nusername <span\
+  \ class=\"token operator\">=</span> <span class=\"token builtin\">input</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'Username: '</span><span\
+  \ class=\"token punctuation\">)</span>\npassword <span class=\"token operator\"\
+  >=</span> <span class=\"token builtin\">input</span><span class=\"token punctuation\"\
+  >(</span><span class=\"token string\">'Password: '</span><span class=\"token punctuation\"\
+  >)</span>\n\n<span class=\"token keyword\">if</span> <span class=\"token punctuation\"\
+  >(</span>username <span class=\"token operator\">==</span> <span class=\"token string\"\
+  >'mateo'</span> <span class=\"token keyword\">and</span> password <span class=\"\
+  token operator\">==</span> <span class=\"token string\">'3456'</span><span class=\"\
+  token punctuation\">)</span><span class=\"token punctuation\">:</span>\n    <span\
+  \ class=\"token keyword\">print</span><span class=\"token punctuation\">(</span><span\
+  \ class=\"token string\">'Welcome Mateo, you\\'ve logged in.'</span><span class=\"\
+  token punctuation\">)</span>\n<span class=\"token keyword\">else</span><span class=\"\
+  token punctuation\">:</span>\n    <span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'Invalid username\
+  \ or password.'</span><span class=\"token punctuation\">)</span>\n</code></pre>\n\
+  \n<p>\u0E43\u0E19\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07 \u0E40\u0E23\u0E32\
+  \u0E44\u0E14\u0E49\u0E2A\u0E23\u0E49\u0E32\u0E07\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\
+  \u0E21\u0E08\u0E33\u0E25\u0E2D\u0E07\u0E43\u0E19\u0E01\u0E32\u0E23\u0E40\u0E02\u0E49\
+  \u0E32\u0E2A\u0E39\u0E48\u0E23\u0E30\u0E1A\u0E1A\u0E02\u0E2D\u0E07\u0E2B\u0E19\u0E49\
+  \u0E32\u0E40\u0E27\u0E47\u0E1A\u0E44\u0E0B\u0E15\u0E4C \u0E43\u0E19\u0E01\u0E32\u0E23\
+  \u0E17\u0E35\u0E48\u0E08\u0E30\u0E40\u0E02\u0E49\u0E32\u0E2A\u0E39\u0E48\u0E23\u0E30\
+  \u0E1A\u0E1A \u0E1C\u0E39\u0E49\u0E43\u0E0A\u0E49\u0E15\u0E49\u0E2D\u0E07\u0E01\u0E23\
+  \u0E2D\u0E01\u0E0A\u0E37\u0E48\u0E2D\u0E1C\u0E39\u0E49\u0E43\u0E0A\u0E49\u0E41\u0E25\
+  \u0E30\u0E23\u0E2B\u0E31\u0E2A\u0E1C\u0E48\u0E32\u0E19\u0E43\u0E2B\u0E49\u0E16\u0E39\
+  \u0E01\u0E15\u0E49\u0E2D\u0E07 \u0E14\u0E31\u0E07\u0E19\u0E31\u0E49\u0E19\u0E40\u0E23\
+  \u0E32\u0E08\u0E36\u0E07\u0E43\u0E0A\u0E49\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\
+  \u0E34\u0E19\u0E01\u0E32\u0E23 <code>and</code> \u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E15\
+  \u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E27\u0E48\u0E32\u0E17\u0E31\u0E49\u0E07\u0E0A\
+  \u0E37\u0E48\u0E2D\u0E1C\u0E39\u0E49\u0E43\u0E0A\u0E49\u0E41\u0E25\u0E30\u0E23\u0E2B\
+  \u0E31\u0E2A\u0E1C\u0E48\u0E32\u0E19\u0E19\u0E31\u0E49\u0E19\u0E16\u0E39\u0E01\u0E15\
+  \u0E49\u0E2D\u0E07 \u0E17\u0E33\u0E43\u0E2B\u0E49\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\
+  \u0E44\u0E02\u0E40\u0E1B\u0E47\u0E19\u0E08\u0E23\u0E34\u0E07\u0E41\u0E25\u0E30\u0E43\
+  \u0E19\u0E1A\u0E25\u0E47\u0E2D\u0E04\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 if \u0E08\
+  \u0E30\u0E17\u0E33\u0E07\u0E32\u0E19</p>\n\n<pre class=\"code-result language-result\"\
+  ><code class=\" language-result\">Log in page\nUsername: mateo\nPassword: 3456\n\
+  Welcome Mateo, you've logged in.\n</code></pre>\n\n<p>\u0E19\u0E35\u0E48\u0E40\u0E1B\
+  \u0E47\u0E19\u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E01\u0E32\u0E23\u0E17\u0E33\
+  \u0E07\u0E32\u0E19\u0E02\u0E2D\u0E07\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21 \u0E40\
+  \u0E21\u0E37\u0E48\u0E2D\u0E40\u0E23\u0E32\u0E01\u0E23\u0E2D\u0E01\u0E0A\u0E37\u0E48\
+  \u0E2D\u0E1C\u0E39\u0E49\u0E43\u0E0A\u0E49\u0E40\u0E1B\u0E47\u0E19 <em>\"mateo\"\
+  </em> \u0E41\u0E25\u0E30\u0E23\u0E2B\u0E31\u0E2A\u0E1C\u0E48\u0E32\u0E19\u0E40\u0E1B\
+  \u0E47\u0E19 <em>\"3456\"</em> \u0E0B\u0E36\u0E48\u0E07\u0E16\u0E39\u0E01\u0E15\u0E49\
+  \u0E2D\u0E07\u0E17\u0E31\u0E49\u0E07\u0E2A\u0E2D\u0E07\u0E2D\u0E22\u0E48\u0E32\u0E07\
+  \u0E17\u0E33\u0E43\u0E2B\u0E49\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E40\u0E02\u0E49\
+  \u0E32\u0E2A\u0E39\u0E48\u0E23\u0E30\u0E1A\u0E1A\u0E44\u0E14\u0E49\u0E2A\u0E33\u0E40\
+  \u0E23\u0E47\u0E08</p>\n\n<h2>Bitwise operators</h2>\n\n<p>\u0E15\u0E31\u0E27\u0E14\
+  \u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E23\u0E30\u0E14\u0E31\u0E1A\u0E1A\
+  \u0E34\u0E15 (Bitwise operators) \u0E40\u0E1B\u0E47\u0E19\u0E15\u0E31\u0E27\u0E14\
+  \u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E17\u0E35\u0E48\u0E17\u0E33\u0E07\
+  \u0E32\u0E19\u0E43\u0E19\u0E23\u0E30\u0E14\u0E31\u0E1A\u0E1A\u0E34\u0E15\u0E02\u0E2D\
+  \u0E07\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25 \u0E2B\u0E23\u0E37\u0E2D\u0E08\u0E31\u0E14\
+  \u0E01\u0E32\u0E23\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25\u0E43\u0E19\u0E23\u0E30\u0E1A\
+  \u0E1A\u0E40\u0E25\u0E02\u0E10\u0E32\u0E19\u0E2A\u0E2D\u0E07 \u0E42\u0E14\u0E22\u0E17\
+  \u0E31\u0E48\u0E27\u0E44\u0E1B\u0E41\u0E25\u0E49\u0E27\u0E15\u0E31\u0E27\u0E14\u0E33\
+  \u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E23\u0E30\u0E14\u0E31\u0E1A\u0E1A\u0E34\
+  \u0E15\u0E21\u0E31\u0E01\u0E08\u0E30\u0E43\u0E0A\u0E49\u0E01\u0E31\u0E1A\u0E01\u0E32\
+  \u0E23\u0E40\u0E02\u0E35\u0E22\u0E19\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E23\
+  \u0E30\u0E14\u0E31\u0E1A\u0E15\u0E48\u0E33 \u0E40\u0E0A\u0E48\u0E19 \u0E01\u0E32\
+  \u0E23\u0E40\u0E02\u0E35\u0E22\u0E19\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\
+  \u0E1E\u0E37\u0E48\u0E2D\u0E04\u0E27\u0E1A\u0E04\u0E38\u0E21\u0E2E\u0E32\u0E23\u0E4C\
+  \u0E14\u0E41\u0E27\u0E23\u0E4C \u0E2D\u0E22\u0E48\u0E32\u0E07\u0E44\u0E23\u0E01\u0E47\
+  \u0E15\u0E32\u0E21 \u0E43\u0E19\u0E20\u0E32\u0E29\u0E32 Python \u0E19\u0E31\u0E49\
+  \u0E19\u0E2A\u0E19\u0E31\u0E1A\u0E2A\u0E19\u0E38\u0E19\u0E15\u0E31\u0E27\u0E14\u0E33\
+  \u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E43\u0E2B\
+  \u0E49\u0E40\u0E23\u0E32\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E08\u0E31\u0E14\u0E01\
+  \u0E32\u0E23\u0E01\u0E31\u0E1A\u0E1A\u0E34\u0E15\u0E02\u0E2D\u0E07\u0E02\u0E49\u0E2D\
+  \u0E21\u0E39\u0E25\u0E42\u0E14\u0E22\u0E15\u0E23\u0E07\u0E44\u0E14\u0E49</p>\n\n\
+  <p>\u0E19\u0E35\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E15\u0E32\u0E23\u0E32\u0E07\u0E02\
+  \u0E2D\u0E07\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\
+  \u0E23\u0E30\u0E14\u0E31\u0E1A\u0E1A\u0E34\u0E15\u0E43\u0E19\u0E20\u0E32\u0E29\u0E32\
+  \ Python</p>\n\n<table class=\"table\">\n<tbody><tr><th>Operator</th><th>Name</th><th>Result</th></tr>\n\
+  <tr><td>&amp;</td><td>Bitwise and</td><td>a &amp; b</td></tr>\n<tr><td>|</td><td>Bitwise\
+  \ or</td><td>a | b</td></tr>\n<tr><td>^</td><td>Bitwise exclusive or</td><td>a ^\
+  \ b</td></tr>\n<tr><td>&lt;&lt;</td><td>Bitwise shifted left</td><td>a &lt;&lt;\
+  \ b</td></tr>\n<tr><td>&gt;&gt;</td><td>Bitwise  shifted right</td><td>a &gt;&gt;\
+  \ b</td></tr>\n<tr><td>~</td><td>Bitwise  invert</td><td>~a</td></tr>\n</tbody></table>\n\
+  \n<p>\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E23\
+  \u0E30\u0E14\u0E31\u0E1A\u0E1A\u0E34\u0E15\u0E43\u0E0A\u0E49\u0E08\u0E31\u0E14\u0E01\
+  \u0E32\u0E23\u0E01\u0E31\u0E1A\u0E1A\u0E34\u0E15\u0E02\u0E2D\u0E07\u0E02\u0E49\u0E2D\
+  \u0E21\u0E39\u0E25\u0E17\u0E35\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E15\u0E31\u0E27\u0E40\
+  \u0E25\u0E02 \u0E42\u0E14\u0E22\u0E1B\u0E01\u0E15\u0E34\u0E41\u0E25\u0E49\u0E27\u0E40\
+  \u0E21\u0E37\u0E48\u0E2D\u0E40\u0E23\u0E32\u0E01\u0E33\u0E2B\u0E19\u0E14\u0E04\u0E48\
+  \u0E32\u0E43\u0E2B\u0E49\u0E01\u0E31\u0E1A\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23\u0E19\
+  \u0E31\u0E49\u0E19 \u0E04\u0E2D\u0E21\u0E1E\u0E34\u0E27\u0E40\u0E15\u0E2D\u0E23\u0E4C\
+  \u0E08\u0E30\u0E40\u0E01\u0E47\u0E1A\u0E04\u0E48\u0E32\u0E40\u0E2B\u0E25\u0E48\u0E32\
+  \u0E19\u0E35\u0E49\u0E43\u0E19\u0E2B\u0E19\u0E48\u0E27\u0E22\u0E04\u0E27\u0E32\u0E21\
+  \u0E08\u0E33\u0E43\u0E19\u0E23\u0E39\u0E1B\u0E41\u0E1A\u0E1A\u0E02\u0E2D\u0E07\u0E15\
+  \u0E31\u0E27\u0E40\u0E25\u0E02\u0E10\u0E32\u0E19\u0E2A\u0E2D\u0E07 (binary form)\
+  \ \u0E0B\u0E36\u0E48\u0E07\u0E1B\u0E23\u0E30\u0E01\u0E2D\u0E1A\u0E44\u0E1B\u0E14\
+  \u0E49\u0E27\u0E22\u0E40\u0E1E\u0E35\u0E22\u0E07 1 \u0E41\u0E25\u0E30 0 \u0E40\u0E17\
+  \u0E48\u0E32\u0E19\u0E31\u0E49\u0E19 \u0E14\u0E31\u0E07\u0E19\u0E31\u0E49\u0E19\u0E40\
+  \u0E23\u0E32\u0E43\u0E0A\u0E49\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\
+  \u0E01\u0E32\u0E23\u0E40\u0E2B\u0E25\u0E48\u0E32\u0E19\u0E35\u0E49\u0E43\u0E19\u0E01\
+  \u0E32\u0E23\u0E08\u0E31\u0E14\u0E01\u0E32\u0E23\u0E01\u0E31\u0E1A\u0E02\u0E49\u0E2D\
+  \u0E21\u0E39\u0E25\u0E44\u0E14\u0E49\u0E42\u0E14\u0E22\u0E15\u0E23\u0E07 \u0E21\u0E32\
+  \u0E14\u0E39\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07</p>\n\n<pre class=\"\
+  \ language-python\"><code class=\" language-python\">a <span class=\"token operator\"\
+  >=</span> <span class=\"token number\">3</span> <span class=\"token comment\">#\
+  \ 00000011</span>\nb <span class=\"token operator\">=</span> <span class=\"token\
+  \ number\">5</span> <span class=\"token comment\"># 00000101</span>\n\n<span class=\"\
+  token keyword\">print</span><span class=\"token punctuation\">(</span><span class=\"\
+  token string\">'a &amp; b ='</span><span class=\"token punctuation\">,</span> a\
+  \ <span class=\"token operator\">&amp;</span> b<span class=\"token punctuation\"\
+  >)</span>\n<span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span><span class=\"token string\">'a | b ='</span><span class=\"token punctuation\"\
+  >,</span> a <span class=\"token operator\">|</span> b<span class=\"token punctuation\"\
+  >)</span>\n<span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span><span class=\"token string\">'a ^ b ='</span><span class=\"token punctuation\"\
+  >,</span> a <span class=\"token operator\">^</span> b<span class=\"token punctuation\"\
+  >)</span>\n<span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span><span class=\"token string\">'~a ='</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token operator\">~</span>a<span class=\"token punctuation\"\
+  >)</span>\n<span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span><span class=\"token string\">'a &lt;&lt; 1 ='</span><span class=\"token\
+  \ punctuation\">,</span> a <span class=\"token operator\">&lt;&lt;</span> <span\
+  \ class=\"token number\">1</span><span class=\"token punctuation\">)</span>\n<span\
+  \ class=\"token keyword\">print</span><span class=\"token punctuation\">(</span><span\
+  \ class=\"token string\">'a &lt;&lt; 2 ='</span><span class=\"token punctuation\"\
+  >,</span> a <span class=\"token operator\">&lt;&lt;</span> <span class=\"token number\"\
+  >2</span><span class=\"token punctuation\">)</span>\n<span class=\"token keyword\"\
+  >print</span><span class=\"token punctuation\">(</span><span class=\"token string\"\
+  >'100 &gt;&gt; 1 ='</span><span class=\"token punctuation\">,</span> <span class=\"\
+  token number\">100</span> <span class=\"token operator\">&gt;&gt;</span> <span class=\"\
+  token number\">1</span><span class=\"token punctuation\">)</span>\n</code></pre>\n\
+  \n<p>\u0E43\u0E19\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07 \u0E40\u0E1B\u0E47\
+  \u0E19\u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\
+  \u0E34\u0E19\u0E01\u0E32\u0E23\u0E23\u0E30\u0E14\u0E31\u0E1A\u0E1A\u0E34\u0E15\u0E1B\
+  \u0E23\u0E30\u0E40\u0E20\u0E17\u0E15\u0E48\u0E32\u0E07\u0E46 \u0E43\u0E19\u0E20\u0E32\
+  \u0E29\u0E32 Python \u0E40\u0E23\u0E32\u0E21\u0E35\u0E15\u0E31\u0E27\u0E41\u0E1B\
+  \u0E23 <code>a</code> \u0E41\u0E25\u0E30\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23 <code>b</code>\
+  \ \u0E41\u0E25\u0E30\u0E01\u0E33\u0E2B\u0E19\u0E14\u0E04\u0E48\u0E32 3 \u0E41\u0E25\
+  \u0E30 5 \u0E43\u0E2B\u0E49\u0E01\u0E31\u0E1A\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23\
+  \u0E15\u0E32\u0E21\u0E25\u0E33\u0E14\u0E31\u0E1A \u0E40\u0E23\u0E32\u0E44\u0E14\u0E49\
+  \u0E04\u0E2D\u0E21\u0E40\u0E21\u0E19\u0E15\u0E4C\u0E04\u0E48\u0E32\u0E43\u0E19\u0E10\
+  \u0E32\u0E19\u0E2A\u0E2D\u0E07\u0E44\u0E27\u0E49\u0E14\u0E49\u0E27\u0E22 \u0E43\u0E19\
+  \u0E01\u0E32\u0E23\u0E17\u0E33\u0E07\u0E32\u0E19\u0E19\u0E31\u0E49\u0E19\u0E42\u0E1B\
+  \u0E23\u0E41\u0E01\u0E23\u0E21\u0E08\u0E30\u0E17\u0E33\u0E07\u0E32\u0E19\u0E17\u0E35\
+  \u0E25\u0E30\u0E04\u0E39\u0E48\u0E02\u0E2D\u0E07\u0E1A\u0E34\u0E15 \u0E14\u0E39\u0E27\
+  \u0E34\u0E18\u0E35\u0E01\u0E32\u0E23\u0E04\u0E33\u0E19\u0E27\u0E13\u0E15\u0E48\u0E2D\
+  \u0E44\u0E1B\u0E19\u0E35\u0E49\u0E1B\u0E23\u0E30\u0E01\u0E2D\u0E1A</p>\n\n<pre class=\"\
+  \ language-python\"><code class=\" language-python\"><span class=\"token comment\"\
+  ># 3 &amp; 5</span>\n<span class=\"token number\">00000011</span>\n<span class=\"\
+  token number\">00000101</span>\n<span class=\"token number\">00000001</span> <span\
+  \ class=\"token comment\"># result = 1</span>\n\n<span class=\"token comment\">#\
+  \ 3 | 5</span>\n<span class=\"token number\">00000011</span>\n<span class=\"token\
+  \ number\">00000101</span>\n<span class=\"token number\">00000111</span> <span class=\"\
+  token comment\"># result = 7</span>\n\n<span class=\"token comment\"># 3 ^ 5</span>\n\
+  <span class=\"token number\">00000011</span>\n<span class=\"token number\">00000101</span>\n\
+  <span class=\"token number\">00000110</span> <span class=\"token comment\"># result\
+  \ = 6</span>\n\n<span class=\"token comment\"># ~3</span>\n<span class=\"token number\"\
+  >00000011</span>\n<span class=\"token number\">11111100</span> <span class=\"token\
+  \ comment\"># result = -4</span>\n</code></pre>\n\n<p>\u0E08\u0E32\u0E01\u0E01\u0E32\
+  \u0E23\u0E41\u0E2A\u0E14\u0E07\u0E01\u0E32\u0E23\u0E17\u0E33\u0E07\u0E32\u0E19\u0E02\
+  \u0E49\u0E32\u0E07\u0E1A\u0E19\u0E19\u0E31\u0E49\u0E19 \u0E43\u0E19\u0E15\u0E31\u0E27\
+  \u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23 <code>&amp;</code> \u0E2B\
+  \u0E32\u0E01\u0E17\u0E31\u0E49\u0E07\u0E2A\u0E2D\u0E07\u0E1A\u0E34\u0E15\u0E21\u0E35\
+  \u0E04\u0E48\u0E32\u0E40\u0E1B\u0E47\u0E19 1 \u0E08\u0E30\u0E44\u0E14\u0E49\u0E1C\
+  \u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E40\u0E1B\u0E47\u0E19 1 \u0E44\u0E21\u0E48\
+  \u0E40\u0E0A\u0E48\u0E19\u0E19\u0E31\u0E49\u0E19 0 \u0E43\u0E19\u0E15\u0E31\u0E27\
+  \u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23 <code>|</code> \u0E2B\u0E32\
+  \u0E01\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E19\u0E49\u0E2D\u0E22\u0E2B\u0E19\u0E36\u0E48\
+  \u0E07\u0E1A\u0E34\u0E15\u0E17\u0E35\u0E48\u0E21\u0E35\u0E04\u0E48\u0E32\u0E40\u0E1B\
+  \u0E47\u0E19 1 \u0E08\u0E30\u0E44\u0E14\u0E49\u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\
+  \u0E4C\u0E40\u0E1B\u0E47\u0E19 1 \u0E44\u0E21\u0E48\u0E40\u0E0A\u0E48\u0E19\u0E19\
+  \u0E31\u0E49\u0E19 0 \u0E43\u0E19\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\
+  \u0E19\u0E01\u0E32\u0E23 <code>^</code> \u0E2B\u0E32\u0E01\u0E17\u0E31\u0E49\u0E07\
+  \u0E2A\u0E2D\u0E07\u0E1A\u0E34\u0E15\u0E19\u0E31\u0E49\u0E19\u0E41\u0E15\u0E01\u0E15\
+  \u0E48\u0E32\u0E07\u0E01\u0E31\u0E19\u0E08\u0E30\u0E44\u0E14\u0E49\u0E1C\u0E25\u0E25\
+  \u0E31\u0E1E\u0E18\u0E4C\u0E40\u0E1B\u0E47\u0E19 1 \u0E44\u0E21\u0E48\u0E40\u0E0A\
+  \u0E48\u0E19\u0E19\u0E31\u0E49\u0E19 0 \u0E41\u0E25\u0E30\u0E43\u0E19\u0E15\u0E31\
+  \u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23 <code>~</code> \u0E19\
+  \u0E31\u0E49\u0E19\u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\u0E23\u0E01\u0E25\u0E31\u0E1A\
+  \u0E04\u0E48\u0E32\u0E02\u0E2D\u0E07\u0E1A\u0E34\u0E15 \u0E2B\u0E25\u0E31\u0E07\u0E08\
+  \u0E32\u0E01\u0E19\u0E31\u0E49\u0E19\u0E40\u0E23\u0E32\u0E41\u0E1B\u0E25\u0E07\u0E1C\
+  \u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E17\u0E35\u0E48\u0E44\u0E14\u0E49\u0E01\u0E25\
+  \u0E31\u0E1A\u0E44\u0E1B\u0E22\u0E31\u0E07\u0E10\u0E32\u0E19\u0E2A\u0E34\u0E1A</p>\n\
+  \n<pre class=\" language-python\"><code class=\" language-python\"><span class=\"\
+  token comment\"># 3 &lt;&lt; 1</span>\n<span class=\"token number\">00000011</span>\n\
+  <span class=\"token number\">00000110</span> <span class=\"token comment\"># result\
+  \ = 6</span>\n\n<span class=\"token comment\"># 3 &lt;&lt; 2</span>\n<span class=\"\
+  token number\">00000011</span>\n<span class=\"token number\">00001100</span> <span\
+  \ class=\"token comment\"># result = 12</span>\n\n<span class=\"token comment\"\
+  ># 100&gt;&gt; 1</span>\n<span class=\"token number\">1100100</span>\n<span class=\"\
+  token number\">0110010</span> <span class=\"token comment\"># result = 50</span>\n\
+  </code></pre>\n\n<p>\u0E2D\u0E35\u0E01\u0E2A\u0E32\u0E21\u0E04\u0E33\u0E2A\u0E31\
+  \u0E48\u0E07\u0E15\u0E48\u0E2D\u0E21\u0E32\u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\u0E23\
+  \u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\
+  \u0E19\u0E01\u0E32\u0E23\u0E40\u0E25\u0E37\u0E48\u0E2D\u0E19\u0E1A\u0E34\u0E15 \u0E43\
+  \u0E19\u0E01\u0E32\u0E23\u0E17\u0E33\u0E07\u0E32\u0E19\u0E19\u0E31\u0E49\u0E19\u0E08\
+  \u0E30\u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\u0E23\u0E40\u0E25\u0E37\u0E48\u0E2D\u0E19\
+  \u0E1A\u0E34\u0E15\u0E44\u0E1B\u0E17\u0E32\u0E07\u0E0B\u0E49\u0E32\u0E22\u0E2B\u0E23\
+  \u0E37\u0E2D\u0E02\u0E27\u0E32\u0E15\u0E32\u0E21\u0E17\u0E34\u0E28\u0E17\u0E32\u0E07\
+  \u0E02\u0E2D\u0E07\u0E25\u0E39\u0E01\u0E28\u0E23\u0E02\u0E2D\u0E07\u0E15\u0E31\u0E27\
+  \u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23 \u0E1A\u0E34\u0E15\u0E17\u0E35\
+  \u0E48\u0E40\u0E02\u0E49\u0E32\u0E21\u0E32\u0E43\u0E2B\u0E21\u0E48\u0E17\u0E32\u0E07\
+  \u0E14\u0E49\u0E32\u0E19\u0E0B\u0E49\u0E32\u0E22\u0E2B\u0E23\u0E37\u0E2D\u0E02\u0E27\
+  \u0E32\u0E19\u0E31\u0E49\u0E19\u0E40\u0E1B\u0E47\u0E19\u0E1A\u0E34\u0E15 0 \u0E40\
+  \u0E2A\u0E21\u0E2D \u0E42\u0E14\u0E22\u0E17\u0E31\u0E48\u0E27\u0E44\u0E1B\u0E41\u0E25\
+  \u0E49\u0E27 \u0E40\u0E21\u0E37\u0E48\u0E2D\u0E40\u0E23\u0E32\u0E40\u0E25\u0E37\u0E48\
+  \u0E2D\u0E19\u0E1A\u0E34\u0E15\u0E02\u0E2D\u0E07\u0E15\u0E31\u0E27\u0E40\u0E25\u0E02\
+  \u0E43\u0E14\u0E46 \u0E44\u0E1B\u0E17\u0E32\u0E07\u0E14\u0E49\u0E32\u0E19\u0E0B\u0E49\
+  \u0E32\u0E22\u0E2B\u0E19\u0E36\u0E48\u0E07\u0E04\u0E23\u0E31\u0E49\u0E07\u0E08\u0E30\
+  \u0E17\u0E33\u0E43\u0E2B\u0E49\u0E04\u0E48\u0E32\u0E40\u0E1E\u0E34\u0E48\u0E21\u0E02\
+  \u0E36\u0E49\u0E19\u0E2A\u0E2D\u0E07\u0E40\u0E17\u0E48\u0E32 \u0E41\u0E25\u0E30\u0E16\
+  \u0E49\u0E32\u0E2B\u0E32\u0E01\u0E40\u0E25\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E1B\u0E17\
+  \u0E32\u0E07\u0E14\u0E49\u0E32\u0E19\u0E02\u0E27\u0E32\u0E2B\u0E19\u0E36\u0E48\u0E07\
+  \u0E04\u0E23\u0E31\u0E49\u0E07\u0E08\u0E30\u0E17\u0E33\u0E43\u0E2B\u0E49\u0E04\u0E48\
+  \u0E32\u0E25\u0E14\u0E25\u0E07\u0E04\u0E23\u0E36\u0E48\u0E07\u0E2B\u0E19\u0E36\u0E48\
+  \u0E07</p>\n\n<pre class=\"code-result language-result\"><code class=\" language-result\"\
+  >a &amp; b = 1\na | b = 7\na ^ b = 6\n~a = -4\na &lt;&lt; 1 = 6\na &lt;&lt; 2 =\
+  \ 12\n100 &gt;&gt; 1 = 50\n</code></pre>\n\n<p>\u0E19\u0E35\u0E48\u0E40\u0E1B\u0E47\
+  \u0E19\u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E01\u0E32\u0E23\u0E17\u0E33\u0E07\
+  \u0E32\u0E19\u0E02\u0E2D\u0E07\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21 \u0E43\u0E19\
+  \u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\u0E15\u0E31\u0E27\u0E14\u0E33\
+  \u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E23\u0E30\u0E14\u0E31\u0E1A\u0E1A\u0E34\
+  \u0E15\u0E43\u0E19\u0E20\u0E32\u0E29\u0E32 Python</p>\n\n<div class=\"my-3\">\n\
+  \    <!-- marcuscode - middle banner -->\n    <ins class=\"adsbygoogle\" style=\"\
+  display:block\" data-ad-client=\"ca-pub-9075045589988569\" data-ad-slot=\"9605104032\"\
+  \ data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins>\n    <script>\n\
+  \        (adsbygoogle = window.adsbygoogle || []).push({});\n    </script>\n</div>\n\
+  <h2>Sequence Operators</h2>\n\n<p>\u0E43\u0E19\u0E20\u0E32\u0E29\u0E32 Python \u0E21\
+  \u0E35\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E43\
+  \u0E19\u0E01\u0E32\u0E23\u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E01\u0E32\u0E23\
+  \u0E40\u0E1B\u0E47\u0E19\u0E2A\u0E21\u0E32\u0E0A\u0E34\u0E01\u0E43\u0E19\u0E2D\u0E2D\
+  \u0E1A\u0E40\u0E08\u0E47\u0E04\u0E1B\u0E23\u0E30\u0E40\u0E20\u0E17 List Tuple \u0E41\
+  \u0E25\u0E30 Dictionary \u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\
+  \u0E32\u0E23 <code>in</code> \u0E43\u0E0A\u0E49\u0E43\u0E19\u0E01\u0E32\u0E23\u0E15\
+  \u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E16\u0E49\u0E32\u0E2B\u0E32\u0E01\u0E04\u0E48\
+  \u0E32\u0E19\u0E31\u0E49\u0E19\u0E21\u0E35\u0E2D\u0E22\u0E39\u0E48\u0E43\u0E19\u0E2D\
+  \u0E2D\u0E1A\u0E40\u0E08\u0E47\u0E04 \u0E16\u0E49\u0E32\u0E2B\u0E32\u0E01\u0E1E\u0E1A\
+  \u0E08\u0E30\u0E44\u0E14\u0E49\u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E40\u0E1B\
+  \u0E47\u0E19 True \u0E41\u0E25\u0E30\u0E2B\u0E32\u0E01\u0E44\u0E21\u0E48\u0E1E\u0E1A\
+  \u0E08\u0E30\u0E44\u0E14\u0E49\u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E40\u0E1B\
+  \u0E47\u0E19 False \u0E41\u0E25\u0E30\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\
+  \u0E19\u0E01\u0E32\u0E23 <code>not in</code> \u0E19\u0E31\u0E49\u0E19\u0E08\u0E30\
+  \u0E17\u0E33\u0E07\u0E32\u0E19\u0E15\u0E23\u0E07\u0E01\u0E31\u0E19\u0E02\u0E49\u0E32\
+  \u0E21 \u0E2B\u0E32\u0E01\u0E44\u0E21\u0E48\u0E1E\u0E1A\u0E08\u0E30\u0E44\u0E14\u0E49\
+  \u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E40\u0E1B\u0E47\u0E19 True \u0E41\u0E17\
+  \u0E19</p>\n\n<p>\u0E19\u0E35\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E15\u0E32\u0E23\u0E32\
+  \u0E07\u0E02\u0E2D\u0E07\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\
+  \u0E32\u0E23\u0E43\u0E19\u0E01\u0E32\u0E23\u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\
+  \u0E01\u0E32\u0E23\u0E40\u0E1B\u0E47\u0E19\u0E2A\u0E21\u0E32\u0E0A\u0E34\u0E01\u0E43\
+  \u0E19\u0E2D\u0E2D\u0E1A\u0E40\u0E08\u0E47\u0E04 \u0E43\u0E19\u0E20\u0E32\u0E29\u0E32\
+  \ Python</p>\n\n<table class=\"table\">\n<tbody><tr><th>Operator</th><th>Name</th><th>Example</th></tr>\n\
+  <tr><td>in</td><td>Object memberships</td><td>a in b</td></tr>\n<tr><td>not in</td><td>Negated\
+  \ object memberships</td><td>a not in b</td></tr>\n</tbody></table>\n\n<p>\u0E21\
+  \u0E32\u0E14\u0E39\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E01\u0E32\u0E23\
+  \u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\u0E02\u0E2D\u0E07\u0E15\u0E31\u0E27\u0E14\u0E33\
+  \u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E40\u0E2B\u0E25\u0E48\u0E32\u0E19\u0E35\
+  \u0E49 \u0E40\u0E23\u0E32\u0E08\u0E30\u0E43\u0E0A\u0E49\u0E43\u0E19\u0E01\u0E32\u0E23\
+  \u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E01\u0E32\u0E23\u0E21\u0E35\u0E2D\u0E22\
+  \u0E39\u0E48\u0E02\u0E2D\u0E07\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25\u0E43\u0E19 List\
+  \ \u0E41\u0E25\u0E30 Dictionary</p>\n\n<pre class=\" language-python\"><code class=\"\
+  \ language-python\">names <span class=\"token operator\">=</span> <span class=\"\
+  token punctuation\">[</span><span class=\"token string\">'Mateo'</span><span class=\"\
+  token punctuation\">,</span> <span class=\"token string\">'David'</span><span class=\"\
+  token punctuation\">,</span> <span class=\"token string\">'Andrill'</span><span\
+  \ class=\"token punctuation\">,</span> <span class=\"token string\">'Joshep'</span><span\
+  \ class=\"token punctuation\">]</span>\n\n<span class=\"token keyword\">if</span>\
+  \ <span class=\"token string\">'Mateo'</span> <span class=\"token keyword\">in</span>\
+  \ names<span class=\"token punctuation\">:</span>\n    <span class=\"token keyword\"\
+  >print</span><span class=\"token punctuation\">(</span><span class=\"token string\"\
+  >'\\'Mateo\\' exist in the list'</span><span class=\"token punctuation\">)</span>\n\
+  <span class=\"token keyword\">else</span><span class=\"token punctuation\">:</span>\n\
+  \    <span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span><span class=\"token string\">'\\'Mateo\\' not exist in the list'</span><span\
+  \ class=\"token punctuation\">)</span>\n\n<span class=\"token keyword\">if</span>\
+  \ <span class=\"token string\">'Jonathan'</span> <span class=\"token keyword\">in</span>\
+  \ names<span class=\"token punctuation\">:</span>\n    <span class=\"token keyword\"\
+  >print</span><span class=\"token punctuation\">(</span><span class=\"token string\"\
+  >'\\'Jonathan\\' exist in the list'</span><span class=\"token punctuation\">)</span>\n\
+  <span class=\"token keyword\">else</span><span class=\"token punctuation\">:</span>\n\
+  \    <span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span><span class=\"token string\">'\\'Jonathan\\' not exist in the list'</span><span\
+  \ class=\"token punctuation\">)</span>\n\nnumbers <span class=\"token operator\"\
+  >=</span> <span class=\"token punctuation\">{</span><span class=\"token string\"\
+  >'1'</span><span class=\"token punctuation\">:</span> <span class=\"token string\"\
+  >'one'</span><span class=\"token punctuation\">,</span> <span class=\"token string\"\
+  >'3'</span><span class=\"token punctuation\">:</span> <span class=\"token string\"\
+  >'three'</span><span class=\"token punctuation\">,</span> <span class=\"token string\"\
+  >'2'</span><span class=\"token punctuation\">:</span> <span class=\"token string\"\
+  >'two'</span><span class=\"token punctuation\">,</span> <span class=\"token string\"\
+  >'5'</span><span class=\"token punctuation\">:</span> <span class=\"token string\"\
+  >'five'</span><span class=\"token punctuation\">}</span>\n\n<span class=\"token\
+  \ keyword\">if</span> <span class=\"token string\">'one'</span> <span class=\"token\
+  \ keyword\">in</span> numbers<span class=\"token punctuation\">.</span>values<span\
+  \ class=\"token punctuation\">(</span><span class=\"token punctuation\">)</span><span\
+  \ class=\"token punctuation\">:</span>\n    <span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'\\'one\\' exist\
+  \ in the dictionary values'</span><span class=\"token punctuation\">)</span>\n<span\
+  \ class=\"token keyword\">else</span><span class=\"token punctuation\">:</span>\n\
+  \    <span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span><span class=\"token string\">'\\'one\\' not exist in the dictionary values'</span><span\
+  \ class=\"token punctuation\">)</span>\n\n<span class=\"token keyword\">if</span>\
+  \ <span class=\"token string\">'7'</span> <span class=\"token keyword\">in</span>\
+  \ numbers<span class=\"token punctuation\">.</span>keys<span class=\"token punctuation\"\
+  >(</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\"\
+  >:</span>\n    <span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span><span class=\"token string\">'\\'7\\' exist in the dictionary keys'</span><span\
+  \ class=\"token punctuation\">)</span>\n<span class=\"token keyword\">else</span><span\
+  \ class=\"token punctuation\">:</span>\n    <span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'\\'7\\' not\
+  \ exist in the dictionary keys'</span><span class=\"token punctuation\">)</span>\n\
+  </code></pre>\n\n<p>\u0E43\u0E19\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07\
+  \ \u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\u0E23\u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\
+  \u0E1A\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25\u0E43\u0E19 List \u0E41\u0E25\u0E30 Dictionary\
+  \ \u0E43\u0E19\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E02\u0E2D\u0E07\u0E40\
+  \u0E23\u0E32\u0E21\u0E35\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23 List <code>names</code>\
+  \ \u0E0B\u0E36\u0E48\u0E07\u0E21\u0E35\u0E23\u0E32\u0E22\u0E0A\u0E37\u0E48\u0E2D\
+  \u0E2D\u0E22\u0E39\u0E48\u0E20\u0E32\u0E22\u0E43\u0E19 \u0E40\u0E23\u0E32\u0E43\u0E0A\
+  \u0E49\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 if \u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E15\
+  \u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E27\u0E48\u0E32 <code>\"Mateo\"</code> \u0E19\
+  \u0E31\u0E49\u0E19\u0E21\u0E35\u0E2D\u0E22\u0E39\u0E48\u0E43\u0E19 List \u0E2B\u0E23\
+  \u0E37\u0E2D\u0E44\u0E21\u0E48 \u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E17\u0E35\
+  \u0E48\u0E44\u0E14\u0E49\u0E19\u0E31\u0E49\u0E19\u0E08\u0E30\u0E40\u0E1B\u0E47\u0E19\
+  \u0E08\u0E23\u0E34\u0E07\u0E40\u0E1E\u0E23\u0E32\u0E30\u0E0A\u0E37\u0E48\u0E2D\u0E21\
+  \u0E35\u0E2D\u0E22\u0E39\u0E48</p>\n\n<p>\u0E41\u0E25\u0E30\u0E15\u0E48\u0E2D\u0E21\
+  \u0E32\u0E40\u0E23\u0E32\u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A <code>\"Jonathan\"\
+  </code> \u0E19\u0E31\u0E49\u0E19\u0E44\u0E21\u0E48\u0E1E\u0E1A\u0E0A\u0E37\u0E48\
+  \u0E2D\u0E14\u0E31\u0E07\u0E01\u0E25\u0E48\u0E32\u0E27\u0E43\u0E19 List \u0E15\u0E48\
+  \u0E2D\u0E21\u0E32\u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\u0E23\u0E15\u0E23\u0E27\u0E08\
+  \u0E2A\u0E2D\u0E1A\u0E01\u0E32\u0E23\u0E21\u0E35\u0E2D\u0E22\u0E39\u0E48\u0E02\u0E2D\
+  \u0E07\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25\u0E43\u0E19 Dictionary \u0E40\u0E19\u0E37\
+  \u0E48\u0E2D\u0E07\u0E08\u0E32\u0E01 Dictionary \u0E19\u0E31\u0E49\u0E19\u0E40\u0E1B\
+  \u0E47\u0E19\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25\u0E17\u0E35\u0E48\u0E40\u0E01\u0E47\
+  \u0E1A\u0E43\u0E19\u0E04\u0E39\u0E48\u0E02\u0E2D\u0E07 Key \u0E41\u0E25\u0E30 Values\
+  \ \u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E01\
+  \u0E31\u0E1A Key \u0E40\u0E23\u0E32\u0E15\u0E49\u0E2D\u0E07\u0E43\u0E0A\u0E49\u0E40\
+  \u0E21\u0E18\u0E2D\u0E14 <code>keys()</code> \u0E41\u0E25\u0E30\u0E40\u0E21\u0E18\
+  \u0E2D\u0E14 <code>values()</code> \u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A Value</p>\n\
+  \n<pre class=\"code-result language-result\"><code class=\" language-result\">'Mateo'\
+  \ exist in the list\n'Jonathan' not exist in the list\n'one' exist in the dictionary\
+  \ values\n'7' not exist in the dictionary keys\n</code></pre>\n\n<p>\u0E19\u0E35\
+  \u0E48\u0E40\u0E1B\u0E47\u0E19\u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E01\u0E32\
+  \u0E23\u0E17\u0E33\u0E07\u0E32\u0E19\u0E02\u0E2D\u0E07\u0E42\u0E1B\u0E23\u0E41\u0E01\
+  \u0E23\u0E21</p>\n\n<h2>Truth Value Testing</h2>\n\n<p>\u0E40\u0E19\u0E37\u0E48\u0E2D\
+  \u0E07\u0E08\u0E32\u0E01\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23\u0E43\u0E19\u0E20\u0E32\
+  \u0E29\u0E32 Python \u0E19\u0E31\u0E49\u0E19\u0E40\u0E1B\u0E47\u0E19\u0E1B\u0E23\
+  \u0E30\u0E40\u0E20\u0E17\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25\u0E41\u0E1A\u0E1A\u0E44\
+  \u0E14\u0E19\u0E32\u0E21\u0E34\u0E01\u0E2A\u0E4C \u0E14\u0E31\u0E07\u0E19\u0E31\u0E49\
+  \u0E19\u0E2D\u0E2D\u0E1A\u0E40\u0E08\u0E47\u0E04\u0E15\u0E48\u0E32\u0E07\u0E46 \u0E19\
+  \u0E31\u0E49\u0E19\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E17\u0E35\u0E48\u0E08\u0E30\
+  \u0E17\u0E33\u0E21\u0E32\u0E1B\u0E23\u0E30\u0E40\u0E21\u0E34\u0E19\u0E2A\u0E33\u0E2B\
+  \u0E23\u0E31\u0E1A\u0E04\u0E48\u0E32\u0E04\u0E27\u0E32\u0E21\u0E08\u0E23\u0E34\u0E07\
+  \ \u0E42\u0E14\u0E22\u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49\u0E04\u0E33\u0E2A\u0E31\
+  \u0E48\u0E07\u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E40\u0E07\u0E37\u0E48\u0E2D\
+  \u0E19\u0E44\u0E02\u0E40\u0E0A\u0E48\u0E19 if \u0E2B\u0E23\u0E37\u0E2D while \u0E2B\
+  \u0E23\u0E37\u0E2D\u0E01\u0E32\u0E23\u0E01\u0E23\u0E30\u0E17\u0E33\u0E40\u0E1E\u0E37\
+  \u0E48\u0E2D\u0E15\u0E23\u0E27\u0E08\u0E2B\u0E32\u0E04\u0E48\u0E32 boolean \u0E42\
+  \u0E14\u0E22\u0E04\u0E48\u0E32\u0E02\u0E49\u0E32\u0E07\u0E25\u0E48\u0E32\u0E07\u0E19\
+  \u0E35\u0E49\u0E40\u0E1B\u0E47\u0E19\u0E04\u0E48\u0E32\u0E17\u0E35\u0E48\u0E16\u0E39\
+  \u0E01\u0E1B\u0E23\u0E30\u0E40\u0E21\u0E34\u0E19\u0E40\u0E1B\u0E47\u0E19 False</p>\n\
+  \n<ul>\n<li><code>None</code></li>\n<li><code>False</code></li>\n<li>\u0E04\u0E48\
+  \u0E32\u0E28\u0E39\u0E19\u0E22\u0E4C\u0E02\u0E2D\u0E07\u0E02\u0E49\u0E2D\u0E21\u0E39\
+  \u0E25\u0E1B\u0E23\u0E30\u0E40\u0E20\u0E17\u0E15\u0E31\u0E27\u0E40\u0E25\u0E02\u0E43\
+  \u0E14\u0E46  \u0E40\u0E0A\u0E48\u0E19 <code>0</code>, <code>0L</code>, <code>0.0</code>,\
+  \ <code>0j</code></li>\n<li>\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25\u0E41\u0E1A\u0E1A\
+  \u0E25\u0E33\u0E14\u0E31\u0E1A\u0E17\u0E35\u0E48\u0E27\u0E48\u0E32\u0E07\u0E1B\u0E25\
+  \u0E48\u0E32\u0E27 \u0E40\u0E0A\u0E48\u0E19 <code>''</code>, <code>()</code>, <code>[]</code></li>\n\
+  <li>\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25\u0E41\u0E1A\u0E1A map \u0E17\u0E35\u0E48\
+  \u0E48\u0E27\u0E48\u0E32\u0E07\u0E1B\u0E25\u0E48\u0E32\u0E27 <code>{}</code></li>\n\
+  <li>\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23\u0E08\u0E32\u0E01\u0E04\u0E25\u0E32\u0E2A\
+  \u0E17\u0E35\u0E48\u0E1C\u0E39\u0E49\u0E43\u0E0A\u0E49\u0E2A\u0E23\u0E49\u0E32\u0E07\
+  \u0E02\u0E36\u0E49\u0E19 \u0E41\u0E25\u0E30\u0E04\u0E25\u0E32\u0E2A\u0E14\u0E31\u0E07\
+  \u0E01\u0E25\u0E48\u0E32\u0E07\u0E16\u0E39\u0E01\u0E01\u0E33\u0E2B\u0E19\u0E14\u0E40\
+  \u0E21\u0E18\u0E2D\u0E14 <code>__nonzero__()</code> \u0E2B\u0E23\u0E37\u0E2D <code>__len__()</code>\
+  \ \u0E41\u0E25\u0E30\u0E40\u0E21\u0E18\u0E2D\u0E14\u0E40\u0E2B\u0E25\u0E48\u0E32\
+  \u0E19\u0E35\u0E49\u0E2A\u0E48\u0E07\u0E04\u0E48\u0E32\u0E01\u0E25\u0E31\u0E1A\u0E40\
+  \u0E1B\u0E47\u0E19\u0E28\u0E39\u0E19\u0E22\u0E4C\u0E2B\u0E23\u0E37\u0E2D\u0E04\u0E48\
+  \u0E32 Boolean False</li>\n</ul>\n\n<p>\u0E2A\u0E48\u0E27\u0E19\u0E04\u0E48\u0E32\
+  \u0E2D\u0E37\u0E48\u0E19\u0E46 \u0E17\u0E35\u0E48\u0E19\u0E2D\u0E01\u0E40\u0E2B\u0E19\
+  \u0E37\u0E2D\u0E08\u0E32\u0E01\u0E17\u0E35\u0E48\u0E44\u0E14\u0E49\u0E01\u0E25\u0E48\
+  \u0E32\u0E27\u0E44\u0E1B\u0E19\u0E31\u0E49\u0E19\u0E08\u0E30\u0E16\u0E39\u0E01\u0E1B\
+  \u0E23\u0E30\u0E40\u0E21\u0E34\u0E19\u0E40\u0E1B\u0E47\u0E19 True \u0E17\u0E31\u0E49\
+  \u0E07\u0E2B\u0E21\u0E14 \u0E41\u0E25\u0E30\u0E2D\u0E2D\u0E1A\u0E40\u0E08\u0E47\u0E04\
+  \u0E02\u0E2D\u0E07\u0E1B\u0E23\u0E30\u0E40\u0E20\u0E17\u0E43\u0E14\u0E46 \u0E01\u0E47\
+  \u0E40\u0E1B\u0E47\u0E19 True \u0E40\u0E0A\u0E48\u0E19\u0E01\u0E31\u0E19</p>\n\n\
+  <p>\u0E43\u0E19\u0E1A\u0E17\u0E19\u0E35\u0E49 \u0E04\u0E38\u0E13\u0E40\u0E23\u0E35\
+  \u0E22\u0E19\u0E23\u0E39\u0E49\u0E40\u0E01\u0E35\u0E48\u0E22\u0E27\u0E01\u0E31\u0E1A\
+  \u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E43\u0E19\
+  \u0E20\u0E32\u0E29\u0E32 Python \u0E40\u0E23\u0E32\u0E44\u0E14\u0E49\u0E04\u0E23\
+  \u0E2D\u0E1A\u0E04\u0E25\u0E38\u0E21\u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49\u0E07\u0E32\
+  \u0E19\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E1B\
+  \u0E23\u0E30\u0E40\u0E20\u0E17\u0E15\u0E48\u0E32\u0E07\u0E46 \u0E41\u0E25\u0E30\u0E15\
+  \u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E43\u0E19\u0E1B\u0E23\u0E30\u0E22\u0E38\
+  \u0E01\u0E15\u0E4C\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\u0E15\u0E31\u0E27\u0E14\u0E33\
+  \u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E40\u0E2B\u0E25\u0E48\u0E32\u0E19\u0E35\
+  \u0E49\u0E43\u0E19\u0E01\u0E32\u0E23\u0E40\u0E02\u0E35\u0E22\u0E19\u0E42\u0E1B\u0E23\
+  \u0E41\u0E01\u0E23\u0E21 \u0E41\u0E25\u0E30\u0E2B\u0E25\u0E31\u0E01\u0E43\u0E19\u0E01\
+  \u0E32\u0E23\u0E1B\u0E23\u0E30\u0E40\u0E21\u0E34\u0E19\u0E04\u0E48\u0E32\u0E04\u0E27\
+  \u0E32\u0E21\u0E08\u0E23\u0E34\u0E07\u0E02\u0E2D\u0E07\u0E15\u0E31\u0E27\u0E41\u0E1B\
+  \u0E23\u0E41\u0E25\u0E30\u0E2D\u0E2D\u0E1A\u0E40\u0E08\u0E47\u0E04</p>\n\n\n<div\
+  \ class=\"my-3\">\n    <!-- marcuscode - bottom banner -->\n    <ins class=\"adsbygoogle\"\
+  \ style=\"display:block\" data-ad-client=\"ca-pub-9075045589988569\" data-ad-slot=\"\
+  9750736781\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins>\n\
+  \    <script>\n        (adsbygoogle = window.adsbygoogle || []).push({});\n    </script>\n\
+  </div>"
+environment_id: default
+environment_parameters:
+  limits:
+    hard_time: 20
+    memory: 120
+    time: 1
+  run_cmd: ''
+environment_type: docker
+evaluate: best
+file: ''
+groups: false
+input_random: '0'
+name: "6 \u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23"
+network_grading: false
+order: '0'
+problems:
+  problem16333462438337739teacher00:
+    accept: []
+    deadline: '2021-09-30T17:00:00.000Z'
+    default: ''
+    examplecase:
+      input:
+      - '2
+
+        2'
+      - '3
+
+        5'
+      output:
+      - '4'
+      - '15'
+    fixAnswer: true
+    fixanswer: true
+    header: ''
+    language: python
+    name: "\u0E01\u0E32\u0E23\u0E04\u0E39\u0E13"
+    noinput: false
+    notaccept: []
+    score: 5
+    score_late: 2.5
+    statement: "\u0E23\u0E31\u0E1A\u0E2D\u0E34\u0E19\u0E1E\u0E38\u0E15\u0E15\u0E31\
+      \u0E27\u0E40\u0E25\u0E02 2 \u0E15\u0E31\u0E27 \u0E41\u0E25\u0E30\u0E19\u0E33\
+      \u0E21\u0E32\u0E04\u0E39\u0E13\u0E01\u0E31\u0E19"
+    testcase:
+      input:
+      - '5
+
+        5'
+      - '6
+
+        6'
+      - '7
+
+        7'
+      output:
+      - '25'
+      - '36'
+      - '49'
+    type: code
+  problem16333463156971428teacher00:
+    accept: []
+    deadline: null
+    default: ''
+    examplecase:
+      input:
+      - '2
+
+        2'
+      - '15
+
+        5'
+      output:
+      - '1'
+      - '3'
+    fixAnswer: true
+    header: ''
+    language: python
+    name: "\u0E01\u0E32\u0E23\u0E2B\u0E32\u0E23"
+    noinput: false
+    notaccept: []
+    score: 5
+    score_late: 2.5
+    statement: "\u0E23\u0E31\u0E1A\u0E2D\u0E34\u0E19\u0E1E\u0E38\u0E15\u0E15\u0E31\
+      \u0E27\u0E40\u0E25\u0E02 2 \u0E15\u0E31\u0E27 \u0E41\u0E25\u0E30\u0E19\u0E33\
+      \u0E21\u0E32\u0E2B\u0E32\u0E23\u0E01\u0E31\u0E19"
+    testcase:
+      input:
+      - '10
+
+        5'
+      - '25
+
+        5'
+      - '7
+
+        7'
+      output:
+      - '2'
+      - '5'
+      - '1'
+    type: code
+stored_submissions: 0
+submission_limit:
+  amount: -1
+  period: -1
+weight: 1.0

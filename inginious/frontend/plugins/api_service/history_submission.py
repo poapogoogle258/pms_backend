@@ -43,7 +43,7 @@ class service_history_submission(APIAuthenticatedPage):
             username = self.user_manager.session_username()
             member = [username]
         else:
-            member = self.user_manager.get_course_registered_users(course)
+            member = self.user_manager.get_course_registered_users(course,with_admins=False)
 
 
         for task_id in tasksid:

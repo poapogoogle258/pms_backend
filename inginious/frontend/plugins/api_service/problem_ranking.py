@@ -17,7 +17,7 @@ class service_ranking(APIAuthenticatedPage):
             return {"status":"error","message":"Task not found"},500
                 
 
-        member = self.user_manager.get_course_registered_users(course)
+        member = self.user_manager.get_course_registered_users(course,with_admins=False)
         
         data = list(self.database.user_tasks.find({"courseid": coursesid, "taskid": taskid,'problemid':problemid,'username':{'$in':member}}))
 

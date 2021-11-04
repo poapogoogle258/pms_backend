@@ -1,0 +1,6 @@
+accessible: true
+admins:
+- student01
+description: เพื่อนบอกให้เปิดให้หน่อย
+name: ทดลองสอนรายวิชาเขียนโปรแกรม
+registration_password: google

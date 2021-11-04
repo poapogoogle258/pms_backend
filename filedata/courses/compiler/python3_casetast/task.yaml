@@ -1,0 +1,32 @@
+accessible: true
+author: ''
+categories: []
+contact_url: ''
+context: run srcipt python in docker
+environment_id: default
+environment_parameters:
+    limits:
+        time: '30'
+        hard_time: ''
+        memory: '100'
+    run_cmd: ''
+environment_type: docker
+evaluate: best
+file: ''
+groups: false
+input_random: '0'
+name: python3_casetast
+network_grading: false
+order: 0
+problems:
+    python3_casetast:
+        type: code
+        name: python3_casetast
+        header: ''
+        language: python
+        default: ''
+stored_submissions: 1
+submission_limit:
+    amount: -1
+    period: -1
+weight: 1.0

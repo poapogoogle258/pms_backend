@@ -1,0 +1,216 @@
+accessible: true
+author: Yakoub J, Rucquoy A
+categories:
+- module1
+context: adwadsd
+environment: mcq
+evaluate: best
+file: ''
+groups: false
+input_random: '0'
+limits:
+  memory: '100'
+  output: '2'
+  time: '30'
+name: '[Module 1] Access Modifiers / Scopes'
+network_grading: false
+order: 12
+problems:
+  mcq1:
+    choices:
+    - text: "\n\n.. list-table::\n  :header-rows: 1\n\n  * - Modifier\n    - Class\n\
+        \    - Package\n    - Subclass\n    - Everywhere\n  * - public\n    - True\n\
+        \    - True\n    - True\n    - True"
+      valid: true
+    - feedback: 'Even in the same package, we cannot access private field(s) / method(s) '
+      text: "\n\n.. list-table::\n  :header-rows: 1\n\n  * - Modifier\n    - Class\n\
+        \    - Package\n    - Subclass\n    - Everywhere\n  * - private\n    - True\n\
+        \    - True\n    - False\n    - False"
+    - text: "\n\n.. list-table::\n  :header-rows: 1\n\n  * - Modifier\n    - Class\n\
+        \    - Package\n    - Subclass\n    - Everywhere\n  * - private\n    - True\n\
+        \    - False\n    - False\n    - False"
+      valid: true
+    - feedback: Even inside another package, protected methods of a class are available
+        to subclasses that extend them
+      text: ".. list-table::\n  :header-rows: 1\n\n  * - Modifier\n    - Class\n \
+        \   - Package\n    - Subclass\n    - Everywhere\n  * - protected\n    - True\n\
+        \    - True\n    - False\n    - False"
+    - text: ".. list-table::\n  :header-rows: 1\n\n  * - Modifier\n    - Class\n \
+        \   - Package\n    - Subclass\n    - Everywhere\n  * - protected\n    - True\n\
+        \    - True\n    - True\n    - False"
+      valid: true
+    - text: ".. list-table::\n  :header-rows: 1\n\n  * - Modifier\n    - Class\n \
+        \   - Package\n    - Subclass\n    - Everywhere\n  * - default\n    - True\n\
+        \    - True\n    - False\n    - False"
+      valid: true
+    - feedback: 'If a class has no modifier (the default, also known as package-private),
+        it is visible only within its own package '
+      text: ".. list-table::\n  :header-rows: 1\n\n  * - Modifier\n    - Class\n \
+        \   - Package\n    - Subclass\n    - Everywhere\n  * - default\n    - True\n\
+        \    - True\n    - True\n    - False"
+    header: '
+
+      Select the right scope for each modifier!
+
+
+      +------------+------------+------------+--------------+--------------+
+
+      |            |          Access Levels                                |
+
+      +------------+------------+------------+--------------+--------------+
+
+      |  Modifier  |  Class     | Package    |  Subclass    | Everywhere   |
+
+      +============+============+============+==============+==============+
+
+      |  private   |     ?      |      ?     |      ?       |     ?        |
+
+      +------------+------------+------------+--------------+--------------+
+
+      |  default   |     ?      |      ?     |      ?       |     ?        |
+
+      +------------+------------+------------+--------------+--------------+
+
+      |  protected |     ?      |      ?     |      ?       |     ?        |
+
+      +------------+------------+------------+--------------+--------------+
+
+      |  public    |     ?      |      ?     |      ?       |     ?        |
+
+      +------------+------------+------------+--------------+--------------+
+
+
+
+      '
+    limit: 0
+    multiple: true
+    name: ''
+    type: multiple_choice
+  mcq2:
+    choices:
+    - feedback: Wrong as you cannot access the Beta class outside the package one
+        due to the default modifier
+      text: ".. code-block:: java\n\n  package two;\n  import one.*;\n\n  public class\
+        \ Test {\n    public static void main(String... args) {\n      System.out.println(Beta.RANDOM_QUOTE);\n\
+        \    }\n  }"
+    - text: ".. code-block:: java\n\n  package two;\n  import one.*;\n  public class\
+        \ AlphaPrime extends Alpha {\n    @override\n    protected int giveRandomNumber()\
+        \ {\n      return Alpha.MEAN_OF_LIFE * ( (int) Math.random() * 2 );\n    }\n\
+        \  }\n  public class Test {\n    public static void main(String... args) {\n\
+        \      AlphaPrime a = new AlphaPrime();\n      System.out.println(a.giveRandomNumber());\n\
+        \    }\n  }"
+      valid: true
+    - text: ".. code-block:: java\n\n  package one;\n  class Test {\n    public static\
+        \ void main(String... args) {\n      System.out.println(Beta.RANDOM_QUOTE);\n\
+        \    }\n  }"
+      valid: true
+    header: "\nWith the following code, which situation(s) is / are possible ?\n\n\
+      .. code-block:: java\n\n  package one;\n\n  public class Alpha {\n      static\
+      \ final int MEAN_OF_LIFE = 42;\n      private final String SOME_STRING = \"\
+      EPL UCLouvain\";\n      protected int giveRandomNumber() {\n          return\
+      \ 42;\n      }\n  }\n\n  class Beta {\n      final static String RANDOM_QUOTE\
+      \ = \"You shall not pass\";\n  }"
+    limit: 0
+    multiple: true
+    name: ''
+    type: multiple_choice
+  mcq3:
+    choices:
+    - text: ".. code-block:: java\n\n  public class OuterClass {\n    private String\
+        \ classAlias = \"outer alias\";\n\n    class InnerClass {\n      String classAlias\
+        \ = \"inner alias\";\n\n      public void printAlias() {\n        System.out.println(\"\
+        Outer: \" + OuterClass.this.classAlias);\n        System.out.println(\"Inner:\
+        \ \" + this.classAlias);\n      }\n    }\n\n    public static void main(String...\
+        \ args) {\n      InnerClass innerClass = new OuterClass().new InnerClass();\n\
+        \      innerClass.printAlias();\n    }\n  }"
+      valid: true
+    - feedback: OuterClass isn't a static class so you must use "this" in printAlias()
+      text: ".. code-block:: java\n\n  public class OuterClass {\n    private String\
+        \ classAlias = \"outer alias\";\n\n    class InnerClass {\n      String classAlias\
+        \ = \"inner alias\";\n\n      public void printAlias() {\n        System.out.println(\"\
+        Outer: \" + OuterClass.classAlias);\n        System.out.println(\"Inner: \"\
+        \ + this.classAlias);\n      }\n    }\n\n    public static void main(String...\
+        \ args) {\n      InnerClass innerClass = new OuterClass().new InnerClass();\n\
+        \      innerClass.printAlias();\n    }\n  }"
+    - text: ".. code-block:: java\n\n  public class MethodLocalInnerClassExample {\n\
+        \      void printFromInner(final int a) {\n          final int y = 10;\n\n\
+        \          class MethodLocalInnerClass {\n            int w = 5;\n\n     \
+        \       public void print(int z) {\n              System.out.println(\"y -\
+        \ z + w + a = \" + (y-z+w+a));\n            }\n          }\n\n          MethodLocalInnerClass\
+        \ innerClass = new MethodLocalInnerClass();\n          innerClass.print(5);\n\
+        \      }\n  }"
+      valid: true
+    - feedback: You will get a "cannot find symbol" as you don't need here to put
+        the outer class for initialisation
+      text: ".. code-block:: java\n\n  public class MethodLocalInnerClassExample {\n\
+        \      void printFromInner(final int a) {\n          final int y = 10;\n\n\
+        \          class MethodLocalInnerClass {\n            int w = 5;\n\n     \
+        \       public void print(int z) {\n              System.out.println(\"y -\
+        \ z + w + a = \" + (y-z+w+a));\n            }\n          }\n\n          MethodLocalInnerClassExample.MethodLocalInnerClass\
+        \ innerClass = new MethodLocalInnerClass();\n          innerClass.print(5);\n\
+        \      }\n  }"
+    header: Which following examples of inner class are correct ?
+    limit: 0
+    multiple: true
+    name: ''
+    type: multiple_choice
+  problem1631436771.9471178superadmin:
+    deadline: '2021-09-12T06:22:25.227Z'
+    default: ''
+    examplecase:
+      input: &id001
+      - '1'
+      - '1'
+      - '1'
+      output: &id002
+      - '1'
+      - '1'
+      - '1'
+    examplecaseinput: *id001
+    examplecaseoutput: *id002
+    fixAnswer: false
+    header: '1'
+    language: python
+    name: '1'
+    score: '1'
+    score_late: '1'
+    tastcaseinput: &id003
+    - '1'
+    - '1'
+    - '1'
+    tastcaseoutput: &id004
+    - '1'
+    - '1'
+    - '1'
+    testcase:
+      input: *id003
+      output: *id004
+    type: code
+  problem1631436924.846505superadmin:
+    default: ''
+    examplecase:
+      input: []
+      output: []
+    fixAnswer: false
+    language: python
+    testcase:
+      input: []
+      output: []
+    type: code
+  problem1631436980.541981superadmin:
+    default: ''
+    examplecase:
+      input: []
+      output: []
+    fixAnswer: false
+    language: python
+    testcase:
+      input: []
+      output: []
+    type: code
+run_cmd: ''
+stored_submissions: 0
+submission_limit:
+  amount: -1
+  period: -1
+weight: 1.0

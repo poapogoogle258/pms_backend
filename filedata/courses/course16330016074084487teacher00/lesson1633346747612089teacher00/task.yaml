@@ -1,0 +1,783 @@
+accessible: true
+author: teacher00
+categories: []
+contact_url: ''
+context: "<h1>\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07\u0E40\u0E25\u0E37\u0E2D\u0E01\u0E40\
+  \u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02</h1>\n    <section>\n        <div class=\"\
+  text-muted cleafix mb-3\">\n            <span>29 March 2017</span>\n           \
+  \                 </div>\n    </section>\n\n<p>\u0E43\u0E19\u0E1A\u0E17\u0E19\u0E35\
+  \u0E49 \u0E04\u0E38\u0E13\u0E08\u0E30\u0E44\u0E14\u0E49\u0E40\u0E23\u0E35\u0E22\u0E19\
+  \u0E40\u0E01\u0E35\u0E48\u0E22\u0E27\u0E01\u0E31\u0E1A\u0E04\u0E33\u0E2A\u0E31\u0E48\
+  \u0E07\u0E40\u0E25\u0E37\u0E2D\u0E01\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02\
+  \u0E43\u0E19\u0E20\u0E32\u0E29\u0E32 Python \u0E40\u0E23\u0E32\u0E08\u0E30\u0E1E\
+  \u0E39\u0E14\u0E16\u0E36\u0E07\u0E01\u0E32\u0E23\u0E04\u0E27\u0E1A\u0E04\u0E38\u0E21\
+  \u0E01\u0E32\u0E23\u0E17\u0E33\u0E07\u0E32\u0E19\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\
+  \u0E21\u0E14\u0E49\u0E27\u0E22\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 if, if else \u0E41\
+  \u0E25\u0E30 elif \u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E43\u0E2B\u0E49\u0E42\u0E1B\u0E23\
+  \u0E41\u0E01\u0E23\u0E21\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E17\u0E33\u0E07\u0E32\
+  \u0E19\u0E0B\u0E31\u0E1A\u0E0B\u0E49\u0E2D\u0E19\u0E41\u0E25\u0E30\u0E21\u0E35\u0E1B\
+  \u0E23\u0E30\u0E2A\u0E34\u0E17\u0E18\u0E34\u0E20\u0E32\u0E1E\u0E21\u0E32\u0E01\u0E02\
+  \u0E36\u0E49\u0E19 \u0E22\u0E01\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E40\
+  \u0E0A\u0E48\u0E19 \u0E40\u0E04\u0E23\u0E37\u0E48\u0E2D\u0E07\u0E1B\u0E23\u0E31\u0E1A\
+  \u0E2D\u0E32\u0E01\u0E32\u0E28\u0E08\u0E30\u0E17\u0E33\u0E07\u0E32\u0E19\u0E2D\u0E31\
+  \u0E15\u0E42\u0E19\u0E21\u0E31\u0E15\u0E34\u0E16\u0E49\u0E32\u0E2B\u0E32\u0E01\u0E2D\
+  \u0E38\u0E13\u0E2B\u0E20\u0E39\u0E21\u0E34\u0E43\u0E19\u0E2B\u0E49\u0E2D\u0E07\u0E2A\
+  \u0E39\u0E07\u0E2B\u0E23\u0E37\u0E2D\u0E15\u0E48\u0E33\u0E40\u0E01\u0E34\u0E19\u0E44\
+  \u0E1B \u0E2B\u0E23\u0E37\u0E2D\u0E23\u0E16\u0E22\u0E19\u0E15\u0E4C\u0E08\u0E30\u0E41\
+  \u0E2A\u0E14\u0E07\u0E2A\u0E31\u0E0D\u0E0D\u0E32\u0E13\u0E40\u0E15\u0E37\u0E2D\u0E19\
+  \u0E2B\u0E32\u0E01\u0E19\u0E49\u0E33\u0E21\u0E31\u0E19\u0E01\u0E33\u0E25\u0E31\u0E07\
+  \u0E43\u0E01\u0E25\u0E49\u0E08\u0E30\u0E2B\u0E21\u0E14 \u0E40\u0E1B\u0E47\u0E19\u0E15\
+  \u0E49\u0E19 \u0E0B\u0E36\u0E48\u0E07\u0E17\u0E31\u0E49\u0E07\u0E2B\u0E21\u0E14\u0E19\
+  \u0E35\u0E49\u0E40\u0E01\u0E34\u0E14\u0E08\u0E32\u0E01\u0E01\u0E32\u0E23\u0E01\u0E33\
+  \u0E2B\u0E19\u0E14\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02\u0E01\u0E32\u0E23\
+  \u0E17\u0E33\u0E07\u0E32\u0E19\u0E43\u0E2B\u0E49\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\
+  \u0E21 \u0E21\u0E32\u0E40\u0E23\u0E34\u0E48\u0E21\u0E01\u0E31\u0E1A\u0E04\u0E33\u0E2A\
+  \u0E31\u0E48\u0E07 if \u0E43\u0E19\u0E20\u0E32\u0E29\u0E32 Python</p>\n\n<h2>\u0E04\
+  \u0E33\u0E2A\u0E31\u0E48\u0E07 if</h2>\n\n<p>\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07\
+  \ if \u0E40\u0E1B\u0E47\u0E19\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07\u0E17\u0E35\u0E48\
+  \u0E43\u0E0A\u0E49\u0E04\u0E27\u0E1A\u0E04\u0E38\u0E21\u0E01\u0E32\u0E23\u0E17\u0E33\
+  \u0E07\u0E32\u0E19\u0E02\u0E2D\u0E07\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E17\
+  \u0E35\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E1E\u0E37\u0E49\u0E19\u0E10\u0E32\u0E19\u0E41\
+  \u0E25\u0E30\u0E07\u0E48\u0E32\u0E22\u0E17\u0E35\u0E48\u0E2A\u0E38\u0E14 \u0E40\u0E23\
+  \u0E32\u0E43\u0E0A\u0E49\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 if \u0E40\u0E1E\u0E37\
+  \u0E48\u0E2D\u0E2A\u0E23\u0E49\u0E32\u0E07\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\
+  \u0E02\u0E43\u0E2B\u0E49\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E17\u0E33\u0E07\
+  \u0E32\u0E19\u0E15\u0E32\u0E21\u0E17\u0E35\u0E48\u0E40\u0E23\u0E32\u0E15\u0E49\u0E2D\
+  \u0E07\u0E01\u0E32\u0E23\u0E40\u0E21\u0E37\u0E48\u0E2D\u0E40\u0E07\u0E37\u0E48\u0E2D\
+  \u0E19\u0E44\u0E02\u0E19\u0E31\u0E49\u0E19\u0E15\u0E23\u0E07\u0E01\u0E31\u0E1A\u0E17\
+  \u0E35\u0E48\u0E40\u0E23\u0E32\u0E01\u0E33\u0E2B\u0E19\u0E14 \u0E40\u0E0A\u0E48\u0E19\
+  \ \u0E01\u0E32\u0E23\u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E04\u0E48\u0E32\
+  \u0E43\u0E19\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23\u0E01\u0E31\u0E1A\u0E15\u0E31\u0E27\
+  \u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E1B\u0E23\u0E30\u0E40\u0E20\
+  \u0E17\u0E15\u0E48\u0E32\u0E07\u0E46 \u0E19\u0E35\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E23\
+  \u0E39\u0E1B\u0E41\u0E1A\u0E1A\u0E02\u0E2D\u0E07\u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49\
+  \u0E07\u0E32\u0E19\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 if \u0E43\u0E19\u0E20\u0E32\
+  \u0E29\u0E32 Python</p>\n\n<pre class=\"code-syntax language-syntax\"><code class=\"\
+  \ language-syntax\">if expression:\n    # statements\n</code></pre>\n\n<p>\u0E43\
+  \u0E19\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07 \u0E40\u0E1B\u0E47\u0E19\u0E23\
+  \u0E39\u0E1B\u0E41\u0E1A\u0E1A\u0E02\u0E2D\u0E07\u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49\
+  \u0E07\u0E32\u0E19\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 if \u0E41\u0E25\u0E30 <code>expression</code>\
+  \ \u0E40\u0E1B\u0E47\u0E19\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02\u0E17\
+  \u0E35\u0E48\u0E2A\u0E23\u0E49\u0E32\u0E07\u0E08\u0E32\u0E01\u0E15\u0E31\u0E27\u0E14\
+  \u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E1B\u0E23\u0E30\u0E40\u0E20\u0E17\
+  \u0E15\u0E48\u0E32\u0E07\u0E46 \u0E17\u0E35\u0E48\u0E40\u0E1B\u0E47\u0E19 boolean\
+  \ expression \u0E42\u0E14\u0E22\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E08\u0E30\
+  \u0E17\u0E33\u0E07\u0E32\u0E19\u0E43\u0E19\u0E1A\u0E25\u0E47\u0E2D\u0E04\u0E04\u0E33\
+  \u0E2A\u0E31\u0E48\u0E07 if \u0E16\u0E49\u0E32\u0E2B\u0E32\u0E01\u0E40\u0E07\u0E37\
+  \u0E48\u0E2D\u0E19\u0E44\u0E02\u0E40\u0E1B\u0E47\u0E19 True \u0E44\u0E21\u0E48\u0E40\
+  \u0E0A\u0E48\u0E19\u0E19\u0E31\u0E49\u0E19\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\
+  \u0E08\u0E30\u0E02\u0E49\u0E32\u0E21\u0E01\u0E32\u0E23\u0E17\u0E33\u0E07\u0E32\u0E19\
+  \u0E44\u0E1B \u0E43\u0E19\u0E1A\u0E25\u0E47\u0E2D\u0E04\u0E02\u0E2D\u0E07\u0E04\u0E33\
+  \u0E2A\u0E31\u0E48\u0E07 if \u0E08\u0E30\u0E1B\u0E23\u0E30\u0E01\u0E2D\u0E1A\u0E44\
+  \u0E1B\u0E14\u0E49\u0E27\u0E22\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07\u0E01\u0E32\u0E23\
+  \u0E17\u0E33\u0E07\u0E32\u0E19\u0E02\u0E2D\u0E07\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\
+  \u0E21 \u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07\u0E17\u0E31\u0E49\u0E07\u0E2B\u0E21\u0E14\
+  \u0E43\u0E19\u0E1A\u0E25\u0E47\u0E2D\u0E04\u0E15\u0E49\u0E2D\u0E07\u0E21\u0E35\u0E23\
+  \u0E30\u0E22\u0E30\u0E40\u0E27\u0E49\u0E19\u0E0A\u0E48\u0E2D\u0E07\u0E27\u0E48\u0E32\
+  \u0E07\u0E17\u0E35\u0E48\u0E40\u0E17\u0E48\u0E32\u0E01\u0E31\u0E19 \u0E15\u0E48\u0E2D\
+  \u0E44\u0E1B\u0E21\u0E32\u0E14\u0E39\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07\
+  \u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\u0E04\u0E33\u0E2A\u0E31\u0E48\
+  \u0E07 if \u0E43\u0E19\u0E20\u0E32\u0E29\u0E32 Python</p>\n\n<pre class=\" language-python\"\
+  ><code class=\" language-python\">n <span class=\"token operator\">=</span> <span\
+  \ class=\"token number\">10</span>\n<span class=\"token keyword\">if</span> n <span\
+  \ class=\"token operator\">==</span> <span class=\"token number\">10</span><span\
+  \ class=\"token punctuation\">:</span>\n    <span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'n equal to 10'</span><span\
+  \ class=\"token punctuation\">)</span>\n\nlogged_in <span class=\"token operator\"\
+  >=</span> <span class=\"token boolean\">False</span>\n<span class=\"token keyword\"\
+  >if</span> <span class=\"token keyword\">not</span> logged_in<span class=\"token\
+  \ punctuation\">:</span>\n    <span class=\"token keyword\">print</span><span class=\"\
+  token punctuation\">(</span><span class=\"token string\">'You must login to continue'</span><span\
+  \ class=\"token punctuation\">)</span>\n\nm <span class=\"token operator\">=</span>\
+  \ <span class=\"token number\">4</span>\n<span class=\"token keyword\">if</span>\
+  \ m <span class=\"token operator\">%</span> <span class=\"token number\">2</span>\
+  \ <span class=\"token operator\">==</span> <span class=\"token number\">0</span>\
+  \ <span class=\"token keyword\">and</span> m <span class=\"token operator\">&gt;</span>\
+  \ <span class=\"token number\">0</span><span class=\"token punctuation\">:</span>\n\
+  \    <span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span><span class=\"token string\">'m is even and positive numbers'</span><span\
+  \ class=\"token punctuation\">)</span>\n\n<span class=\"token keyword\">if</span>\
+  \ <span class=\"token number\">3</span> <span class=\"token operator\">&gt;</span>\
+  \ <span class=\"token number\">10</span><span class=\"token punctuation\">:</span>\n\
+  \    <span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span><span class=\"token string\">'This block isn\\'t executed'</span><span\
+  \ class=\"token punctuation\">)</span>\n</code></pre>\n\n<p>\u0E43\u0E19\u0E15\u0E31\
+  \u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07 \u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\u0E23\u0E43\
+  \u0E0A\u0E49\u0E07\u0E32\u0E19\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 if \u0E40\u0E1E\
+  \u0E37\u0E48\u0E2D\u0E01\u0E33\u0E2B\u0E19\u0E14\u0E43\u0E2B\u0E49\u0E42\u0E1B\u0E23\
+  \u0E41\u0E01\u0E23\u0E21\u0E17\u0E33\u0E07\u0E32\u0E19\u0E15\u0E32\u0E21\u0E40\u0E07\
+  \u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02\u0E15\u0E48\u0E32\u0E07\u0E46 \u0E43\u0E19\u0E1A\
+  \u0E25\u0E47\u0E2D\u0E04\u0E41\u0E23\u0E01\u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\u0E23\
+  \u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E04\u0E48\u0E32\u0E43\u0E19\u0E15\u0E31\
+  \u0E27\u0E41\u0E1B\u0E23 <code>n</code> \u0E27\u0E48\u0E32\u0E40\u0E17\u0E48\u0E32\
+  \u0E01\u0E31\u0E1A 10 \u0E2B\u0E23\u0E37\u0E2D\u0E44\u0E21\u0E48 \u0E40\u0E19\u0E37\
+  \u0E48\u0E2D\u0E07\u0E08\u0E32\u0E01\u0E04\u0E48\u0E32\u0E43\u0E19\u0E15\u0E31\u0E27\
+  \u0E41\u0E1B\u0E23\u0E19\u0E31\u0E49\u0E19\u0E40\u0E17\u0E48\u0E32\u0E01\u0E31\u0E1A\
+  \ 10 \u0E17\u0E33\u0E43\u0E2B\u0E49\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E40\u0E1B\
+  \u0E47\u0E19\u0E08\u0E23\u0E34\u0E07 \u0E41\u0E25\u0E30\u0E42\u0E1B\u0E23\u0E41\u0E01\
+  \u0E23\u0E21\u0E17\u0E33\u0E07\u0E32\u0E19\u0E43\u0E19\u0E1A\u0E25\u0E47\u0E2D\u0E04\
+  \u0E02\u0E2D\u0E07\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 if \u0E41\u0E25\u0E30\u0E15\
+  \u0E48\u0E2D\u0E21\u0E32\u0E40\u0E23\u0E32\u0E21\u0E35\u0E15\u0E31\u0E27\u0E41\u0E1B\
+  \u0E23 boolean <code>logged_in</code> \u0E40\u0E01\u0E47\u0E1A\u0E04\u0E48\u0E32\
+  \u0E2A\u0E16\u0E32\u0E19\u0E30\u0E01\u0E32\u0E23\u0E40\u0E02\u0E49\u0E32\u0E2A\u0E39\
+  \u0E48\u0E23\u0E30\u0E1A\u0E1A \u0E40\u0E23\u0E32\u0E44\u0E14\u0E49\u0E17\u0E33\u0E01\
+  \u0E32\u0E23\u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E42\u0E14\u0E22\u0E01\u0E32\
+  \u0E23\u0E43\u0E0A\u0E49\u0E15\u0E31\u0E27\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\
+  \u0E32\u0E23 <code>not</code> \u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E15\u0E23\u0E27\
+  \u0E08\u0E2A\u0E2D\u0E1A\u0E27\u0E48\u0E32\u0E16\u0E49\u0E32\u0E2B\u0E32\u0E01\u0E1C\
+  \u0E39\u0E49\u0E43\u0E0A\u0E49\u0E44\u0E21\u0E48\u0E40\u0E02\u0E49\u0E32\u0E2A\u0E39\
+  \u0E48\u0E23\u0E30\u0E1A\u0E1A \u0E08\u0E30\u0E41\u0E2A\u0E14\u0E07\u0E02\u0E49\u0E2D\
+  \u0E04\u0E27\u0E32\u0E21\u0E1A\u0E2D\u0E01\u0E27\u0E48\u0E32\u0E15\u0E49\u0E2D\u0E07\
+  \u0E40\u0E02\u0E49\u0E32\u0E23\u0E30\u0E1A\u0E1A\u0E01\u0E48\u0E2D\u0E19\u0E17\u0E35\
+  \u0E48\u0E08\u0E30\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19</p>\n\n<p>\u0E15\u0E48\u0E2D\
+  \u0E21\u0E32\u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\u0E23\u0E15\u0E23\u0E27\u0E08\u0E2A\
+  \u0E2D\u0E1A\u0E04\u0E48\u0E32\u0E43\u0E19\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23 <code>m</code>\
+  \ \u0E27\u0E48\u0E32\u0E40\u0E1B\u0E47\u0E19\u0E17\u0E31\u0E49\u0E07\u0E08\u0E33\
+  \u0E19\u0E27\u0E19\u0E40\u0E15\u0E47\u0E21\u0E1A\u0E27\u0E01\u0E41\u0E25\u0E30\u0E08\
+  \u0E33\u0E19\u0E27\u0E19\u0E04\u0E39\u0E48\u0E2B\u0E23\u0E37\u0E2D\u0E44\u0E21\u0E48\
+  \ \u0E40\u0E23\u0E32\u0E44\u0E14\u0E49\u0E43\u0E0A\u0E49\u0E15\u0E31\u0E27\u0E14\
+  \u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23 <code>and</code> \u0E40\u0E1E\u0E37\
+  \u0E48\u0E2D\u0E40\u0E0A\u0E37\u0E48\u0E2D\u0E21 expression \u0E22\u0E48\u0E2D\u0E22\
+  \u0E17\u0E31\u0E49\u0E07\u0E2A\u0E2D\u0E07 \u0E41\u0E25\u0E30\u0E40\u0E07\u0E37\u0E48\
+  \u0E2D\u0E19\u0E44\u0E02\u0E40\u0E1B\u0E47\u0E19\u0E08\u0E23\u0E34\u0E07\u0E17\u0E33\
+  \u0E43\u0E2B\u0E49\u0E43\u0E19\u0E1A\u0E25\u0E47\u0E2D\u0E04\u0E04\u0E33\u0E2A\u0E31\
+  \u0E48\u0E07 if \u0E17\u0E33\u0E07\u0E32\u0E19 \u0E2A\u0E38\u0E14\u0E17\u0E49\u0E32\
+  \u0E22\u0E40\u0E1B\u0E47\u0E19\u0E40\u0E1B\u0E23\u0E35\u0E22\u0E1A\u0E40\u0E17\u0E35\
+  \u0E22\u0E1A\u0E04\u0E48\u0E32\u0E02\u0E2D\u0E07\u0E15\u0E31\u0E27\u0E40\u0E25\u0E02\
+  \ \u0E40\u0E23\u0E32\u0E44\u0E14\u0E49\u0E40\u0E1B\u0E23\u0E35\u0E22\u0E1A\u0E27\
+  \u0E48\u0E32 3 \u0E21\u0E32\u0E01\u0E01\u0E27\u0E48\u0E32 10 \u0E2B\u0E23\u0E37\u0E2D\
+  \u0E44\u0E21\u0E48 \u0E40\u0E19\u0E37\u0E48\u0E2D\u0E07\u0E08\u0E32\u0E01\u0E40\u0E07\
+  \u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02\u0E40\u0E1B\u0E47\u0E19 False \u0E17\u0E33\u0E43\
+  \u0E2B\u0E49\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E02\u0E49\u0E32\u0E21\u0E01\
+  \u0E32\u0E23\u0E17\u0E33\u0E07\u0E32\u0E19\u0E1A\u0E25\u0E47\u0E2D\u0E04\u0E19\u0E35\
+  \u0E49\u0E44\u0E1B</p>\n\n<pre class=\"code-result language-result\"><code class=\"\
+  \ language-result\">n equal to 10\nYou must login to post\nm is even and positive\
+  \ numbers\n</code></pre>\n\n<p>\u0E19\u0E35\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E1C\u0E25\
+  \u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E01\u0E32\u0E23\u0E17\u0E33\u0E07\u0E32\u0E19\u0E02\
+  \u0E2D\u0E07\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21 \u0E04\u0E38\u0E13\u0E08\u0E30\
+  \u0E40\u0E2B\u0E47\u0E19\u0E27\u0E48\u0E32\u0E43\u0E19\u0E2A\u0E32\u0E21\u0E1A\u0E25\
+  \u0E47\u0E2D\u0E04\u0E41\u0E23\u0E01\u0E02\u0E2D\u0E07\u0E04\u0E33\u0E2A\u0E31\u0E48\
+  \u0E07 if \u0E19\u0E31\u0E49\u0E19\u0E17\u0E33\u0E07\u0E32\u0E19\u0E40\u0E1E\u0E23\
+  \u0E32\u0E30\u0E27\u0E48\u0E32\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02\u0E40\
+  \u0E1B\u0E47\u0E19\u0E08\u0E23\u0E34\u0E07\u0E2B\u0E23\u0E37\u0E2D True  \u0E41\u0E25\
+  \u0E30\u0E43\u0E19\u0E1A\u0E25\u0E47\u0E2D\u0E04\u0E2A\u0E38\u0E14\u0E17\u0E49\u0E32\
+  \u0E22\u0E44\u0E21\u0E48\u0E17\u0E33\u0E07\u0E32\u0E19\u0E40\u0E1E\u0E23\u0E32\u0E30\
+  \u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02\u0E44\u0E21\u0E48\u0E40\u0E1B\u0E47\
+  \u0E19\u0E08\u0E23\u0E34\u0E07\u0E2B\u0E23\u0E37\u0E2D False</p>\n\n<div class=\"\
+  my-3\">\n    <!-- marcuscode - middle banner -->\n    <ins class=\"adsbygoogle\"\
+  \ style=\"display:block\" data-ad-client=\"ca-pub-9075045589988569\" data-ad-slot=\"\
+  9605104032\" data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins>\n\
+  \    <script>\n        (adsbygoogle = window.adsbygoogle || []).push({});\n    </script>\n\
+  </div>\n<h2>\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 if else</h2>\n\n<p>\u0E2B\u0E25\
+  \u0E31\u0E07\u0E08\u0E32\u0E01\u0E17\u0E35\u0E48\u0E04\u0E38\u0E13\u0E44\u0E14\u0E49\
+  \u0E23\u0E39\u0E49\u0E08\u0E31\u0E01\u0E01\u0E31\u0E1A\u0E04\u0E33\u0E2A\u0E31\u0E48\
+  \u0E07 if \u0E44\u0E1B\u0E41\u0E25\u0E49\u0E27 \u0E2D\u0E35\u0E01\u0E04\u0E33\u0E2A\
+  \u0E31\u0E48\u0E07\u0E2B\u0E19\u0E36\u0E48\u0E07\u0E17\u0E35\u0E48\u0E17\u0E33\u0E07\
+  \u0E32\u0E19\u0E04\u0E27\u0E1A\u0E04\u0E39\u0E48\u0E01\u0E31\u0E1A\u0E04\u0E33\u0E2A\
+  \u0E31\u0E48\u0E07 if \u0E04\u0E37\u0E2D\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 <code>else</code>\
+  \ clause \u0E42\u0E14\u0E22\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E08\u0E30\
+  \u0E17\u0E33\u0E07\u0E32\u0E19\u0E43\u0E19\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 else\
+  \ \u0E16\u0E49\u0E32\u0E2B\u0E32\u0E01\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\
+  \u0E02\u0E43\u0E19\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 if \u0E19\u0E31\u0E49\u0E19\
+  \u0E44\u0E21\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E08\u0E23\u0E34\u0E07 \u0E01\u0E25\u0E48\
+  \u0E32\u0E27\u0E2D\u0E35\u0E01\u0E19\u0E31\u0E22\u0E2B\u0E19\u0E36\u0E48\u0E07 \u0E21\
+  \u0E31\u0E19\u0E08\u0E30\u0E17\u0E33\u0E07\u0E32\u0E19\u0E40\u0E21\u0E37\u0E48\u0E2D\
+  \u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02\u0E01\u0E48\u0E2D\u0E19\u0E2B\u0E19\
+  \u0E49\u0E32\u0E19\u0E31\u0E49\u0E19\u0E44\u0E21\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E08\
+  \u0E23\u0E34\u0E07\u0E2B\u0E23\u0E37\u0E2D\u0E40\u0E1B\u0E47\u0E19\u0E40\u0E07\u0E37\
+  \u0E48\u0E2D\u0E19\u0E44\u0E02 Default \u0E21\u0E32\u0E14\u0E39\u0E15\u0E31\u0E27\
+  \u0E2D\u0E22\u0E48\u0E32\u0E07\u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\
+  \ if else \u0E43\u0E19\u0E20\u0E32\u0E29\u0E32 Python</p>\n\n<pre class=\" language-python\"\
+  ><code class=\" language-python\">n <span class=\"token operator\">=</span> <span\
+  \ class=\"token number\">5</span>\n<span class=\"token keyword\">if</span> n <span\
+  \ class=\"token operator\">==</span> <span class=\"token number\">10</span><span\
+  \ class=\"token punctuation\">:</span>\n    <span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'n equal to 10'</span><span\
+  \ class=\"token punctuation\">)</span>\n<span class=\"token keyword\">else</span><span\
+  \ class=\"token punctuation\">:</span>\n    <span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'n is something\
+  \ else except 10'</span><span class=\"token punctuation\">)</span>\n\nname <span\
+  \ class=\"token operator\">=</span> <span class=\"token string\">'James'</span>\n\
+  <span class=\"token keyword\">if</span> name <span class=\"token operator\">==</span>\
+  \ <span class=\"token string\">'Mateo'</span><span class=\"token punctuation\">:</span>\n\
+  \    <span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span><span class=\"token string\">'Hi, Mateo.'</span><span class=\"token punctuation\"\
+  >)</span>\n<span class=\"token keyword\">else</span><span class=\"token punctuation\"\
+  >:</span>\n    <span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span><span class=\"token string\">'Who are you?'</span><span class=\"token punctuation\"\
+  >)</span>\n\nmoney <span class=\"token operator\">=</span> <span class=\"token number\"\
+  >300</span>\n<span class=\"token keyword\">if</span> money <span class=\"token operator\"\
+  >&gt;=</span> <span class=\"token number\">350</span><span class=\"token punctuation\"\
+  >:</span>\n    <span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span><span class=\"token string\">'You can buy an iPad'</span><span class=\"\
+  token punctuation\">)</span>\n<span class=\"token keyword\">else</span><span class=\"\
+  token punctuation\">:</span>\n    <span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'You don\\'t\
+  \ have enough money to buy an iPad'</span><span class=\"token punctuation\">)</span>\n\
+  </code></pre>\n\n<p>\u0E43\u0E19\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07\
+  \ \u0E40\u0E1B\u0E47\u0E19\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E1E\
+  \u0E37\u0E48\u0E2D\u0E17\u0E14\u0E2A\u0E2D\u0E1A\u0E01\u0E32\u0E23\u0E17\u0E33\u0E07\
+  \u0E32\u0E19\u0E02\u0E2D\u0E07\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 else \u0E40\u0E23\
+  \u0E32\u0E44\u0E14\u0E49\u0E40\u0E1E\u0E34\u0E48\u0E21\u0E1A\u0E25\u0E47\u0E2D\u0E04\
+  \u0E02\u0E2D\u0E07\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 else \u0E40\u0E02\u0E49\u0E32\
+  \u0E21\u0E32\u0E2B\u0E25\u0E31\u0E07\u0E08\u0E32\u0E01\u0E04\u0E33\u0E2A\u0E31\u0E48\
+  \u0E07 if \u0E0B\u0E36\u0E48\u0E07\u0E42\u0E04\u0E49\u0E14\u0E43\u0E19\u0E1A\u0E25\
+  \u0E47\u0E2D\u0E04\u0E02\u0E2D\u0E07\u0E04\u0E33\u0E2A\u0E31\u0E07 else \u0E08\u0E30\
+  \u0E17\u0E33\u0E07\u0E32\u0E19 \u0E16\u0E49\u0E32\u0E2B\u0E32\u0E01\u0E40\u0E07\u0E37\
+  \u0E48\u0E2D\u0E19\u0E44\u0E02\u0E43\u0E19 if \u0E44\u0E21\u0E48\u0E40\u0E1B\u0E47\
+  \u0E19\u0E08\u0E23\u0E34\u0E07 \u0E19\u0E31\u0E48\u0E19\u0E2B\u0E21\u0E32\u0E22\u0E16\
+  \u0E36\u0E07\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E02\u0E2D\u0E07\u0E40\u0E23\
+  \u0E32\u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E17\u0E33\u0E07\u0E32\u0E19\u0E44\u0E14\
+  \u0E49\u0E40\u0E1E\u0E35\u0E22\u0E07\u0E2B\u0E19\u0E36\u0E48\u0E07\u0E17\u0E32\u0E07\
+  \u0E40\u0E25\u0E37\u0E2D\u0E01\u0E40\u0E17\u0E48\u0E32\u0E19\u0E31\u0E49\u0E19</p>\n\
+  \n<p>\u0E43\u0E19\u0E01\u0E32\u0E23\u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E04\
+  \u0E23\u0E31\u0E49\u0E07\u0E41\u0E23\u0E01 \u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\u0E23\
+  \u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E04\u0E48\u0E32\u0E43\u0E19\u0E15\u0E31\
+  \u0E27\u0E41\u0E1B\u0E23 <code>n</code> \u0E27\u0E48\u0E32\u0E40\u0E17\u0E48\u0E32\
+  \u0E01\u0E31\u0E1A 10 \u0E2B\u0E23\u0E37\u0E2D\u0E44\u0E21\u0E48 \u0E40\u0E1E\u0E23\
+  \u0E32\u0E30\u0E27\u0E48\u0E32\u0E04\u0E48\u0E32\u0E43\u0E19\u0E15\u0E31\u0E27\u0E41\
+  \u0E1B\u0E23\u0E19\u0E31\u0E49\u0E19\u0E40\u0E1B\u0E47\u0E19 5 \u0E17\u0E33\u0E43\
+  \u0E2B\u0E49\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02\u0E44\u0E21\u0E48\u0E40\
+  \u0E1B\u0E47\u0E19\u0E08\u0E23\u0E34\u0E07 \u0E41\u0E25\u0E30\u0E42\u0E1B\u0E23\u0E41\
+  \u0E01\u0E23\u0E21\u0E17\u0E33\u0E07\u0E32\u0E19\u0E43\u0E19\u0E1A\u0E25\u0E47\u0E2D\
+  \u0E04\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 else \u0E41\u0E17\u0E19 \u0E15\u0E48\u0E2D\
+  \u0E21\u0E32\u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\u0E23\u0E15\u0E23\u0E27\u0E08\u0E2A\
+  \u0E2D\u0E1A\u0E0A\u0E37\u0E48\u0E2D\u0E43\u0E19\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23\
+  \ <code>name</code> \u0E27\u0E48\u0E32\u0E40\u0E1B\u0E47\u0E19<em>\"Mateo\"</em>\u0E2B\
+  \u0E23\u0E37\u0E2D\u0E44\u0E21\u0E48 \u0E40\u0E1E\u0E23\u0E32\u0E30\u0E27\u0E48\u0E32\
+  \u0E04\u0E48\u0E32\u0E43\u0E19\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23\u0E19\u0E31\u0E49\
+  \u0E19\u0E40\u0E1B\u0E47\u0E19 <em>\"James\"</em> \u0E17\u0E33\u0E43\u0E2B\u0E49\
+  \u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E17\u0E33\u0E07\u0E32\u0E19\u0E43\u0E19\
+  \u0E1A\u0E25\u0E47\u0E2D\u0E04\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 else \u0E41\u0E25\
+  \u0E30\u0E2A\u0E38\u0E14\u0E17\u0E49\u0E32\u0E22\u0E19\u0E31\u0E49\u0E19\u0E40\u0E23\
+  \u0E32\u0E15\u0E23\u0E27\u0E08\u0E2A\u0E2D\u0E1A\u0E27\u0E48\u0E32\u0E2B\u0E32\u0E01\
+  \u0E21\u0E35\u0E40\u0E07\u0E34\u0E19\u0E43\u0E19\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23\
+  \ <code>money</code> \u0E21\u0E32\u0E01\u0E01\u0E27\u0E48\u0E32\u0E2B\u0E23\u0E37\
+  \u0E2D\u0E40\u0E17\u0E48\u0E32\u0E01\u0E31\u0E1A 350 \u0E08\u0E30\u0E44\u0E14\u0E49\
+  \u0E0B\u0E37\u0E49\u0E2D iPad \u0E40\u0E1E\u0E23\u0E32\u0E30\u0E27\u0E48\u0E32\u0E40\
+  \u0E07\u0E34\u0E19\u0E44\u0E21\u0E48\u0E1E\u0E2D \u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\
+  \u0E21\u0E08\u0E36\u0E07\u0E1A\u0E2D\u0E01\u0E27\u0E48\u0E32\u0E40\u0E07\u0E34\u0E19\
+  \u0E44\u0E21\u0E48\u0E1E\u0E2D\u0E17\u0E35\u0E48\u0E08\u0E30\u0E0B\u0E37\u0E49\u0E2D\
+  </p>\n\n<pre class=\"code-result language-result\"><code class=\" language-result\"\
+  >n is something else except 10\nWho are you?\nYou don't have enough money to buy\
+  \ an iPad\n</code></pre>\n\n<p>\u0E19\u0E35\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E1C\u0E25\
+  \u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E01\u0E32\u0E23\u0E17\u0E33\u0E07\u0E32\u0E19\u0E02\
+  \u0E2D\u0E07\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E0B\u0E36\u0E48\u0E07\u0E08\
+  \u0E30\u0E17\u0E33\u0E07\u0E32\u0E19\u0E43\u0E19\u0E1A\u0E25\u0E47\u0E2D\u0E04\u0E02\
+  \u0E2D\u0E07\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 else \u0E17\u0E31\u0E49\u0E07\u0E2B\
+  \u0E21\u0E14\u0E40\u0E1E\u0E23\u0E32\u0E30\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\
+  \u0E02\u0E44\u0E21\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E08\u0E23\u0E34\u0E07\u0E17\u0E31\
+  \u0E49\u0E07\u0E2B\u0E21\u0E14</p>\n\n<h2>\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 if\
+  \ elif</h2>\n\n<p>\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 elif \u0E19\u0E31\u0E49\u0E19\
+  \u0E40\u0E1B\u0E47\u0E19\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07\u0E17\u0E35\u0E48\u0E43\
+  \u0E0A\u0E49\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E2A\u0E23\u0E49\u0E32\u0E07\u0E40\
+  \u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02\u0E41\u0E1A\u0E1A\u0E2B\u0E25\u0E32\u0E22\
+  \u0E17\u0E32\u0E07\u0E40\u0E25\u0E37\u0E2D\u0E01\u0E43\u0E2B\u0E49\u0E01\u0E31\u0E1A\
+  \u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E17\u0E35\u0E48\u0E21\u0E35\u0E01\u0E32\
+  \u0E23\u0E17\u0E33\u0E07\u0E32\u0E19\u0E40\u0E0A\u0E48\u0E19\u0E40\u0E14\u0E35\u0E22\
+  \u0E27\u0E01\u0E31\u0E1A switch case \u0E43\u0E19\u0E20\u0E32\u0E29\u0E32\u0E2D\u0E37\
+  \u0E48\u0E19\u0E46 \u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 elif \u0E19\u0E31\u0E49\u0E19\
+  \u0E15\u0E49\u0E2D\u0E07\u0E43\u0E0A\u0E49\u0E2B\u0E25\u0E31\u0E07\u0E08\u0E32\u0E01\
+  \u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 if \u0E40\u0E2A\u0E21\u0E2D\u0E41\u0E25\u0E30\
+  \u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E21\u0E35 else \u0E44\u0E14\u0E49\u0E43\u0E19\
+  \u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02\u0E2A\u0E38\u0E14\u0E17\u0E49\u0E32\
+  \u0E22 \u0E21\u0E32\u0E14\u0E39\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E01\
+  \u0E32\u0E23\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07\
+  \ elif \u0E43\u0E19\u0E20\u0E32\u0E29\u0E32 Python</p>\n\n<pre class=\" language-python\"\
+  ><code class=\" language-python\"><span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'Welcome to marcuscode\\\
+  's game'</span><span class=\"token punctuation\">)</span>\nlevel <span class=\"\
+  token operator\">=</span> <span class=\"token builtin\">input</span><span class=\"\
+  token punctuation\">(</span><span class=\"token string\">'Enter level (1 - 4): '</span><span\
+  \ class=\"token punctuation\">)</span>\n\n<span class=\"token keyword\">if</span>\
+  \ level <span class=\"token operator\">==</span> <span class=\"token string\">'1'</span><span\
+  \ class=\"token punctuation\">:</span>\n    <span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'Easy'</span><span\
+  \ class=\"token punctuation\">)</span>\n<span class=\"token keyword\">elif</span>\
+  \ level <span class=\"token operator\">==</span> <span class=\"token string\">'2'</span><span\
+  \ class=\"token punctuation\">:</span>\n    <span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'Medium'</span><span\
+  \ class=\"token punctuation\">)</span>\n<span class=\"token keyword\">elif</span>\
+  \ level <span class=\"token operator\">==</span> <span class=\"token string\">'3'</span><span\
+  \ class=\"token punctuation\">:</span>\n    <span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'Hard'</span><span\
+  \ class=\"token punctuation\">)</span>\n<span class=\"token keyword\">elif</span>\
+  \ level <span class=\"token operator\">==</span> <span class=\"token string\">'4'</span><span\
+  \ class=\"token punctuation\">:</span>\n    <span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'Expert'</span><span\
+  \ class=\"token punctuation\">)</span>\n<span class=\"token keyword\">else</span><span\
+  \ class=\"token punctuation\">:</span>\n    <span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">'Invalid level\
+  \ selected'</span><span class=\"token punctuation\">)</span>\n</code></pre>\n\n\
+  <p>\u0E43\u0E19\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07 \u0E40\u0E1B\u0E47\
+  \u0E19\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E08\u0E33\u0E25\u0E2D\u0E07\u0E43\
+  \u0E19\u0E01\u0E32\u0E23\u0E40\u0E25\u0E37\u0E2D\u0E01\u0E42\u0E2B\u0E21\u0E14\u0E02\
+  \u0E2D\u0E07\u0E01\u0E32\u0E23\u0E40\u0E25\u0E48\u0E19\u0E40\u0E01\u0E21 \u0E40\u0E23\
+  \u0E32\u0E44\u0E14\u0E49\u0E43\u0E2B\u0E49\u0E1C\u0E39\u0E49\u0E43\u0E0A\u0E49\u0E01\
+  \u0E23\u0E2D\u0E01\u0E04\u0E48\u0E32\u0E23\u0E30\u0E2B\u0E27\u0E48\u0E32\u0E07 1\
+  \ -4 \u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E43\u0E0A\u0E49\u0E43\u0E19\u0E01\u0E32\u0E23\
+  \u0E40\u0E1B\u0E23\u0E35\u0E22\u0E1A\u0E40\u0E17\u0E35\u0E22\u0E1A\u0E01\u0E31\u0E1A\
+  \u0E23\u0E30\u0E14\u0E31\u0E1A\u0E04\u0E27\u0E32\u0E21\u0E22\u0E32\u0E01\u0E02\u0E2D\
+  \u0E07\u0E40\u0E01\u0E21 \u0E42\u0E14\u0E22\u0E17\u0E35\u0E48 1 \u0E40\u0E1B\u0E47\
+  \u0E19\u0E23\u0E30\u0E14\u0E31\u0E1A\u0E17\u0E35\u0E48\u0E07\u0E48\u0E32\u0E22\u0E17\
+  \u0E35\u0E48\u0E2A\u0E38\u0E14 \u0E41\u0E25\u0E30 4 \u0E19\u0E31\u0E49\u0E19\u0E40\
+  \u0E1B\u0E47\u0E19\u0E23\u0E30\u0E14\u0E31\u0E1A\u0E17\u0E35\u0E48\u0E22\u0E32\u0E01\
+  \u0E17\u0E35\u0E48\u0E2A\u0E38\u0E14 \u0E04\u0E38\u0E13\u0E08\u0E30\u0E40\u0E2B\u0E47\
+  \u0E19\u0E27\u0E48\u0E32\u0E40\u0E23\u0E32\u0E44\u0E14\u0E49\u0E43\u0E2B\u0E49\u0E04\
+  \u0E33\u0E2A\u0E31\u0E48\u0E07 elif \u0E40\u0E1E\u0E23\u0E32\u0E30\u0E40\u0E23\u0E32\
+  \u0E21\u0E35\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02 4 \u0E41\u0E1A\u0E1A\
+  \ \u0E41\u0E25\u0E30\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 else \u0E43\u0E19\u0E01\
+  \u0E32\u0E23\u0E13\u0E35\u0E17\u0E35\u0E48\u0E15\u0E31\u0E27\u0E40\u0E25\u0E02\u0E17\
+  \u0E35\u0E48\u0E1C\u0E39\u0E49\u0E40\u0E25\u0E48\u0E19\u0E01\u0E23\u0E2D\u0E01\u0E40\
+  \u0E02\u0E49\u0E32\u0E21\u0E32\u0E19\u0E31\u0E49\u0E19\u0E44\u0E21\u0E48\u0E15\u0E23\
+  \u0E07\u0E01\u0E31\u0E1A\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02\u0E43\u0E14\
+  \u0E46 \u0E01\u0E48\u0E2D\u0E19\u0E2B\u0E19\u0E49\u0E32\u0E40\u0E25\u0E22</p>\n\n\
+  <pre class=\"code-result language-result\"><code class=\" language-result\">Welcome\
+  \ to marcuscode's game\nEnter level (1 - 4): 4\nExpert\n</code></pre>\n\n<pre class=\"\
+  code-result language-result\"><code class=\" language-result\">Welcome to marcuscode's\
+  \ game\nEnter level (1 - 4): 7\nInvalid level selected\n</code></pre>\n\n<p>\u0E19\
+  \u0E35\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E1C\u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E01\
+  \u0E32\u0E23\u0E17\u0E33\u0E07\u0E32\u0E19\u0E02\u0E2D\u0E07\u0E42\u0E1B\u0E23\u0E41\
+  \u0E01\u0E23\u0E21\u0E40\u0E21\u0E37\u0E48\u0E2D\u0E40\u0E23\u0E32\u0E01\u0E23\u0E2D\
+  \u0E01 4 \u0E41\u0E25\u0E30 7 \u0E15\u0E32\u0E21\u0E25\u0E33\u0E14\u0E31\u0E1A \u0E40\
+  \u0E21\u0E37\u0E48\u0E2D\u0E40\u0E23\u0E32\u0E01\u0E23\u0E2D\u0E01 4 \u0E19\u0E31\
+  \u0E49\u0E19\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E15\u0E23\u0E07\u0E01\u0E31\
+  \u0E1A\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02\u0E02\u0E2D\u0E07 elif \u0E17\
+  \u0E35\u0E48 <code>level == 4</code> \u0E41\u0E25\u0E30\u0E40\u0E21\u0E37\u0E48\u0E2D\
+  \u0E40\u0E23\u0E32\u0E01\u0E23\u0E2D\u0E01 7 \u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\
+  \u0E21\u0E44\u0E21\u0E48\u0E15\u0E23\u0E07\u0E01\u0E31\u0E1A\u0E40\u0E07\u0E37\u0E48\
+  \u0E2D\u0E19\u0E44\u0E02\u0E43\u0E14\u0E46 \u0E40\u0E25\u0E22\u0E17\u0E33\u0E43\u0E2B\
+  \u0E49\u0E17\u0E33\u0E07\u0E32\u0E19\u0E43\u0E19\u0E1A\u0E25\u0E47\u0E2D\u0E04\u0E02\
+  \u0E2D\u0E07\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 else</p>\n\n<div class=\"my-3\"\
+  >\n    <!-- marcuscode - middle banner -->\n    <ins class=\"adsbygoogle\" style=\"\
+  display:block\" data-ad-client=\"ca-pub-9075045589988569\" data-ad-slot=\"9605104032\"\
+  \ data-ad-format=\"auto\" data-full-width-responsive=\"true\"></ins>\n    <script>\n\
+  \        (adsbygoogle = window.adsbygoogle || []).push({});\n    </script>\n</div>\n\
+  <h2>\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E01\u0E32\u0E23\u0E43\u0E0A\
+  \u0E49\u0E07\u0E32\u0E19\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07\u0E40\u0E25\u0E37\u0E2D\
+  \u0E01\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02\u0E43\u0E19\u0E20\u0E32\u0E29\
+  \u0E32 Python</h2>\n\n<p>\u0E2B\u0E25\u0E31\u0E07\u0E08\u0E32\u0E01\u0E17\u0E35\u0E48\
+  \u0E04\u0E38\u0E13\u0E44\u0E14\u0E49\u0E40\u0E23\u0E35\u0E22\u0E19\u0E43\u0E19\u0E04\
+  \u0E33\u0E2A\u0E31\u0E48\u0E07\u0E40\u0E25\u0E37\u0E2D\u0E01\u0E40\u0E07\u0E37\u0E48\
+  \u0E2D\u0E19\u0E44\u0E02\u0E1B\u0E23\u0E30\u0E40\u0E20\u0E17\u0E15\u0E48\u0E32\u0E07\
+  \u0E46 \u0E43\u0E19\u0E20\u0E32\u0E29\u0E32 Python \u0E44\u0E1B\u0E41\u0E25\u0E49\
+  \u0E27 \u0E15\u0E48\u0E2D\u0E44\u0E1B\u0E08\u0E30\u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\
+  \u0E23\u0E19\u0E33\u0E21\u0E32\u0E1B\u0E23\u0E30\u0E22\u0E38\u0E01\u0E15\u0E4C\u0E40\
+  \u0E02\u0E35\u0E22\u0E19\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E40\u0E1E\u0E37\
+  \u0E48\u0E2D\u0E1A\u0E2D\u0E01\u0E40\u0E27\u0E25\u0E32\u0E43\u0E19\u0E23\u0E39\u0E1B\
+  \u0E41\u0E1A\u0E1A\u0E02\u0E2D\u0E07 \"\u0E40\u0E27\u0E25\u0E32\u0E17\u0E35\u0E48\
+  \u0E1C\u0E48\u0E32\u0E19\u0E44\u0E1B\" \u0E0B\u0E36\u0E48\u0E07\u0E01\u0E32\u0E23\
+  \u0E41\u0E2A\u0E14\u0E07\u0E40\u0E27\u0E25\u0E32\u0E43\u0E19\u0E23\u0E39\u0E1B\u0E41\
+  \u0E1A\u0E1A\u0E19\u0E35\u0E49 \u0E2A\u0E32\u0E21\u0E32\u0E23\u0E16\u0E17\u0E33\u0E43\
+  \u0E2B\u0E49\u0E17\u0E23\u0E32\u0E1A\u0E27\u0E48\u0E32\u0E40\u0E27\u0E25\u0E32\u0E17\
+  \u0E35\u0E48\u0E40\u0E01\u0E34\u0E14\u0E02\u0E36\u0E49\u0E19\u0E43\u0E19\u0E2D\u0E14\
+  \u0E35\u0E15\u0E1C\u0E48\u0E32\u0E19\u0E44\u0E1B\u0E19\u0E32\u0E19\u0E40\u0E17\u0E48\
+  \u0E32\u0E44\u0E2B\u0E23\u0E48\u0E41\u0E25\u0E49\u0E27 \u0E0B\u0E36\u0E48\u0E07\u0E21\
+  \u0E35\u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\u0E40\u0E1B\u0E47\u0E19\
+  \u0E08\u0E33\u0E19\u0E27\u0E19\u0E21\u0E32\u0E01\u0E43\u0E19\u0E40\u0E27\u0E47\u0E1A\
+  \u0E44\u0E0B\u0E15\u0E4C\u0E1B\u0E23\u0E30\u0E40\u0E20\u0E17\u0E15\u0E48\u0E32\u0E07\
+  \u0E46 \u0E40\u0E0A\u0E48\u0E19 Facebook Twitter \u0E40\u0E1B\u0E47\u0E19\u0E15\u0E49\
+  \u0E19 \u0E19\u0E35\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E42\u0E04\u0E49\u0E14\u0E02\u0E2D\
+  \u0E07\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21</p>\n\n<pre class=\" language-python\"\
+  ><code class=\" language-python\"><span class=\"token keyword\">import</span> datetime\n\
+  <span class=\"token keyword\">import</span> math\n\n<span class=\"token comment\"\
+  ># We want to calculate time difference to this date</span>\nnow <span class=\"\
+  token operator\">=</span> datetime<span class=\"token punctuation\">.</span>datetime<span\
+  \ class=\"token punctuation\">(</span><span class=\"token number\">2017</span><span\
+  \ class=\"token punctuation\">,</span> <span class=\"token number\">3</span><span\
+  \ class=\"token punctuation\">,</span> <span class=\"token number\">29</span><span\
+  \ class=\"token punctuation\">,</span> <span class=\"token number\">11</span><span\
+  \ class=\"token punctuation\">,</span> <span class=\"token number\">00</span><span\
+  \ class=\"token punctuation\">,</span> <span class=\"token number\">00</span><span\
+  \ class=\"token punctuation\">)</span>\n\n<span class=\"token comment\"># Uncomment\
+  \ line below for current datetime object</span>\n<span class=\"token comment\">#\
+  \ now = datetime.datetime.now()</span>\n\n<span class=\"token comment\"># create\
+  \ a list and add all datetime(s)</span>\n<span class=\"token comment\"># all dates\
+  \ that earlier than 'now' object</span>\ndate_list <span class=\"token operator\"\
+  >=</span> <span class=\"token punctuation\">[</span><span class=\"token punctuation\"\
+  >]</span><span class=\"token punctuation\">;</span>\ndate_list<span class=\"token\
+  \ punctuation\">.</span>append<span class=\"token punctuation\">(</span>datetime<span\
+  \ class=\"token punctuation\">.</span>datetime<span class=\"token punctuation\"\
+  >(</span><span class=\"token number\">2017</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">3</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">29</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">10</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">59</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">24</span><span class=\"token punctuation\"\
+  >)</span><span class=\"token punctuation\">)</span>\ndate_list<span class=\"token\
+  \ punctuation\">.</span>append<span class=\"token punctuation\">(</span>datetime<span\
+  \ class=\"token punctuation\">.</span>datetime<span class=\"token punctuation\"\
+  >(</span><span class=\"token number\">2017</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">3</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">29</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">10</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">12</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">12</span><span class=\"token punctuation\"\
+  >)</span><span class=\"token punctuation\">)</span>\ndate_list<span class=\"token\
+  \ punctuation\">.</span>append<span class=\"token punctuation\">(</span>datetime<span\
+  \ class=\"token punctuation\">.</span>datetime<span class=\"token punctuation\"\
+  >(</span><span class=\"token number\">2017</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">3</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">24</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">17</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">24</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">54</span><span class=\"token punctuation\"\
+  >)</span><span class=\"token punctuation\">)</span>\ndate_list<span class=\"token\
+  \ punctuation\">.</span>append<span class=\"token punctuation\">(</span>datetime<span\
+  \ class=\"token punctuation\">.</span>datetime<span class=\"token punctuation\"\
+  >(</span><span class=\"token number\">2017</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">1</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">14</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">8</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">43</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">5</span><span class=\"token punctuation\"\
+  >)</span><span class=\"token punctuation\">)</span>\ndate_list<span class=\"token\
+  \ punctuation\">.</span>append<span class=\"token punctuation\">(</span>datetime<span\
+  \ class=\"token punctuation\">.</span>datetime<span class=\"token punctuation\"\
+  >(</span><span class=\"token number\">2016</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">8</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">13</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">19</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">20</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">20</span><span class=\"token punctuation\"\
+  >)</span><span class=\"token punctuation\">)</span>\ndate_list<span class=\"token\
+  \ punctuation\">.</span>append<span class=\"token punctuation\">(</span>datetime<span\
+  \ class=\"token punctuation\">.</span>datetime<span class=\"token punctuation\"\
+  >(</span><span class=\"token number\">2012</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">2</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">8</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">19</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">20</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">20</span><span class=\"token punctuation\"\
+  >)</span><span class=\"token punctuation\">)</span>\n\n<span class=\"token keyword\"\
+  >print</span><span class=\"token punctuation\">(</span><span class=\"token string\"\
+  >'Time difference to'</span><span class=\"token punctuation\">,</span> end <span\
+  \ class=\"token operator\">=</span> <span class=\"token string\">' '</span><span\
+  \ class=\"token punctuation\">)</span>\n<span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span>now<span class=\"token punctuation\">.</span>strftime<span\
+  \ class=\"token punctuation\">(</span><span class=\"token string\">\"%B %d, %Y %I:%M:%S\
+  \ %p\"</span><span class=\"token punctuation\">)</span><span class=\"token punctuation\"\
+  >)</span>\n\n<span class=\"token keyword\">for</span> d <span class=\"token keyword\"\
+  >in</span> date_list<span class=\"token punctuation\">:</span>\n\n    time_dif <span\
+  \ class=\"token operator\">=</span> <span class=\"token punctuation\">(</span>now\
+  \ <span class=\"token operator\">-</span> d<span class=\"token punctuation\">)</span><span\
+  \ class=\"token punctuation\">.</span>total_seconds<span class=\"token punctuation\"\
+  >(</span><span class=\"token punctuation\">)</span>\n\n    <span class=\"token keyword\"\
+  >print</span><span class=\"token punctuation\">(</span>d<span class=\"token punctuation\"\
+  >.</span>strftime<span class=\"token punctuation\">(</span><span class=\"token string\"\
+  >\"%B %d, %Y %I:%M:%S %p\"</span><span class=\"token punctuation\">)</span><span\
+  \ class=\"token punctuation\">,</span> <span class=\"token string\">' =&gt; '</span><span\
+  \ class=\"token punctuation\">,</span> end <span class=\"token operator\">=</span>\
+  \ <span class=\"token string\">''</span><span class=\"token punctuation\">)</span>\n\
+  \n    <span class=\"token comment\"># calculate for time ago since d</span>\n  \
+  \  <span class=\"token keyword\">if</span> time_dif <span class=\"token operator\"\
+  >&lt;</span> <span class=\"token number\">60</span><span class=\"token punctuation\"\
+  >:</span>\n        <span class=\"token keyword\">print</span><span class=\"token\
+  \ punctuation\">(</span>math<span class=\"token punctuation\">.</span>floor<span\
+  \ class=\"token punctuation\">(</span>time_dif<span class=\"token punctuation\"\
+  >)</span><span class=\"token punctuation\">,</span> <span class=\"token string\"\
+  >'secs ago'</span><span class=\"token punctuation\">)</span>\n    <span class=\"\
+  token keyword\">elif</span> time_dif <span class=\"token operator\">&lt;=</span>\
+  \ <span class=\"token number\">3600</span><span class=\"token punctuation\">:</span>\n\
+  \        <span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span>math<span class=\"token punctuation\">.</span>floor<span class=\"token\
+  \ punctuation\">(</span>time_dif <span class=\"token operator\">/</span> <span class=\"\
+  token number\">60</span><span class=\"token punctuation\">)</span><span class=\"\
+  token punctuation\">,</span> <span class=\"token string\">'mins ago'</span><span\
+  \ class=\"token punctuation\">)</span>\n    <span class=\"token keyword\">elif</span>\
+  \ time_dif <span class=\"token operator\">&lt;=</span> <span class=\"token number\"\
+  >86400</span><span class=\"token punctuation\">:</span>\n        <span class=\"\
+  token keyword\">print</span><span class=\"token punctuation\">(</span>math<span\
+  \ class=\"token punctuation\">.</span>floor<span class=\"token punctuation\">(</span>time_dif\
+  \ <span class=\"token operator\">/</span> <span class=\"token number\">3600</span><span\
+  \ class=\"token punctuation\">)</span><span class=\"token punctuation\">,</span>\
+  \ <span class=\"token string\">'hours ago'</span><span class=\"token punctuation\"\
+  >)</span>\n    <span class=\"token keyword\">elif</span> time_dif <span class=\"\
+  token operator\">&lt;=</span> <span class=\"token number\">86400</span> <span class=\"\
+  token operator\">*</span> <span class=\"token number\">30</span><span class=\"token\
+  \ punctuation\">:</span>\n        <span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span>math<span class=\"token punctuation\">.</span>floor<span\
+  \ class=\"token punctuation\">(</span>time_dif <span class=\"token operator\">/</span>\
+  \ <span class=\"token number\">86400</span><span class=\"token punctuation\">)</span><span\
+  \ class=\"token punctuation\">,</span> <span class=\"token string\">'days ago'</span><span\
+  \ class=\"token punctuation\">)</span>\n    <span class=\"token keyword\">elif</span>\
+  \ time_dif <span class=\"token operator\">&lt;=</span> <span class=\"token number\"\
+  >86400</span> <span class=\"token operator\">*</span> <span class=\"token number\"\
+  >365.25</span><span class=\"token punctuation\">:</span>\n        <span class=\"\
+  token keyword\">print</span><span class=\"token punctuation\">(</span>math<span\
+  \ class=\"token punctuation\">.</span>floor<span class=\"token punctuation\">(</span>time_dif\
+  \ <span class=\"token operator\">/</span> <span class=\"token punctuation\">(</span><span\
+  \ class=\"token number\">86400</span> <span class=\"token operator\">*</span> <span\
+  \ class=\"token number\">30</span><span class=\"token punctuation\">)</span><span\
+  \ class=\"token punctuation\">)</span><span class=\"token punctuation\">,</span>\
+  \ <span class=\"token string\">'months ago'</span><span class=\"token punctuation\"\
+  >)</span>\n    <span class=\"token keyword\">else</span><span class=\"token punctuation\"\
+  >:</span>\n        <span class=\"token keyword\">print</span><span class=\"token\
+  \ punctuation\">(</span>math<span class=\"token punctuation\">.</span>floor<span\
+  \ class=\"token punctuation\">(</span>time_dif <span class=\"token operator\">/</span>\
+  \ <span class=\"token punctuation\">(</span><span class=\"token number\">86400</span>\
+  \ <span class=\"token operator\">*</span> <span class=\"token number\">365.25</span><span\
+  \ class=\"token punctuation\">)</span><span class=\"token punctuation\">)</span><span\
+  \ class=\"token punctuation\">,</span> <span class=\"token string\">'years ago'</span><span\
+  \ class=\"token punctuation\">)</span>\n</code></pre>\n\n<p>\u0E43\u0E19\u0E15\u0E31\
+  \u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07 \u0E40\u0E1B\u0E47\u0E19\u0E42\u0E1B\u0E23\u0E41\
+  \u0E01\u0E23\u0E21\u0E1A\u0E2D\u0E01\u0E40\u0E27\u0E25\u0E32\u0E43\u0E19\u0E23\u0E39\
+  \u0E1B\u0E41\u0E1A\u0E1A\u0E02\u0E2D\u0E07\u0E40\u0E27\u0E25\u0E32\u0E17\u0E35\u0E48\
+  \u0E1C\u0E48\u0E32\u0E19\u0E44\u0E1B \u0E43\u0E19\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23\
+  \ <code>now</code> \u0E40\u0E1B\u0E47\u0E19\u0E15\u0E31\u0E27\u0E41\u0E1B\u0E23\u0E2A\
+  \u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E40\u0E01\u0E47\u0E1A\u0E2D\u0E2D\u0E1A\u0E40\u0E08\
+  \u0E47\u0E04\u0E02\u0E2D\u0E07\u0E27\u0E31\u0E19\u0E17\u0E35\u0E48 \u0E17\u0E35\u0E48\
+  \u0E40\u0E23\u0E32\u0E08\u0E30\u0E43\u0E0A\u0E49\u0E2D\u0E49\u0E32\u0E07\u0E2D\u0E34\
+  \u0E07\u0E43\u0E19\u0E01\u0E32\u0E23\u0E04\u0E33\u0E19\u0E27\u0E13\u0E27\u0E48\u0E32\
+  \u0E40\u0E27\u0E25\u0E32\u0E1C\u0E48\u0E32\u0E19\u0E44\u0E1B\u0E19\u0E32\u0E19\u0E40\
+  \u0E17\u0E48\u0E32\u0E44\u0E2B\u0E23\u0E48\u0E41\u0E25\u0E49\u0E27\u0E08\u0E19\u0E16\
+  \u0E36\u0E07\u0E27\u0E31\u0E19\u0E19\u0E35\u0E49 \u0E2A\u0E21\u0E21\u0E15\u0E34\u0E27\
+  \u0E48\u0E32\u0E27\u0E31\u0E19\u0E19\u0E35\u0E49\u0E40\u0E1B\u0E47\u0E19\u0E27\u0E31\
+  \u0E19\u0E17\u0E35\u0E48 March 29, 2017 \u0E40\u0E27\u0E25\u0E32 11 AM \u0E40\u0E23\
+  \u0E32\u0E17\u0E33\u0E41\u0E1A\u0E1A\u0E19\u0E35\u0E49\u0E40\u0E1E\u0E37\u0E48\u0E2D\
+  \u0E44\u0E21\u0E48\u0E15\u0E49\u0E2D\u0E07\u0E01\u0E32\u0E23\u0E43\u0E2B\u0E49\u0E1C\
+  \u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E02\u0E2D\u0E07\u0E40\u0E27\u0E25\u0E32\u0E40\
+  \u0E1B\u0E25\u0E35\u0E48\u0E22\u0E19\u0E44\u0E1B \u0E0B\u0E36\u0E48\u0E07\u0E43\u0E19\
+  \u0E01\u0E32\u0E23\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19\u0E43\u0E19\u0E42\u0E1B\u0E23\
+  \u0E41\u0E01\u0E23\u0E21\u0E08\u0E23\u0E34\u0E07 \u0E04\u0E48\u0E32\u0E02\u0E2D\u0E07\
+  \ <code>now</code> \u0E19\u0E31\u0E49\u0E19\u0E40\u0E23\u0E32\u0E08\u0E30\u0E43\u0E0A\
+  \u0E49\u0E40\u0E1B\u0E47\u0E19 <code>datetime.datetime.now()</code> \u0E41\u0E17\
+  \u0E19</p>\n\n<pre class=\" language-python\"><code class=\" language-python\">date_list\
+  \ <span class=\"token operator\">=</span> <span class=\"token punctuation\">[</span><span\
+  \ class=\"token punctuation\">]</span><span class=\"token punctuation\">;</span>\n\
+  date_list<span class=\"token punctuation\">.</span>append<span class=\"token punctuation\"\
+  >(</span>datetime<span class=\"token punctuation\">.</span>datetime<span class=\"\
+  token punctuation\">(</span><span class=\"token number\">2017</span><span class=\"\
+  token punctuation\">,</span> <span class=\"token number\">3</span><span class=\"\
+  token punctuation\">,</span> <span class=\"token number\">29</span><span class=\"\
+  token punctuation\">,</span> <span class=\"token number\">10</span><span class=\"\
+  token punctuation\">,</span> <span class=\"token number\">59</span><span class=\"\
+  token punctuation\">,</span> <span class=\"token number\">24</span><span class=\"\
+  token punctuation\">)</span><span class=\"token punctuation\">)</span>\ndate_list<span\
+  \ class=\"token punctuation\">.</span>append<span class=\"token punctuation\">(</span>datetime<span\
+  \ class=\"token punctuation\">.</span>datetime<span class=\"token punctuation\"\
+  >(</span><span class=\"token number\">2017</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">3</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">29</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">10</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">12</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">12</span><span class=\"token punctuation\"\
+  >)</span><span class=\"token punctuation\">)</span>\ndate_list<span class=\"token\
+  \ punctuation\">.</span>append<span class=\"token punctuation\">(</span>datetime<span\
+  \ class=\"token punctuation\">.</span>datetime<span class=\"token punctuation\"\
+  >(</span><span class=\"token number\">2017</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">3</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">24</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">17</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">24</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">54</span><span class=\"token punctuation\"\
+  >)</span><span class=\"token punctuation\">)</span>\ndate_list<span class=\"token\
+  \ punctuation\">.</span>append<span class=\"token punctuation\">(</span>datetime<span\
+  \ class=\"token punctuation\">.</span>datetime<span class=\"token punctuation\"\
+  >(</span><span class=\"token number\">2017</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">1</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">14</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">8</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">43</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">5</span><span class=\"token punctuation\"\
+  >)</span><span class=\"token punctuation\">)</span>\ndate_list<span class=\"token\
+  \ punctuation\">.</span>append<span class=\"token punctuation\">(</span>datetime<span\
+  \ class=\"token punctuation\">.</span>datetime<span class=\"token punctuation\"\
+  >(</span><span class=\"token number\">2016</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">8</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">13</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">19</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">20</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">20</span><span class=\"token punctuation\"\
+  >)</span><span class=\"token punctuation\">)</span>\ndate_list<span class=\"token\
+  \ punctuation\">.</span>append<span class=\"token punctuation\">(</span>datetime<span\
+  \ class=\"token punctuation\">.</span>datetime<span class=\"token punctuation\"\
+  >(</span><span class=\"token number\">2012</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">2</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">8</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">19</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">20</span><span class=\"token punctuation\"\
+  >,</span> <span class=\"token number\">20</span><span class=\"token punctuation\"\
+  >)</span><span class=\"token punctuation\">)</span>\n</code></pre>\n\n<p>\u0E2B\u0E25\
+  \u0E31\u0E07\u0E08\u0E32\u0E01\u0E19\u0E31\u0E49\u0E19 \u0E40\u0E23\u0E32\u0E2A\u0E23\
+  \u0E49\u0E32\u0E07\u0E2D\u0E2D\u0E1A\u0E40\u0E08\u0E47\u0E04 <code>datetime</code>\
+  \ \u0E02\u0E2D\u0E07\u0E27\u0E31\u0E19\u0E41\u0E25\u0E30\u0E40\u0E27\u0E25\u0E32\
+  \u0E17\u0E35\u0E48\u0E15\u0E49\u0E2D\u0E07\u0E01\u0E32\u0E23\u0E04\u0E33\u0E19\u0E27\
+  \u0E13\u0E40\u0E02\u0E49\u0E32\u0E44\u0E1B\u0E43\u0E19 List <code>date_list</code>\
+  \ \u0E40\u0E23\u0E32\u0E44\u0E14\u0E49\u0E40\u0E1E\u0E34\u0E48\u0E21\u0E0A\u0E48\
+  \u0E27\u0E07\u0E40\u0E27\u0E25\u0E32\u0E15\u0E48\u0E32\u0E07\u0E46 \u0E2D\u0E22\u0E48\
+  \u0E32\u0E07\u0E2B\u0E25\u0E32\u0E01\u0E2B\u0E25\u0E32\u0E22\u0E40\u0E1E\u0E37\u0E48\
+  \u0E2D\u0E43\u0E2B\u0E49\u0E04\u0E38\u0E13\u0E40\u0E2B\u0E47\u0E19\u0E1C\u0E25\u0E25\
+  \u0E31\u0E1E\u0E18\u0E4C\u0E01\u0E32\u0E23\u0E17\u0E33\u0E07\u0E32\u0E19\u0E02\u0E2D\
+  \u0E07\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E17\
+  \u0E31\u0E48\u0E27\u0E16\u0E36\u0E07 \u0E2B\u0E25\u0E31\u0E07\u0E08\u0E32\u0E01\u0E19\
+  \u0E31\u0E49\u0E19\u0E40\u0E23\u0E32\u0E43\u0E0A\u0E49\u0E04\u0E33\u0E2A\u0E31\u0E48\
+  \u0E07 for loop \u0E43\u0E19\u0E01\u0E32\u0E23\u0E27\u0E19\u0E2D\u0E48\u0E32\u0E19\
+  \u0E04\u0E48\u0E32\u0E27\u0E31\u0E19\u0E17\u0E35\u0E48\u0E43\u0E19 List</p>\n\n\
+  <pre class=\" language-python\"><code class=\" language-python\"><span class=\"\
+  token comment\"># calculate time passed from date to now</span>\n<span class=\"\
+  token keyword\">if</span> time_dif <span class=\"token operator\">&lt;</span> <span\
+  \ class=\"token number\">60</span><span class=\"token punctuation\">:</span>\n \
+  \   <span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span>math<span class=\"token punctuation\">.</span>floor<span class=\"token\
+  \ punctuation\">(</span>time_dif<span class=\"token punctuation\">)</span><span\
+  \ class=\"token punctuation\">,</span> <span class=\"token string\">'secs ago'</span><span\
+  \ class=\"token punctuation\">)</span>\n<span class=\"token keyword\">elif</span>\
+  \ time_dif <span class=\"token operator\">&lt;=</span> <span class=\"token number\"\
+  >3600</span><span class=\"token punctuation\">:</span>\n   <span class=\"token keyword\"\
+  >print</span><span class=\"token punctuation\">(</span>math<span class=\"token punctuation\"\
+  >.</span>floor<span class=\"token punctuation\">(</span>time_dif <span class=\"\
+  token operator\">/</span> <span class=\"token number\">60</span><span class=\"token\
+  \ punctuation\">)</span><span class=\"token punctuation\">,</span> <span class=\"\
+  token string\">'mins ago'</span><span class=\"token punctuation\">)</span>\n<span\
+  \ class=\"token keyword\">elif</span> time_dif <span class=\"token operator\">&lt;=</span>\
+  \ <span class=\"token number\">86400</span><span class=\"token punctuation\">:</span>\n\
+  \   <span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span>math<span class=\"token punctuation\">.</span>floor<span class=\"token\
+  \ punctuation\">(</span>time_dif <span class=\"token operator\">/</span> <span class=\"\
+  token number\">3600</span><span class=\"token punctuation\">)</span><span class=\"\
+  token punctuation\">,</span> <span class=\"token string\">'hours ago'</span><span\
+  \ class=\"token punctuation\">)</span>\n<span class=\"token keyword\">elif</span>\
+  \ time_dif <span class=\"token operator\">&lt;=</span> <span class=\"token number\"\
+  >86400</span> <span class=\"token operator\">*</span> <span class=\"token number\"\
+  >30</span><span class=\"token punctuation\">:</span>\n   <span class=\"token keyword\"\
+  >print</span><span class=\"token punctuation\">(</span>math<span class=\"token punctuation\"\
+  >.</span>floor<span class=\"token punctuation\">(</span>time_dif <span class=\"\
+  token operator\">/</span> <span class=\"token number\">86400</span><span class=\"\
+  token punctuation\">)</span><span class=\"token punctuation\">,</span> <span class=\"\
+  token string\">'days ago'</span><span class=\"token punctuation\">)</span>\n<span\
+  \ class=\"token keyword\">elif</span> time_dif <span class=\"token operator\">&lt;=</span>\
+  \ <span class=\"token number\">86400</span> <span class=\"token operator\">*</span>\
+  \ <span class=\"token number\">365.25</span><span class=\"token punctuation\">:</span>\n\
+  \   <span class=\"token keyword\">print</span><span class=\"token punctuation\"\
+  >(</span>math<span class=\"token punctuation\">.</span>floor<span class=\"token\
+  \ punctuation\">(</span>time_dif <span class=\"token operator\">/</span> <span class=\"\
+  token punctuation\">(</span><span class=\"token number\">86400</span> <span class=\"\
+  token operator\">*</span> <span class=\"token number\">30</span><span class=\"token\
+  \ punctuation\">)</span><span class=\"token punctuation\">)</span><span class=\"\
+  token punctuation\">,</span> <span class=\"token string\">'months ago'</span><span\
+  \ class=\"token punctuation\">)</span>\n<span class=\"token keyword\">else</span><span\
+  \ class=\"token punctuation\">:</span>\n   <span class=\"token keyword\">print</span><span\
+  \ class=\"token punctuation\">(</span>math<span class=\"token punctuation\">.</span>floor<span\
+  \ class=\"token punctuation\">(</span>time_dif <span class=\"token operator\">/</span>\
+  \ <span class=\"token punctuation\">(</span><span class=\"token number\">86400</span>\
+  \ <span class=\"token operator\">*</span> <span class=\"token number\">365.25</span><span\
+  \ class=\"token punctuation\">)</span><span class=\"token punctuation\">)</span><span\
+  \ class=\"token punctuation\">,</span> <span class=\"token string\">'years ago'</span><span\
+  \ class=\"token punctuation\">)</span>\n</code></pre>\n\n<p>\u0E21\u0E32\u0E16\u0E36\
+  \u0E07\u0E01\u0E32\u0E23\u0E04\u0E33\u0E19\u0E27\u0E13\u0E2B\u0E32\u0E40\u0E27\u0E25\
+  \u0E32\u0E17\u0E35\u0E48\u0E1C\u0E48\u0E32\u0E19\u0E44\u0E1B\u0E42\u0E14\u0E22\u0E01\
+  \u0E32\u0E23\u0E43\u0E0A\u0E49\u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07 if elif \u0E41\
+  \u0E25\u0E30 else \u0E01\u0E32\u0E23\u0E04\u0E33\u0E19\u0E27\u0E13\u0E19\u0E31\u0E49\
+  \u0E19\u0E40\u0E1B\u0E47\u0E19\u0E01\u0E32\u0E23\u0E1A\u0E2D\u0E01\u0E40\u0E27\u0E25\
+  \u0E32\u0E17\u0E35\u0E48\u0E1C\u0E48\u0E32\u0E19\u0E44\u0E1B\u0E42\u0E14\u0E22\u0E1B\
+  \u0E23\u0E30\u0E21\u0E32\u0E13 \u0E42\u0E14\u0E22\u0E15\u0E31\u0E14\u0E04\u0E27\u0E32\
+  \u0E21\u0E25\u0E30\u0E40\u0E2D\u0E35\u0E22\u0E14\u0E02\u0E2D\u0E07\u0E40\u0E27\u0E25\
+  \u0E32\u0E0A\u0E48\u0E27\u0E07\u0E2B\u0E25\u0E31\u0E07\u0E17\u0E34\u0E49\u0E07\u0E44\
+  \u0E1B \u0E40\u0E0A\u0E48\u0E19 \u0E40\u0E23\u0E32\u0E04\u0E33\u0E19\u0E27\u0E13\
+  \u0E44\u0E14\u0E49 3 \u0E27\u0E31\u0E19\u0E01\u0E31\u0E1A 5 \u0E0A\u0E31\u0E48\u0E27\
+  \u0E42\u0E21\u0E07 \u0E40\u0E23\u0E32\u0E41\u0E2A\u0E14\u0E07\u0E1C\u0E25\u0E40\u0E1E\
+  \u0E35\u0E22\u0E07 3 \u0E27\u0E31\u0E19 \u0E0B\u0E36\u0E48\u0E07\u0E40\u0E1B\u0E47\
+  \u0E19\u0E04\u0E48\u0E32\u0E42\u0E14\u0E22\u0E1B\u0E23\u0E30\u0E21\u0E32\u0E13</p>\n\
+  \n<pre class=\"code-result language-result\"><code class=\" language-result\">Time\
+  \ difference to March 29, 2017 11:00:00 AM\nMarch 29, 2017 10:59:24 AM  =&gt; 36\
+  \ secs ago\nMarch 29, 2017 10:12:12 AM  =&gt; 47 mins ago\nMarch 24, 2017 05:24:54\
+  \ PM  =&gt; 4 days ago\nJanuary 14, 2017 08:43:05 AM  =&gt; 2 months ago\nAugust\
+  \ 13, 2016 07:20:20 PM  =&gt; 7 months ago\nFebruary 08, 2012 07:20:20 PM  =&gt;\
+  \ 5 years ago\n</code></pre>\n\n<p>\u0E19\u0E35\u0E48\u0E40\u0E1B\u0E47\u0E19\u0E1C\
+  \u0E25\u0E25\u0E31\u0E1E\u0E18\u0E4C\u0E01\u0E32\u0E23\u0E17\u0E33\u0E07\u0E32\u0E19\
+  \u0E02\u0E2D\u0E07\u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E43\u0E19\u0E01\u0E32\
+  \u0E23\u0E1A\u0E2D\u0E01\u0E40\u0E27\u0E25\u0E32\u0E17\u0E35\u0E48\u0E1C\u0E48\u0E32\
+  \u0E19\u0E21\u0E32 \u0E40\u0E2B\u0E21\u0E37\u0E2D\u0E19\u0E43\u0E19 Facebook \u0E2B\
+  \u0E23\u0E37\u0E2D Twitter</p>\n\n<p>\u0E43\u0E19\u0E1A\u0E17\u0E19\u0E35\u0E49\
+  \ \u0E04\u0E38\u0E13\u0E44\u0E14\u0E49\u0E40\u0E23\u0E35\u0E22\u0E19\u0E23\u0E39\
+  \u0E49\u0E40\u0E01\u0E35\u0E48\u0E22\u0E27\u0E01\u0E31\u0E1A\u0E04\u0E33\u0E2A\u0E31\
+  \u0E48\u0E07\u0E40\u0E25\u0E37\u0E2D\u0E01\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\
+  \u0E02 if elif \u0E41\u0E25\u0E30 else \u0E43\u0E19\u0E1E\u0E37\u0E49\u0E19\u0E10\
+  \u0E32\u0E19\u0E2A\u0E33\u0E2B\u0E23\u0E31\u0E1A\u0E04\u0E27\u0E1A\u0E04\u0E38\u0E21\
+  \u0E42\u0E1B\u0E23\u0E41\u0E01\u0E23\u0E21\u0E43\u0E2B\u0E49\u0E17\u0E33\u0E07\u0E32\
+  \u0E19\u0E15\u0E32\u0E21\u0E40\u0E07\u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02\u0E17\u0E35\
+  \u0E48\u0E41\u0E15\u0E01\u0E15\u0E48\u0E32\u0E07\u0E01\u0E31\u0E19\u0E2D\u0E2D\u0E01\
+  \u0E44\u0E1B \u0E41\u0E25\u0E30\u0E40\u0E23\u0E32\u0E44\u0E14\u0E49\u0E43\u0E2B\u0E49\
+  \u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07\u0E02\u0E2D\u0E07\u0E01\u0E32\u0E23\
+  \u0E1A\u0E2D\u0E01\u0E40\u0E27\u0E25\u0E32\u0E43\u0E19\u0E23\u0E39\u0E1B\u0E41\u0E1A\
+  \u0E1A\u0E40\u0E27\u0E25\u0E32\u0E17\u0E35\u0E48\u0E1C\u0E48\u0E32\u0E19\u0E44\u0E1B\
+  \u0E17\u0E35\u0E48\u0E08\u0E30\u0E0A\u0E48\u0E27\u0E22\u0E43\u0E2B\u0E49\u0E04\u0E38\
+  \u0E13\u0E40\u0E02\u0E49\u0E32\u0E43\u0E08\u0E21\u0E32\u0E01\u0E02\u0E36\u0E49\u0E19\
+  </p>\n\n\n<div class=\"my-3\">\n    <!-- marcuscode - bottom banner -->\n    <ins\
+  \ class=\"adsbygoogle\" style=\"display:block\" data-ad-client=\"ca-pub-9075045589988569\"\
+  \ data-ad-slot=\"9750736781\" data-ad-format=\"auto\" data-full-width-responsive=\"\
+  true\"></ins>\n    <script>\n        (adsbygoogle = window.adsbygoogle || []).push({});\n\
+  \    </script>\n</div>\n        </article>"
+environment_id: default
+environment_parameters:
+  limits:
+    hard_time: 20
+    memory: 120
+    time: 1
+  run_cmd: ''
+environment_type: docker
+evaluate: best
+file: ''
+groups: false
+input_random: '0'
+name: "7 \u0E04\u0E33\u0E2A\u0E31\u0E48\u0E07\u0E40\u0E25\u0E37\u0E2D\u0E01\u0E40\u0E07\
+  \u0E37\u0E48\u0E2D\u0E19\u0E44\u0E02"
+network_grading: false
+order: '0'
+problems:
+  problem16333485269087038teacher00:
+    accept:
+    - if
+    - elif
+    - else
+    deadline: '2021-09-29T11:00:00.000Z'
+    default: ''
+    examplecase:
+      input:
+      - '50'
+      - '1'
+      - '10'
+      output:
+      - 50 >10
+      - 1 <10
+      - 10 =10
+    fixAnswer: true
+    fixanswer: true
+    header: ''
+    language: python
+    name: "\u0E43\u0E0A\u0E49\u0E07\u0E32\u0E19 if elif else"
+    noinput: false
+    notaccept: []
+    score: 5
+    score_late: 2.5
+    statement: "\u0E43\u0E2B\u0E49\u0E23\u0E31\u0E1A\u0E2D\u0E34\u0E19\u0E1E\u0E38\
+      \u0E15\u0E15\u0E31\u0E27\u0E40\u0E25\u0E02\n\u0E16\u0E49\u0E32\u0E04\u0E48\u0E32\
+      \u0E19\u0E49\u0E2D\u0E22\u0E01\u0E27\u0E48\u0E32 10 \u0E43\u0E2B\u0E49 \u0E41\
+      \u0E2A\u0E14\u0E07\u0E1B\u0E23\u0E30\u0E42\u0E22\u0E04 \u0E04\u0E48\u0E32\u0E17\
+      \u0E35\u0E48\u0E44\u0E14\u0E49\u0E23\u0E31\u0E1A <10\n\u0E16\u0E49\u0E32\u0E04\
+      \u0E48\u0E32\u0E40\u0E17\u0E48\u0E32\u0E01\u0E31\u0E1A 10 \u0E43\u0E2B\u0E49\
+      \ \u0E41\u0E2A\u0E14\u0E07\u0E1B\u0E23\u0E30\u0E42\u0E22\u0E04 \u0E04\u0E48\u0E32\
+      \u0E17\u0E35\u0E48\u0E44\u0E14\u0E49\u0E23\u0E31\u0E1A =10\n\u0E16\u0E49\u0E32\
+      \u0E04\u0E48\u0E32\u0E21\u0E32\u0E01\u0E01\u0E27\u0E48\u0E32 10 \u0E43\u0E2B\
+      \u0E49 \u0E41\u0E2A\u0E14\u0E07\u0E1B\u0E23\u0E30\u0E42\u0E22\u0E04 \u0E04\u0E48\
+      \u0E32\u0E17\u0E35\u0E48\u0E44\u0E14\u0E49\u0E23\u0E31\u0E1A >10"
+    testcase:
+      input:
+      - '10'
+      - '9'
+      - '8'
+      - '30'
+      - '100'
+      output:
+      - 10 =10
+      - 9 <10
+      - 8 <10
+      - 30 >10
+      - 100 >10
+    type: code
+stored_submissions: 0
+submission_limit:
+  amount: -1
+  period: -1
+weight: 1.0

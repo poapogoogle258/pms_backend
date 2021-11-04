@@ -39,7 +39,8 @@ class service_problem(APIAuthenticatedPage):
                 input_user = bson.BSON.decode(self.submission_manager.get_gridfs().get(last_submisstion[0]["input"]).read()) if len(last_submisstion) > 0 else None
 
 
-                caches = self.user_manager.get_problem_caches([username],courseid,taskid,problemid)
+                caches = self.user_manager.get_problem_caches([username],courseid,taskid,problmeid1)
+                print(caches)
                 
                 if problemid == None or problmeid1 == problemid:
                     output['problems'].append({
@@ -50,7 +51,7 @@ class service_problem(APIAuthenticatedPage):
                         'examplecase':problem.get('examplecase',None ) ,
                         'deadline':problem.get('deadline',None),
                         'tried' : caches[username]['tried'] if caches[username]!=None else 0,
-                        'status': caches[username]['succeeded'] if caches[username]!=None else False,
+                        'status' : caches[username]['status_work'] if caches[username]!=None and caches[username]['tried'] > 0 else 'notting',
                         'submitted_on' : last_submisstion[0]['submitted_on'] if len(last_submisstion) > 0 else None,
                         'code': input_user.get('student_code',"") if len(last_submisstion) > 0 else "",
                         'score': problem.get('score',''),

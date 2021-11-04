@@ -1,0 +1,44 @@
+name: '[LSINF1252] Systèmes informatiques'
+accessible: true
+admins:
+- maxhonneux
+- vanstratum
+- martinol
+- nrybowski
+- mawait
+- pgonzalezalv
+- rousseauxt
+- obonaventure
+- gegoa
+- jadinm
+- qdeconinck
+- rousseauxt
+- tascongutier
+- jvlaeminck
+- silardinois
+- louisna
+- agobeaux
+tutors:
+- aballet
+- ody
+- dimidschstei
+- aclarembeau
+- rousseauxt
+- tascongutier
+- jvlaeminck
+- silardinois
+- louisna
+- agobeaux
+groups_student_choice: true
+use_classrooms: true
+allow_unregister: true
+allow_preview: true
+registration: true
+registration_password: null
+registration_ac: null
+registration_ac_list:
+- ''
+is_lti: false
+lti_keys: {}
+lti_send_back_grade: false
+description: ''

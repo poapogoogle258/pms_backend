@@ -1,0 +1,6 @@
+accessible: true
+admins:
+- superadmin
+description: '2'
+name: '2'
+registration_password: '2'

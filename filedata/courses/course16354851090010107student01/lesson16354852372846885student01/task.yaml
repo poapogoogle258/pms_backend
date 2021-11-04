@@ -1,0 +1,26 @@
+accessible: true
+author: student01
+categories: []
+contact_url: ''
+context: '## ความสงบสะกดความเคลื่อนไหว'
+environment_id: default
+environment_parameters:
+    limits:
+        hard_time: 20
+        memory: 120
+        time: 1
+    run_cmd: ''
+environment_type: docker
+evaluate: best
+file: ''
+groups: false
+input_random: '0'
+name: 01 การทำจิตใจให้สงบ
+network_grading: false
+order: '0'
+problems: {}
+stored_submissions: 0
+submission_limit:
+    amount: -1
+    period: -1
+weight: 1.0

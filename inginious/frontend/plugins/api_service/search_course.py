@@ -11,6 +11,7 @@ class service_search(APIAuthenticatedPage):
         results = []
         course_all = self.course_factory.get_all_courses()
         language = self.user_manager.session_language()
+        username = self.user_manager.session_username()
         cutoff = 70
 
  
@@ -23,6 +24,7 @@ class service_search(APIAuthenticatedPage):
                         'id' : course.get_id(),
                         'title' : course_name,
                         'teacher' : None if len(course.get_admins()) == 0 else self.user_manager.get_user_realname(course.get_admins()[0]),
+                        'registed' : self.user_manager.course_is_user_registered(course,username) or self.user_manager.has_admin_rights_on_course(course),
                         'score_partial_ratio': fuzz.partial_ratio(course_name, query),
                         'score_ratio' : fuzz.ratio(course_name, query)
                         

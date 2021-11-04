@@ -1,0 +1,87 @@
+accessible: true
+author: teacher00
+categories: []
+contact_url: ''
+context: |-
+    <h1>แนะนำภาษา Python</h1>
+
+    <h2>ภาษา Python คืออะไร</h2>
+
+    <p>Python เป็นภาษาเขียนโปรแกรมระดับสูงที่ใช้กันอย่างกว้างขวางในการเขียนโปรแกรมสำหรับวัตถุประสงค์ทั่วไป ภาษา Python นั้นสร้างโดย Guido van Rossum และถูกเผยแพร่ครั้งแรกในปี 1991 Python นั้นเป็นภาษาแบบ interprete ที่ถูกออกแบบโดยมีปรัญชาที่จะทำให้โค้ดอ่านได้ง่ายขึ้น และโครงสร้างของภาษานั้นจะทำให้โปรแกรมเมอร์สามารถเข้าใจแนวคิดการเขียนโค้ดโดยใช้บรรทัดที่น้อยลงกว่าภาษาอย่าง C++ และ Java ซึ่งภาษานั้นถูกกำหนดให้มีโครงสร้างที่ตั้งใจให้การเขียนโค้ดเข้าใจง่ายทั้งในโปรแกรมเล็กไปจนถึงโปรแกรมขนาดใหญ่</p>
+
+    <section>
+                    <div class="text-muted cleafix mb-3">
+                        <span>5 March 2017</span>
+                                        </div>
+                </section><p><img src="http://marcuscode.com/media/52/marcuscode_UIW0qoob_1000.png" alt="Python's logo" title="โลโก้ของภาษา Python"></p>
+
+    <p>Python นั้นมีคุณสมบัติเป็นภาษาเขียนโปรแกรมแบบไดนามิกส์และมีระบบการจัดการหน่วยความจำอัตโนมัติและสนับสนุนการเขียนโปรแกรมหลายรูปแบบ ที่ประกอบไปด้วย การเขียนโปรแกรมเชิงวัตถุ imperative การเขียนโปรแกรมแบบฟังก์ชัน และการเขียนโปรแกรมแบบขั้นตอน มันมีไลบรารี่ที่ครอบคลุมการทำงานอย่างหลากหลาย</p>
+
+    <p>ตัวแปรภาษา (Interpreter) ของภาษา Python นั้นมีให้ใช้ในหลายระบบปฏิบัติการ ทำให้โค้ดของภาษา Python สามารถรันในระบบต่างๆ ได้อย่างกว้างขวาง CPython นั้นเป็นการพัฒนาในตอนต้นของ Python ซึ่งเป็นโปรแกรมแบบ open source และมีชุมชนสำหรับเป็นต้นแบบในการพัฒนา เนื่องจากมันได้มีการนำไปพัฒนากระจายไปอย่างหลากหลาย CPython นั้นจึงถูกจัดการโดยองค์กรไม่แสวงหาผลกำไรอย่าง Python Software Foundation</p>
+
+    <div class="my-3">
+        <!-- marcuscode - middle banner -->
+        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9075045589988569" data-ad-slot="9605104032" data-ad-format="auto" data-full-width-responsive="true"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    <h2>ประวัติของภาษา Python</h2>
+
+    <p>ภาษา Python กำเนิดขึ้นในปลายปี 1980 และการพัฒนาของมันเริ่มต้นในเดือนธันวาคม 1989 โดย Guido van Rossum ที่ Centrum Wiskunde &amp; Informatica (CWI) ในประเทศเนเธอร์แลนด์ เนื่องในผู้ประสบความสำเร็จในการสร้างภาษา ABC ที่มีความสามารถสำหรับการจัดการข้อผิดพลาด (Exception handling) และการติดต่อผสานกับระบบปฏิบัติการ Amoeba ซึ่ง Van Rossum นั้นเป็นผู้เขียนหลักของภาษา Python และเขาทำหน้าเป็นกลางในการตัดสินใจสำหรับทิศทางการพัฒนาของภาษา Python</p>
+
+    <p><img src="http://marcuscode.com/media/53/marcuscode_iQI0dGjz_1000.jpg" alt="Guido van Rossum ผู้สร้างภาษา Python" title="Guido van Rossum ผู้สร้างภาษา Python"></p>
+
+    <p>Python 2.0 ได้ถูกเผยแพร่ในวันที่ 16 ตุลาคม 2000 และมีคุณสมบัติใหม่ที่โดดเด่น ที่ประกอบไปด้วย cycle-detecting garbage collector และสนับสนุน Unicode กับการเผยแพร่ครั้งนี้ กระบวนการพัฒนานั้นได้เปลี่ยนไปโดยการร่วมกันพัฒนาด้วย Community มากขึ้น</p>
+
+    <p>Python 3.0  (ซึ่งได้มีการพัฒนามาก่อนหน้านี้และได้อ้างถึงโดยใช้ชื่อว่า Python 3000 หรือ py3k) มันเป็นการพัฒนาที่เปลี่ยนแปลงไปอย่างมาก และมันเข้ากันกับ Python ในเวอร์ชันก่อนหน้าไม่ได้ ซึ่งได้ถูกเผยแพร่ในวันที่ 3 ธันวาคม 2008 หลังจากที่ได้มีการทดสอบอยู่เป็นเวลานาน คุณสมบัติที่สำคัญของมันจำนวนมากได้ถูกย้อนกลับไปเพื่อให้เข้ากันได้กับ Python เวอร์ชัน 2.6.x และ 2.7.x</p>
+
+    <h2>ไวยากรณ์ของภาษา Python</h2>
+
+    <p>ภาษา Python ถูกพัฒนาขึ้นมาโดยมีความตั้งใจว่าจะให้เป็นภาษาที่อ่านง่าย มันถูกออกแบบมาให้มีโครงสร้างที่ไม่ซับซ้อน โดยมักจะใช้คำในภาษาอังกฤษในขณะที่ภาษาอื่นใช้เครื่องหมายและวรรคตอน นอกจากนี้ Python ยังมีข้อยกเว้นของโครงสร้างทางภาษาน้อยกว่าอื่นๆ อย่างภาษา C และ Pascal</p>
+
+    <div class="my-3">
+        <!-- marcuscode - middle banner -->
+        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9075045589988569" data-ad-slot="9605104032" data-ad-format="auto" data-full-width-responsive="true"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    <h2>Python Interpreter</h2>
+
+    <p>Python interprete เป็นตัวแปรภาษาของภาษา Python เพื่อให้สามารถรันโค้ด Python ได้ ซึ่งได้มากับไลบรารี่มาตรฐานที่สามารถใช้งานได้ฟรี ซึ่งดาวน์โหลดได้ที่ <a href="https://www.python.org/">https://www.python.org/</a> มันเป็นโปรแกรมแบบ source และ binary ที่มีให้ดาวน์โหลดในแพลตฟอร์มที่ได้รับความนิยม นอกจากนี้ interpreter ยังสนับสนุนการเขียนโปรแกรมกับ Interactive shell ซึ่งเป็นการเขียนโค้ดภาษา Python และเห็นผลลัพธ์การทำงานของคำสั่งได้ในทันที</p>
+
+    <p>นอกจากนี้ Python interpreter ยังสามารถนำมาเขียนร่วมกับฟังก์ชันใหม่ที่ถูกพัฒนามาจากภาษา C และ C++ เพื่อเพิ่มความสามารถการทำงานของภาษา Python และเหมาะสำหรับเป็นภาษาในการสร้าง Extension และแอพพลิเคชันที่ปรับแต่งได้</p>
+
+    <p>ในบทนี้ คุณได้เรียนรู้เกี่ยวกับภาษา Python ในเรื่องคุณสมบัติของภาษาและประวัติความเป็นมาของมัน นอกจากนี้เรายังพูดถึง Python interpreter ซึ่งเป็นตัวแปลโค้ดของภาษา Python ที่ทำให้โค้ดสามารถทำงานได้ ในบทต่อไป จะเป็นการเตรียมเครื่องมือและการติดตั้งสิ่งที่จำเป็นสำหรับการเขียนโปรแกรมด้วยภาษา Python</p>
+
+
+    <div class="my-3">
+        <!-- marcuscode - bottom banner -->
+        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9075045589988569" data-ad-slot="9750736781" data-ad-format="auto" data-full-width-responsive="true"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+            </article>
+environment_id: default
+environment_parameters:
+    limits:
+        hard_time: 20
+        memory: 120
+        time: 1
+    run_cmd: ''
+environment_type: docker
+evaluate: best
+file: ''
+groups: false
+input_random: '0'
+name: 1 แนะนำภาษา Python
+network_grading: false
+order: '0'
+problems: {}
+stored_submissions: 0
+submission_limit:
+    amount: -1
+    period: -1
+weight: 1.0

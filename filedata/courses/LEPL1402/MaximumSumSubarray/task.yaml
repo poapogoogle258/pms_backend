@@ -1,0 +1,67 @@
+accessible: true
+author: Bastin J, Piron H
+categories:
+- module2
+context: |-
+    In this exercise you must write a method  ``maxSubArray`` that finds the largest sum in a contiguous subarray :
+
+    Given:
+        - an array :math:`s`,
+        - :math:`(i, j)`, two indexes defining the start and the end of a subarray :math:`sub` such that :math:`0 \leq i \leq j < s.length`
+        - :math:`sum(sub)` the sum of all elements of the subarray :math:`sub`.
+
+    :math:`\forall sub \in s` such that :math:`sub \neq sub_{optimal}`; :math:`sub_{optimal}` is the maximum subarray of :math:`s` if and only if :math:`sum(sub_{optimal}) > sum(sub)`.
+
+    What it means is that given an array, your program should find the **first** subarray that produces the maximum result.
+
+    Your method must return an array of three integers :
+        - The sum of the subarray
+        - The index of the start of the subarray
+        - The index of the end of the subarray
+
+    .. code-block:: java
+
+        /*
+        *    Given the array [-2,1,-3,4,-1,2,1,-5,4]
+        *    The contiguous subarray that produces the best result is [4,-1,2,1]
+        *    For this array your method should return [6, 3, 6]
+        */
+        public static int[] maxSubArray(int[] a){
+
+            //TODO By Student
+
+        }
+
+    Note that the length of the array **a** is strictly greater than 0.
+environment: pyjavacpp
+evaluate: best
+file: ''
+groups: false
+input_random: '0'
+limits:
+    memory: '100'
+    time: '30'
+    output: '2'
+name: '[Module 2] Largest Sum Contiguous Subarray'
+network_grading: false
+order: 20
+problems:
+    student_subarray:
+        language: java
+        name: ''
+        type: code
+        default: ''
+        header: Paste here the **body** of your method ``maxSubArray``
+    student_functions:
+        name: ''
+        type: code
+        default: ''
+        language: java
+        optional: 'on'
+        header: 'Paste here you eventual additional methods (**signature** and **body**):'
+run_cmd: ''
+stored_submissions: 0
+submission_limit:
+    amount: -1
+    period: -1
+weight: 1.0

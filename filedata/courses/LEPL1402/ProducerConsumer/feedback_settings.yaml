@@ -1,0 +1,13 @@
+has_feedback: True
+feedback_kind: JavaGrading
+prohibited:
+  "student_enqueue":
+    - newCondition
+    - new ReentrantLock
+    - synchronize
+    - notify
+  "student_dequeue":
+    - newCondition
+    - new ReentrantLock
+    - synchronize
+    - notify

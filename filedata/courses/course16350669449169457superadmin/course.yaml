@@ -1,0 +1,6 @@
+accessible: true
+admins:
+- superadmin
+description: พาส 1111
+name: แก้ไขปุ่มซ้อนกัน
+registration_password: '1111'

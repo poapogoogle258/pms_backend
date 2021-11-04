@@ -1,0 +1,282 @@
+accessible: true
+author: teacher00
+categories: []
+contact_url: ''
+context: |4-
+     <article class="article-container mb-4">
+        <h1>โครงสร้างของภาษา Python</h1>
+            <section>
+                    <div class="text-muted cleafix mb-3">
+                        <span>7 March 2017</span>
+                                        </div>
+                </section>
+
+    <p>ในบทนี้ คุณจะได้เรียนรู้และทำความเข้าใจเกี่ยวกับโครงของภาษา Python ในภาษาคอมพิวเตอร์นั้นมีโครงสร้างของภาษาเช่นเดียวกับภาษาของมนุษย์เรา ซึ่งสิ่งเหล่านี้ถูกกำหนดเพื่อเป็นรูปแบบและวิธีในการเขียนโปรแกรมในภาษา Python มันใช้สำหรับควบคุมวิธีที่คุณจะเขียนโค้ดของคุณเพื่อให้เข้าใจโดยตัวแปรภาษาหรือคอมไพเลอร์</p>
+
+    <h2>Simple Python program</h2>
+
+    <p>เพื่อเริ่มต้นการเรียนรู้ภาษา Python มาดูตัวอย่างของโปรแกรมอย่างง่าย โดยเป็นโปรแกรมที่ถามชื่อผู้ใช้และแสดงข้อความทักทายทางหน้าจอ มาเริ่มเขียนโปรแกรมแรกในภาษา Python ของคุณ ให้คัดลอกโปรแกรมข้างล่างแล้วนำไปรันใน IDE</p>
+
+    <div class="codehead">first.py</div>
+
+    <pre><code class="language-python"># My first Python program
+    name = input('What is your name?\n')
+    print ('Hi, %s.' % name)
+    print ('Welcome to Python.')
+    </code></pre>
+
+    <p>ในตัวอย่าง เป็นโปรแกรมในการรับชื่อและแสดงข้อความทักทายออกทางหน้าจอ ในการรันโปรแกรม คุณสามารถรันได้หลายวิธี แต่ที่แนะนำคือการใช้ Python shell ให้คุณเปิด Python shell ขึ้นมาแล้วกดสร้างไฟล์ใหม่โดยไปที่ <em>File -> New File</em> จะปรากฏกล่อง Text editor ของภาษา Python ขึ้นมา เพื่อรันโปรแกรม <em>Run -> Run Module</em> หรือกด <em>F5</em> โปรแกรมจะเปลี่ยนกลับไปยัง Python shell และเริ่มต้นทำงาน</p>
+
+    <p><img src="http://marcuscode.com/media/68/marcuscode_eIk393k0_1000.jpg" alt="การรันโปรแกรมภาษา Python ใน Python Shell" title="Python program" /></p>
+
+    <p>นี่เป็นผลลัพธ์การทำงานในการรันโปรแกรม <em>first.py</em> จาก Python shell ในตัวอย่างเราได้กรอกชื่อเป็น <code>"Mateo"</code> หลังจากนั้นโปรแกรมได้แสดงข้อความทักทายและจบการทำงาน ในตอนนี้คุณยังไม่ต้องกังวลว่าโปรแกรมในแต่ละบรรทัดทำงานอย่างไร ซึ่งเราจะอธิบายในต่อไป</p>
+
+    <p>อีกวิธีหนึ่งสำหรับการรันโปรแกรมในภาษา Python อย่างที่เราได้บอกไปในบทก่อนหน้าคือรันผ่าน Command line ด้วยคำสั่งต่อไปนี้</p>
+
+    <pre class="code-syntax"><code class="language-syntax">python first.py
+    </code></pre>
+
+    <div class="my-3">
+        <!-- marcuscode - middle banner -->
+        <ins class="adsbygoogle"
+            style="display:block"
+            data-ad-client="ca-pub-9075045589988569"
+            data-ad-slot="9605104032"
+            data-ad-format="auto"
+            data-full-width-responsive="true"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    <h2>Module</h2>
+
+    <p>ในตัวอย่างโปรแกรมรับชื่อ เป็นโปรแกรมแรกของเราในบทเรียน Python นี้ เราได้บันทึกเป็นไฟล์ที่ชื่อว่า <em>first.py</em> ซึ่งไฟล์ของภาษา Python นั้นจะเรียกว่า Module ซึ่ง Module จะประกอบไปด้วยคลาส ฟังก์ชัน และตัวแปรต่างๆ และนอกจากนี้เรายังสามารถ import โมดูลอื่นเข้ามาในโปรแกรมได้ ซึ่งโมดูลอาจจะอยู่ภายใน package ซึ่งเป็นเหมือนโฟล์เดอร์ที่เอาไว้จัดกลุ่มของ Module ในตัวอย่าง <em>first.py</em> จึงเป็นโมดูลของโปรแกรมแรกของเรา</p>
+
+    <h2>Comment</h2>
+
+    <p>คอมเมนต์ในภาษา Python นั้นเริ่มต้นด้วยเครื่องหมาย <code>#</code> คอมเมนต์สามารถเริ่มต้นที่ตำแหน่งแรกของบรรทัดและหลังจากนั้นจะประกอบไปด้วย Whilespace หรือโค้ดของโปรแกรม หรือคำอธิบาย ซึ่งโดยทั่วไปแล้วคอมเมนต์มักจะใช้สำหรับอธิบายซอสโค้ดที่เราเขียนขึ้นและมันไม่มีผลต่อการทำงานของโปรแกรม นี่เป็นตัวอย่างการคอมเมนต์ในภาษา Python</p>
+
+    <pre><code class="language-python"># My first Python program
+
+    '''
+    This is a multiline comment
+    '''
+
+    print ('Hello Python.') # Inline comment
+    </code></pre>
+
+    <p>ในตัวอย่าง เราได้คอมเมนต์สามแบบด้วยกัน แบบแรกเป็นการคอมเมนต์แบบ single line แบบที่สองเป็นการคอมเมนต์แบบ multi-line และแบบสุดท้ายเป็นการคอมมเมนต์แบบ inline หรือการคอมเมนต์ภายในบรรทัดเดียวกัน</p>
+
+    <div class="my-3">
+        <!-- marcuscode - middle banner -->
+        <ins class="adsbygoogle"
+            style="display:block"
+            data-ad-client="ca-pub-9075045589988569"
+            data-ad-slot="9605104032"
+            data-ad-format="auto"
+            data-full-width-responsive="true"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    <h2>Statement</h2>
+
+    <p>Statement คือคำสั่งการทำงานของโปรแกรม แต่ละคำสั่งในภาษา Python นั้นจะแบ่งแยกด้วยการขึ้นบรรทัดใหม่ ซึ่งจะแตกต่างจากภาษา C และ Java ซึ่งใช้เครื่องหมายเซมิโคลอน (<code>;</code>) ในการจบคำสั่งการทำงาน แต่อย่างไรก็ตาม ในภาษา Python นั้นคุณสามารถมีหลายคำสั่งในบรรทัดเดียวกันได้โดยการใช้เครื่องหมายเซมิโคลอน</p>
+
+    <pre><code class="language-python">name = input('What is your name?\n')
+    print ('Hi, %s.' % name);
+    print ('Welcome to Python.'); print ('Do you love it?')
+    </code></pre>
+
+    <p>ในตัวอย่าง เรามี 4 คำสั่งในโปรแกรม สองบรรทัดแรกเป็นคำสั่งที่ใช้บรรทัดใหม่ในการจบคำสั่ง ซึ่งเป็นแบบปกติในภาษา Python และบรรทัดสุดท้ายเรามีสองคำสั่งในบรรทัดเดียวที่คั่นด้วยเครืองหมายเซมิโคลอน (<code>;</code>) สำหรับการจบคำสั่ง</p>
+
+    <h2>Indentation and while space</h2>
+
+    <p>ในภาษา Python นั้นใช้ Whilespace และ Tab สำหรับกำหนดบล็อคของโปรแกรม เช่น คำสั่ง If Else For หรือการประกาศฟังก์ชัน ซึ่งคำสั่งเหล่านี้เป็นคำสั่งแบบล็อค โดยจำนวนช่องว่างที่ใช้นั้นต้องเท่ากัน มาดูตัวอย่างของบล็อคคำสั่งในภาษา Python</p>
+
+    <pre><code class="language-python">n = int(input ('Input an integer: '))
+
+    if (n &gt; 0):
+        print ('x is positive number')
+        print ('Show number from 0 to %d' % (n - 1))
+
+    else:
+        print ('x isn\'t positive number')
+
+    for i in range(n):
+        print(i)
+    </code></pre>
+
+    <p>ในตัวอย่าง โปรแกรมของเรานั้นประกอบไปด้วย 3 บล็อคที่สร้างจาก 3 คำสั่ง คำสั่งแรกคือ If ในบล็อคนี้มีสองคำสั่งย่อยอยู่ภายใน ที่หัวของบล็อคจะต้องมีเครื่องหมายโคลอน (<code>:</code>) กำหนดหลังคำสั่ง <code>if</code> ในการเริ่มต้นบล็อคเสมอ อีกสองบล็อคสุดท้ายนั้นเป็นคำสั่ง <code>else</code> และ <code>for</code> ซึ่งแต่ละบล็อคมีหนึ่งคำสั่งย่อยอยู่ภายใน ในภาษา Python นั้นเข้มงวดกับช่องว่างภายในบล็อคมาก นั้นหมายความว่าทุกคำสั่งย่อยภายในบล็อคนั้นต้องมีจำนวนช่องว่างเท่ากันเสมอ</p>
+
+    <pre><code class="language-python">n = int(input ('Input an integer: '))
+
+    # Invalid indent
+    if (n &gt; 0):
+        print ('x is positive number')
+            print ('Show number from 0 to %d' % (n - 1))
+
+    # Valid indent
+    else:
+        print ('x isn\'t positive number')
+
+    # Valid indent
+    for i in range(n):
+            print(i)
+
+    </code></pre>
+
+    <p>นี่เป็นตัวอย่างการใช้งานช่องว่างที่ถูกต้องและไม่ถูกต้องภายในบล็อค ในคำสั่ง If นั้นไม่ถูกเพราะทั้งสองคำสั่งมีจำนวนช่องว่างที่ไม่เท่ากัน สำหรับในคำสั่ง Else และ For นั้นถูกต้อง</p>
+
+    <div class="my-3">
+        <!-- marcuscode - middle banner -->
+        <ins class="adsbygoogle"
+            style="display:block"
+            data-ad-client="ca-pub-9075045589988569"
+            data-ad-slot="9605104032"
+            data-ad-format="auto"
+            data-full-width-responsive="true"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    <h2>Literals</h2>
+
+    <p>ในการเขียนโปรแกรม Literal คือตัวอักษรหรือเครื่องหมายที่ใช้แสดงค่าของค่าคงที่ในโปรแกรม ในภาษา Python นั้นมี Literal ของข้อมูลประเภทต่างๆ เช่น Integer Floating-point number และ String หรือแม้กระทั่งตัวอักษรและ boolean นี่เป็นตัวอย่างของการกำหนด Literal ให้กับตัวแปรในภาษา Python</p>
+
+    <pre><code class="language-python">a = 1
+    b = -1.64E3
+    c = True
+    d = "marcuscode.com"
+    e = 'A'
+    </code></pre>
+
+    <p>ในตัวอย่าง เป็นการกำหนด Literal ประเภทต่างๆ ให้กับตัวแปร ในค่าที่เป็นแบบตัวเลขนั้นสามารถกำหนดค่าลงไปโดยตรงได้ทันทีและสามารถกำหนดในรูปแบบสั้นได้อย่างในตัวแปร <code>b</code> และสำหรับ boolean นั้นจะเป็น <code>True</code> ส่วน String หรือ Character นั้นจะต้องอยู่ภายในเครื่องหมาย double quote หรือ single quote เสมอ</p>
+
+    <h2>Expressions</h2>
+
+    <p>Expression คือการทำงานร่วมกันระหว่างตัวแปร (หรือค่าคงที่) และตัวดำเนินการ โดยค่าเหล่านี้จะมีตัวดำเนินการสำหรับควบคุมการทำงาน ในภาษา Python นั้นมี Expression อยู่สองแบบ แบบแรกคือ Boolean expression เป็นการกระทำกันระหว่างตัวแปรและตัวดำเนินการเปรียบเทียบค่าหรือตัวดำเนินการตรรกศาสตร์ และจะได้ผลลัพธ์เป็น Boolean</p>
+
+    <p>และแบบที่สองคือ Expression ทางคณิตศาสตร์เป็นการกระทำกันระหว่างตัวแปรและตัวดำเนินการคณิตศาสตร์ และจะได้รับค่าใหม่เป็นตัวเลขหรือค่าที่ไม่ใช่ Boolean นี่เป็นตัวอย่างของ Expressions ในภาษา Python</p>
+
+    <pre><code class="language-python">
+    a = 4
+    b = 5
+
+    # Boolean expressions
+    print(a == 4)
+    print(a == 5)
+    print(a == 4 and b == 5)
+    print(a == 4 and b == 8)
+
+    # Non-boolean expressions
+    print(a + b)
+    print(a + 2)
+    print(a * b)
+    print(((a * a) + (b * b)) / 2)
+    print("Python " + "Language")
+    </code></pre>
+
+    <p>ในตัวอย่าง เรามีตัวแปร <code>a</code> และ <code>b</code> และกำหนดค่าให้กับตัวแปรเหล่านี้ และเราใช้ตัวแปรกับตัวดำเนินการประเภทต่างๆ ที่แสดง Expression ในรูปแบบของ Boolean expression ที่จะได้ผลลัพธ์สุดท้ายเป็นเพียงค่า True และ False เท่านั้น ส่วน Non-Boolean expression นั้นสามารถเป็นค่าใดๆ ที่ไม่ใช่ Boolean</p>
+
+    <pre class="code-result"><code class="language-result">True
+    False
+    True
+    False
+    9
+    6
+    20
+    20.5
+    Python Language
+    </code></pre>
+
+    <p>นี่เป็นผลลัพธ์การทำงานของโปรแกรมในการทำงานของ Expression ในภาษา Python</p>
+
+    <div class="my-3">
+        <!-- marcuscode - middle banner -->
+        <ins class="adsbygoogle"
+            style="display:block"
+            data-ad-client="ca-pub-9075045589988569"
+            data-ad-slot="9605104032"
+            data-ad-format="auto"
+            data-full-width-responsive="true"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    <h2>Keywords</h2>
+
+    <p>Keyword เป็นคำที่ถูกสงวนไว้ในการเขียนโปรแกรมภาษา Python เราไม่สามารถใช้คำสั่งเหล่านี้ในการตั้งชื่อตัวแปร ชื่อฟังก์ชัน คลาส หรือตัวระบุชื่อ ใดๆ ที่กำหนดขึ้นโดยโปรแกรมเมอร์ นี่เป็นรายการของ Keyword ในภาษา Python</p>
+
+    <table class="table">
+    <tr><td>False</td><td>None</td><td>True</td><td>and</td></tr>
+    <tr><td>as</td><td>assert</td><td>break</td><td>class</td></tr>
+    <tr><td>continue</td><td>def</td><td>del</td><td>elif</td></tr>
+    <tr><td>else</td><td>except</td><td>finally</td><td>for</td></tr>
+    <tr><td>from</td><td>global</td><td>if</td><td>import</td></tr>
+    <tr><td>in</td><td>is</td><td>lambda</td><td>nonlocal</td></tr>
+    <tr><td>not</td><td>or</td><td>pass</td><td>raise</td></tr>
+    <tr><td>return</td><td>try</td><td>while</td><td>with</td></tr>
+    <tr><td>yield</td></tr>
+    </table>
+
+    <p>ในบทนี้ คุณได้เรียนรู้เกี่ยวกับโครงสร้างของภาษา Python สิ่งเหล่านี้เป็นข้อกำหนดหรือกฎเกณฑ์ที่จำเป็นต้องใช้ในการเขียนโปรแกรม ซึ่งมันจะปรากฏในทุกๆ โปรแกรมที่คุณเขียน ในบทต่อไป เราจะเริ่มต้นเข้าสู่การเขียนโปรแกรมในภาษา Python</p>
+
+
+    <div class="my-3">
+        <!-- marcuscode - bottom banner -->
+        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9075045589988569" data-ad-slot="9750736781" data-ad-format="auto" data-full-width-responsive="true"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+            </article>
+environment_id: default
+environment_parameters:
+    limits:
+        hard_time: 10
+        memory: 100
+        time: 1
+    run_cmd: ''
+environment_type: docker
+evaluate: best
+file: ''
+groups: false
+input_random: '0'
+name: 3 โครงสร้างของภาษา Python
+network_grading: false
+order: '0'
+problems:
+    problem1633501200702358teacher00:
+        accept: []
+        deadline: '2021-10-06T06:00:00.641Z'
+        default: ''
+        examplecase:
+            input:
+            - '2'
+            - '3'
+            output:
+            - '2'
+            - '3'
+        fixAnswer: true
+        header: test
+        language: python
+        name: test
+        noinput: false
+        notaccept: []
+        score: 5
+        score_late: 2
+        statement: print 5
+        testcase:
+            input:
+            - '5'
+            - '6'
+            output:
+            - '5'
+            - '6'
+        type: code
+stored_submissions: 1
+submission_limit:
+    amount: -1
+    period: -1
+weight: 1.0

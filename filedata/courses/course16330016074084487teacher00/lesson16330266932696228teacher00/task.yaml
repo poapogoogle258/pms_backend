@@ -1,0 +1,138 @@
+accessible: true
+author: teacher00
+categories: []
+contact_url: ''
+context: |-
+    <article class="article-container mb-4">
+        <h1>การติดตั้งภาษา Python</h1>
+            <section>
+                <div class="text-muted cleafix mb-3">
+                    <span>5 March 2017</span>
+                                        </div>
+                </section>
+
+    <p>ก่อนที่จะเริ่มต้นการเขียนโปรแกรมด้วยภาษา Python นั้น ในบทนี้ จะเป็นการติดตั้งภาษา Python ซึ่งเป็นแพ็กเกจของภาษาเพื่อให้โค้ดของ Python สามารทำงานได้ และการติดตั้งเครื่องมือในการพัฒนาโปรแกรมซึ่งซอฟต์แวร์เหล่านี้นั้นฟรีจาก Python ต่อไปจะเป็นการติดตั้งภาษา Python ซึ่งในบทเรียนนี้เราจะติดตั้งบน Windows</p>
+
+    <h2>ดาวน์โหลดภาษา Python</h2>
+
+    <p>ในการติดตั้งภาษา Python คุณต้องไปที่หน้าดาวน์โหลดของภาษา Python เพื่อดาวน์โหลดโปรแกรมลงคอมพิวเตอร์ของคุณก่อน <a href="https://www.python.org/downloads/">หน้าดาวน์โหลด Python</a></p>
+
+    <p><img src="http://marcuscode.com/media/54/marcuscode_5KFEi0f9_1000.jpg" alt="การดาวน์โหลดและติดตั้งภาษา Python" title="Download Python" /></p>
+
+    <p>ในหน้าของการดาวน์โหลด จะปรากฏ Package ของภาษา Python สองเวอร์ชัน เราจะเลือกติดตั้งเวอร์ชันล่าสุด คือ Python 3.6.0 ซึ่งเป็นเวอร์ชันที่ได้รับการพัฒนาล่าสุดและมีคุณสมบัติใหม่เพิ่มเข้ามามากมาย</p>
+
+    <p><img src="http://marcuscode.com/media/56/marcuscode_b4vOQd3e_1000.jpg" alt="การดาวน์โหลดและติดตั้งภาษา Python" title="Download Python" /></p>
+
+    <p>หลังจากนั้นคุณจะเข้ามาในหน้าของเวอร์ชัน 3.6.0 ให้เลื่อนลงมาในส่วนของ Files คุณจะเห็นรายการของ Python package ที่รองรับ ให้เลือกแพลตฟอร์มที่คุณต้องการ ในตัวอย่างเราเลือก <em>"Windows x86 executable installer"</em> สำหรับการติดตั้งบน Windows หลังจากนั้นให้รอจนกว่าการดาวน์โหลดจะเสร็จสมบูรณ์</p>
+
+    <p><img src="http://marcuscode.com/media/57/marcuscode_DjUG5DCl_1000.jpg" alt="การดาวน์โหลดและติดตั้งภาษา Python" title="Download Python" /></p>
+
+    <div class="my-3">
+        <!-- marcuscode - middle banner -->
+        <ins class="adsbygoogle"
+            style="display:block"
+            data-ad-client="ca-pub-9075045589988569"
+            data-ad-slot="9605104032"
+            data-ad-format="auto"
+            data-full-width-responsive="true"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    <h2>การติดตั้งภาษา Python</h2>
+
+    <p>หลังจากที่คุณได้ทำการดาวน์โหลดภาษา Python เรียบร้อยแล้ว ต่อไปจะเป็นการติดตั้งภาษา Python ลงบนคอมพิวเตอร์ของคุณสำหรับการเขียนโปรแกรม ซึ่งใน Software package ที่เราได้ดาวน์โหลดมาจะประกอบไปด้วยภาษา Python และคุณสมบัติเพิ่มเติมอย่าง Python Interactive shell Documentation Pip และ Python test suit</p>
+
+    <p>ต่อไปเป็นขั้นตอนการติดตั้งภาษา Python ใน Windows ให้ไปที่สถานที่ที่คุณดาวน์โหลดภาษา Python ไว้และคลิกที่ไฟล์ <em>"python-3.6.0.exe"</em> และคลิกที่ <em>"Run"</em></p>
+
+    <p><img src="http://marcuscode.com/media/58/marcuscode_ypPESokW_1000.jpg" alt="การติดตั้งภาษา Python บน Windows" title="Install Python on Windows" /></p>
+
+    <p>หลังจากนั้นหน้าต่างของการติดตั้งจะปรากฏขึ้นมา คลิกเลือกที่ <em>"Add Python 3.6 to PATH"</em> เพื่อให้ระบบทำการกำหนด PATH เพื่อให้ภาษา Python สามารถทำงานได้กับ Command line อัตโนมัติในทุกที่ คลิกที่ <em>"Install now "</em> เพื่อเริ่มการติดตั้งภาษา Python คุณอาจจะเปลี่ยนแปลงตัวเลือกสำหรับการติดตั้งด้วยตัวเองโดยเลือกที่ <em>"Customize install"</em> เช่น เปลี่ยนสถานที่ที่ต้องการติดตั้ง เป็นต้น</p>
+
+    <p><img src="http://marcuscode.com/media/60/marcuscode_j7JhNj0I_1000.jpg" alt="การติดตั้งภาษา Python บน Windows" title="Install Python on Windows" /></p>
+
+    <p>รอจนกว่าการติดตั้งจะเสร็จ หลังจากที่การติดตั้งเสร็จสิ้นแล้ว คลิก <em>"Close"</em> เพื่อเสร็จสิ้นการติดตั้งภาษา Python</p>
+
+    <p><img src="http://marcuscode.com/media/61/marcuscode_RytPIYOm_1000.jpg" alt="การติดตั้งภาษา Python บน Windows" title="Install Python on Windows" /></p>
+
+    <p>ในตอนนี้ เราได้ติดตั้งภาษา Python เรียบร้อยแล้วและคุณพร้อมที่จะเขียนโปรแกรมในภาษา Python ต่อไปเราจะทำการตรวจสอบการติดตั้ง โดยให้คุณเปิด Command line ขึ้นมา และพิมพ์คำสั่ง <em>"python"</em> ซึ่งจะได้ผลลัพธ์ดังนี้ ซึ่งถือว่าการติดตั้งเสร็จสมบูรณ์ และจะเป็นการเข้าสู่ Interactive shell ของภาษา Python ที่คุณสามารถพิมพ์คำสั่งต่างๆ และดูผลลัพธ์การทำงานได้ทันที</p>
+
+    <p><img src="http://marcuscode.com/media/62/marcuscode_EKnLcmLg_1000.jpg" alt="การติดตั้งภาษา Python บน Windows" title="Install Python on Windows" /></p>
+
+    <p>หรือคุณสามารถเข้าถึง Interactive shell ของภาษา Python ได้ใน Start menu shortcut ของ Windows ซึ่งจะมี Shell ที่เป็นทั้งแบบ Command line และ IDLE ซึ่งเป็น Text editor สำหรับการเขียนโปรแกรมในภาษา Python</p>
+
+    <p><img src="http://marcuscode.com/media/63/marcuscode_UUJru8RL_1000.jpg" alt="การติดตั้งภาษา Python บน Windows" title="Install Python on Windows" /></p>
+
+    <h2>การรันโปรแกรมภาษา Python</h2>
+
+    <p>ในการรันโปรแกรมที่เขียนในภาษา Python นั้นไฟล์จะต้องถูกบันทึกในนามสกุล <em>.py</em> เพื่อรันโปรแกรมในภาษา Python เปิด Command line และใช้คำสั่ง python และตามด้วยที่อยู่ของไฟล์ดังตัวอย่างข้างล่างนี้</p>
+
+    <pre><code class="language-python">python c:\path\file_name.py
+    </code></pre>
+
+    <div class="my-3">
+        <!-- marcuscode - middle banner -->
+        <ins class="adsbygoogle"
+            style="display:block"
+            data-ad-client="ca-pub-9075045589988569"
+            data-ad-slot="9605104032"
+            data-ad-format="auto"
+            data-full-width-responsive="true"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    <h2>Python IDLE</h2>
+
+    <p>IDLE เป็นชุดเครื่องมือที่ติดตั้งพร้อมใช้สำหรับภาษา Python ที่มากับ Software package ของภาษาที่เราได้ติดตั้งไปก่อนหน้า IDLE นั้นเป็นทั้ง Text editor และ Debugger ในเวลาเดียวกัน ซึ่งอำนวยความสะดวกในการเขียนโปรแกรมในภาษา Python เป็นอย่างมาก</p>
+
+    <p><img src="http://marcuscode.com/media/64/marcuscode_pjK76Ynx_1000.jpg" alt="การใช้งาน Python shell" title="Python interactive shell" /></p>
+
+    <p>จากรูปด้านบนเป็นหน้าของ Python shell ที่ให้เราสามารถพิมพ์คำสั่งสั้นๆ เพื่อดูผลลัพธ์การทำงานได้ทันทีหลังจากกดปุ่ม Enter มันใช้สำหรับการทดสอบและ Debug โปรแกรมสั้นๆ และเราได้ใช้สำหรับ print สำหรับแสดงข้อความว่า <code>"marcuscode"</code></p>
+
+    <h2>System environment configurations</h2>
+
+    <p>เมื่อเราได้ทำการติดตั้งภาษา Python เรียบร้อยแล้ว ในการที่จะรันโปรแกรมของ Python จาก Command line ได้ทุกที่นั้นเราจำเป็นต้องกำหนด Path เพื่อเชื่อมโยงให้ระบบปฏิบัติการสามารถที่จะเข้าใจคำสั่งของภาษา Python ได้ แต่สำหรับในบทเรียนของเรานั้นได้ใช้ Python เวอร์ชันใหม่ล่าสุด คุณสามารถข้ามส่วนนี้ไปได้ เพราะโปรแกรมจะทำการตั้งค่าให้อัตโนมัติในตอนที่เราได้ติดตั้ง</p>
+
+    <p>ถ้าหากคุณยังไม่ได้ทำขั้นตอนนี้ สำหรับการกำหนด Path ใน Windows ให้คลิกขวาที่ <em>My Computer</em> เลือก <em>Property</em> และ <em>Advanced system settings</em> ในหน้าของ Advanced tab คลิกที่ปุ่ม <em>Environment variables...</em></p>
+
+    <p><img src="http://marcuscode.com/media/66/marcuscode_8Fmy8VO8_1000.jpg" alt="การกำหนด Path ใน Environment variables สำหรับภาษา Python" title="Python path configuration" /></p>
+
+    <p>ในส่วนของ User variable นั้นให้คุณสร้างตัวแปรที่ชื่อว่า <em>Path</em> และใส่ Value เป็นที่อยู่ของโปรแกรม Execute ของภาษา Python อยู่ ในตัวอย่างของเราจะได้เป็น <em>C:\Python\Python36-32\Scripts\;C:\Python\Python36-32\;</em> และถ้าหากตัวแปรนี้มีอยู่แล้ว ให้คุณแก้ไขตัวแปรเดิมและเพิ่มต่อท้ายเข้าไปโดยคั่นด้วยเครื่องหมายเซมิโคลอน (<code>;</code>)</p>
+
+    <p><img src="http://marcuscode.com/media/67/marcuscode_i1cT1n49_1000.jpg" alt="การกำหนด Path ใน Environment variables สำหรับภาษา Python" title="Python path configuration" /></p>
+
+    <p>ในตอนนี้ คุณสามารถใช้คำสั่งเพื่อรันโปรแกรมภาษา Python ได้จากที่ใดๆ ของคอมพิวเตอร์</p>
+
+    <p>ในบทนี้ เราได้เสร็จสิ้นการติดตั้งภาษา Python สำหรับการเขียนโปรแกรม ตั้งแต่การดาวน์โหลดจากเว็บไซต์ การติดตั้ง การรันไฟล์โปรแกรมของภาษา Python และการใช้งาน Python shell ในเบื้องต้น ในบทต่อไป คุณจะได้เรียนรู้เกี่ยวกับโครงสร้างของภาษา Python เพื่อทำความเข้าใจเกี่ยวกับรูปแบบและไวยากรณ์ของภาษาก่อนที่จะเริ่มเขียนโปรแกรม</p>
+
+
+    <div class="my-3">
+        <!-- marcuscode - bottom banner -->
+        <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-9075045589988569" data-ad-slot="9750736781" data-ad-format="auto" data-full-width-responsive="true"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+            </article>
+environment_id: default
+environment_parameters:
+    limits:
+        hard_time: 10
+        memory: 100
+        time: 1
+    run_cmd: ''
+environment_type: docker
+evaluate: best
+file: ''
+groups: false
+input_random: '0'
+name: 2 การติดตั้งภาษา Python
+network_grading: false
+order: '0'
+problems: {}
+stored_submissions: 1
+submission_limit:
+    amount: -1
+    period: -1
+weight: 1.0

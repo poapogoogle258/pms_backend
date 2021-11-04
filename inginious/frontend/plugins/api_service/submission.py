@@ -42,7 +42,8 @@ class service_submission(APIAuthenticatedPage):
             username = self.user_manager.session_username()
             member = [username]
         else:
-            member = self.user_manager.get_course_registered_users(course)
+            member = self.user_manager.get_course_registered_users(course,with_admins=False)
+
 
 
         for task_id in tasksid:
@@ -63,7 +64,7 @@ class service_submission(APIAuthenticatedPage):
                     if cache != None:
                         if cache['submissionid']!= None:
                             submission = self.database.submissions.find({'_id':cache['submissionid']})
-                            submission = list(submission) if not submission is None else []
+                            submission = list(submission) if submission is not None else []
                             input_user = bson.BSON.decode(self.submission_manager.get_gridfs().get(submission[0]["input"]).read()) if len(submission) > 0 else None
                         else:
                             submission = None
@@ -84,7 +85,7 @@ class service_submission(APIAuthenticatedPage):
                             'extrapoint':cache.get('extrapoint',0),
                             'code' : input_user.get('student_code',"") if submission is not None else None,
                             'memory': submission[0].get('memory',None) if submission is not None else None,
-                            'timed': submission[0].get('runtime',None) if submission is not None else None,
+                            'timed': submission[0].get('runtime',None) if submission is not None else None, 
                         }
 
                         res[task_id]['problems'][problem_id][username] = student_submisstion

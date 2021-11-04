@@ -1,0 +1,28 @@
+accessible: true
+author: superadmin
+categories: []
+contact_url: ''
+context: <iframe width="1280" height="720" src="https://www.youtube.com/embed/XC8mkMjRt0A"
+    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+    encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+environment_id: default
+environment_parameters:
+    limits:
+        hard_time: 20
+        memory: 120
+        time: 1
+    run_cmd: ''
+environment_type: docker
+evaluate: best
+file: ''
+groups: false
+input_random: '0'
+name: test vdo
+network_grading: false
+order: '0'
+problems: {}
+stored_submissions: 0
+submission_limit:
+    amount: -1
+    period: -1
+weight: 1.0

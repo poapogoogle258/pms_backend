@@ -13,6 +13,7 @@ class service_courses_member(APIAuthenticatedPage):
             res[member] = {
                 'realname':self.user_manager.get_user_realname(member),
                 'email':self.user_manager.get_user_email(member),
+                'isAdmin': self.user_manager.has_admin_rights_on_course(course,member)
             }
 
         return res, 200

@@ -1,0 +1,6 @@
+accessible: true
+admins:
+- teacher00
+description: วิชาการเขียนโปรแกรมเบื้องต้นสำหรับนักเรียน รหัสวิชา aaa001
+name: วิชาการเขียนโปรแกรมเบื้องต้น 001
+registration_password: joinme001
