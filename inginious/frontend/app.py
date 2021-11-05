@@ -161,7 +161,10 @@ def get_app(config):
         unique=True
     )
     
-    database.user_tasks.drop_index('username_1_courseid_1_taskid_1')
+    try:
+        database.user_tasks.drop_index('username_1_courseid_1_taskid_1')
+    except:
+        pass
 
     # database.user_tasks.remove({})
     # database.submissions.remove({})
