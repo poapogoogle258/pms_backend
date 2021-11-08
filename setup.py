@@ -30,7 +30,10 @@ install_requires = [
     "Flask-Mail >= 0.9.1",
     "importlib_metadata >= 3.7.0",
     'dataclasses >= 0.8; python_version < "3.7.0"',
-    "pytidylib>=0.2.4"
+    "pytidylib>=0.2.4",
+    "flask_cors >=3.0.10",
+    "fuzzywuzzy >=0.18.0",
+    "python-Levenshtein >= 0.12.2"
 ]
 
 test_requires = [
