@@ -20,6 +20,11 @@ requirement :
 3. python3 setup.py install
 4. docker load -i [dockerfile.tar](https://drive.google.com/file/d/1OD7nJAjXpKkKwi1Xdcrv51x_ax1X42rp/view?usp=sharing)
 5. แตกไฟล์ [node_module](https://drive.google.com/file/d/1XdcYBJeQwf-01AYaSGm81bV7zCFeJLpM/view?usp=sharing) มาไว้ใน programming_management_system_PMS/fron_end
-6. cd filedata
-7. inginious-webapp
-8. cd .. && cd front_end && npm start
+
+
+วิธีเปิดโปรแกรม
+
+1. cd programming_management_system_PMS
+2. cd filedata
+3. inginious-webapp
+4. cd .. && cd front_end && npm start
