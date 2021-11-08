@@ -27,4 +27,4 @@ requirement :
 1. cd programming_management_system_PMS
 2. cd filedata
 3. inginious-webapp
-4. cd .. && cd front_end && npm start
+4. New Terminal to start react server ( "npm start" in ./front_end)
