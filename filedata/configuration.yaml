@@ -1,0 +1,15 @@
+backend: local
+backup_directory: ./backup
+mongo_opt:
+    database: INGInious
+    host: localhost
+plugins: [{"plugin_module": "inginious.frontend.plugins.api_service"},{"plugin_module":"inginious.frontend.plugins.simple_compiler"}]
+session_parameters:
+    ignore_change_ip: false
+    secret_key: 6fb1c8478ec293594fbb0c5e783328e587d2ae8d0caf0939465a19424390d2ba
+    secure: false
+    timeout: 86400
+superadmins:
+- superadmin
+tasks_directory: ./courses
+use_minified_js: false
